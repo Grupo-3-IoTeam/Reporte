@@ -64,6 +64,7 @@ Segmento Proveedores
 1. ¿Están explorando o implementando tecnologías de IoT en sus soluciones de riego? Si es así, ¿cómo han respondido sus clientes?
 1. ¿Qué mejoras o innovaciones creen que podrían ofrecer para diferenciarse de la competencia en el mercado de sistemas de riego?
 ### 2.2.2. Registro de entrevistas
+#### Proveedor de agua
 Nombres y Apellidos: Isabel Valle
 
 Edad: 65
@@ -78,6 +79,29 @@ URL:<https://youtu.be/0wucwk8gFIA>  
 
 Resumen:
 Isabel, de 65 años, es proveedor de agua para sistemas de riego y enfrenta desafíos durante la temporada de sequía debido a la alta demanda y la escasez de recursos. Ofrece sistemas de riego por gravedad, aspersión y goteo, pero ha notado un creciente interés de los productores en modernizar sus métodos para mejorar la eficiencia del agua. Luis menciona la necesidad de una mejor infraestructura y de adoptar tecnologías como IoT y sensores de humedad, aunque la adopción es baja debido al desconocimiento. Sus clientes reclaman por la eficiencia de los sistemas y por la falta de suministro constante. Luis recomienda riego por goteo y está interesado en soluciones que optimicen el uso del agua y mejoren el riego en las comunidades agrícolas.
+
+Nombres y Apellidos: Ernesto Condori Aroni
+Edad: 49
+Distrito: Tactabamba
+URL: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c144_upc_edu_pe/Ec5UiqDYfMxPv-19dW2HhIQB2ngtIpKj69RlyChaX5oajg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WxFolP>
+Resumen: 
+Ernesto, de 49 años, es productor agrícola y miembro del comité de riego por gravedad de su comunidad. Enfrenta problemas debido a la alta demanda de agua durante la temporada de sequía, cuando la escasez es más crítica. Los comuneros compran agua por horas para regar sus forrajes, y el comité vende agua semanalmente, enfocándose en uno o dos sectores a la vez. Después de la venta de agua, Ernesto observa varios problemas: algunos usuarios no riegan a tiempo, otros exceden el tiempo asignado, y el agua se desperdicia debido a un riego inadecuado. También ocurre desperdicio cuando un regante compra agua en una parcela lejana a la anterior, ya que el transporte y la habilitación de los canales contribuyen a la pérdida de tiempo y agua. Los principales reclamos de los usuarios incluyen falta de tiempo suficiente, cantidad de agua insuficiente, o el uso inadecuado del agua, que provoca desperdicio. Para el riego, se habilitan válvulas para cada tipo de riego, tanto por aspersión como por gravedad, después de recoger el agua en el reservorio. Los aspersores son proporcionados por los usuarios, y el servicio comunitario se basa en la implementación de hidrantes. Ernesto recomienda que la mayoría de los usuarios adopten el riego por aspersión, ya que gestiona mejor el agua. Actualmente, no se utiliza tecnología moderna para monitorear y controlar la actividad de riego. Sin embargo, está muy interesado en alguna herramienta que le permita mejorar la prestación de este servicio y optimizar el modo de riego de su comunidad.
+
+#### Productor agricola
+Nombres y Apellidos: Norma Puma Mamani
+Edad: 46
+Distrito: Acopia
+URL: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c144_upc_edu_pe/EeYnbi3sqP5KrMwAL1kKzlkBaRIhkuChKE7PVIW15Gdv9w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vqrxfk>
+
+Resumen: Norma, una productora agrícola de 46 años del distrito de Acopia en Cusco, se especializa en la producción de forrajes para alimentar a sus animales, incluyendo vacunos, ovinos y cuyes. Uno de los principales desafíos que enfrenta es el riego durante la época de sequía, que va de junio a octubre. Durante esta temporada, el riego se realiza de 1 a 2 veces al mes, dependiendo de la disponibilidad de recursos en su comunidad y cómo se organizan. La variabilidad climática, especialmente las heladas, puede dañar gravemente los forrajes al quemarlos, y esto puede destruir una parcela completa. Aunque sigue regando para mantener las raíces vivas hasta la llegada de la lluvia, las heladas a menudo anulan los beneficios del riego. Ella produce tres tipos de forraje: alfalfa, raigrás y cebada. De estos, la cebada es la más resistente a las heladas. Utiliza principalmente riego por gravedad o inundación y, en menor medida, riego por aspersión. Para el riego por aspersión, ella misma proporciona los aspersores. Ha observado que el sistema de riego actual resulta en grandes pérdidas de agua debido a tiempos de riego excesivos. Por ello, considera que incrementar el número de hidrantes y promover el uso de riego por aspersión podría ser una solución efectiva. Actualmente, no utiliza herramientas tecnológicas para monitorear la humedad del suelo. Menciona que está interesada en una herramienta tecnológica que le indique cuándo regar, especialmente para la cebada, para evitar problemas de sobreirrigación que también pueden dañar la producción. Ella estaría dispuesta a pagar un costo adicional inicial por una solución que permita monitorear la humedad del suelo y automatizar el riego, ya que esto le ahorraría tiempo y mejoraría la gestión de sus forrajes.
+ 
+Nombres y Apellidos: Bacilio Choque Ccasa
+Edad: 53
+Distrito: Acopia
+URL: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c144_upc_edu_pe/EeYnbi3sqP5KrMwAL1kKzlkBaRIhkuChKE7PVIW15Gdv9w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tqXlcg>
+
+Resumen: Bacilio, de 53 años y originario del distrito de Acopia en Cusco, es productor de forrajes para la alimentación de cuyes. Enfrenta desafíos significativos durante la época de sequía, que va de junio a octubre, debido a la escasez de agua para el riego de sus parcelas. Durante esta temporada, el riego se realiza semanal o quincenalmente, dependiendo del tipo de suelo. La helada también afecta gravemente, dañando o incluso matando las plantas. Para mitigar estos problemas, utiliza riego por aspersión y por gravedad, ajustando la frecuencia de riego según la observación. Sin embargo, el costo del riego no siempre se justifica por el rendimiento de los forrajes. A pesar de estos desafíos, el forraje de cebada muestra una mayor resistencia a las duras condiciones. Considera que sería muy útil contar con una herramienta para monitorear el nivel de humedad del suelo y automatizar el riego por aspersión, lo que podría ahorrar tiempo y costos. Además, le interesa tener una herramienta que le recomiende medidas para contrarrestar los efectos de la helada en los forrajes. Está dispuesto a asumir un costo adicional inicial para implementar estas soluciones.
+
 ### 2.2.3. Análisis de entrevistas
 **Productores Agrícolas**
 
