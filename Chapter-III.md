@@ -1,5 +1,15 @@
 # **CAPÍTULO III: REQUIREMENTS SPECIFICATION**
 ## 3.1. To-Be Scenario Mapping
+Productores Agrícolas
+![...](/assets3/1.png)
+
+Proveedores de Servicios de Agua
+![...](/assets3/2.png)
+
+
+
+
+
 ## 3.2. User Stories
 |**Epica ID**|**Descripción**|
 | :- | :- |
