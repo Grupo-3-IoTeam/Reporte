@@ -57,45 +57,23 @@ El impacto económico de la problemática es significativo. Los Productores Agr�
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 Los productores agrícolas enfrentan dificultades significativas para gestionar el riego de forrajes en épocas de escasez de agua o sequía. Esta falta de control y planificación precisa resulta en una disminución de la calidad de los forrajes y genera pérdidas económicas considerables debido a la necesidad de renovaciones frecuentes.
-#### 1.2.2.2. Lean UX Assumptions
+#### 1.2.2.2. Lean UX Assumptions 
+
 1. **Business Assumption**   
-
 Se implementará un sistema de monetización que incluirá planes de suscripción, diferenciados en las categorías básica y premium, además de costos asociados a los artefactos IoT y su instalación. Estos planes permitirán a los usuarios acceder a todas las funcionalidades avanzadas de la aplicación, incluyendo el control automatizado y optimizado del riego de forrajes, junto con otros beneficios específicos. 
-
-  
-
 2. **Business Outcome Assumption**   
-
 Se prevé que la implementación de la aplicación web y móvil "Thirsty Seed" incremente la retención de clientes en un 20% durante el primer año, y genere ingresos adicionales al captar al menos el 15% del mercado de productores agrícolas en la región durante los primeros dos años. Además, se proyecta que los planes de suscripción básica y premium representen el 75% de los ingresos recurrentes, estableciendo una base financiera sólida para la expansión futura del negocio. 
-
-  
-
 3. **User Assumption**   
-
 Se asume que los usuarios objetivos, como los productores agrícolas y proveedores de sistemas de riego, buscarán soluciones tecnológicas que optimicen el uso de agua y el tiempo invertido en el riego de forrajes. Se cree que estarán dispuestos a adoptar una solución que ofrezca monitoreo en tiempo real y control automatizado del riego, siempre que esta sea intuitiva y de fácil integración con los sistemas actuales de sus operaciones. 
 
   
 
 **User Outcome Assumption** 
 
-  
-
 -   **Monitoreo de humedad en tiempo real:** Se espera que el uso del sistema de monitoreo de humedad en tiempo real de "Thirsty Seed" mejore significativamente la precisión del riego, lo que resultará en una reducción del desperdicio de agua y una disminución de los costos operativos en un 20% durante el primer año. Además, la optimización en el uso del agua contribuirá a un crecimiento más robusto de los cultivos, incrementando la calidad del forraje producido en un 10%. 
-
-     
-
 -   **Notificaciones automáticas:** Con la funcionalidad de notificaciones automáticas para iniciar el riego, se prevé una programación de riego más eficiente y consistente, minimizando errores humanos y liberando tiempo al usuario. Esto debería reducir los costos operativos relacionados con el riego en un 15% durante el primer año, mejorando la calidad del forraje en un 12%. 
-
-     
-
 -   **Reportes detallados de parcelas:** Con el uso de reportes detallados sobre el estado de cada parcela, los usuarios podrán tomar decisiones informadas y precisas sobre el riego, mejorando la eficiencia operativa y reduciendo los costos en un 18% durante el primer año. Además, la capacidad de ajustar las estrategias de riego con base en información consolidada debería incrementar la calidad del forraje en un 14%. 
-
-     
-
 -   **Modalidades de riego parcial y completo:** Al permitir a los usuarios elegir entre modalidades de riego parcial y completo, se proyecta una mayor flexibilidad en la gestión del riego, lo que podría llevar a una reducción de costos operativos del 22% en el primer año. La automatización completa permitirá a los usuarios enfocarse en otras áreas críticas de su operación, mientras que la modalidad parcial proporcionará un control preciso, mejorando la calidad del forraje en un 13%. 
-
-     
-
 -   **Reportes mensuales de irrigación:** Al analizar los reportes mensuales generados sobre las actividades de irrigación, los usuarios podrán evaluar el rendimiento del sistema y realizar ajustes que optimicen el uso del agua, reduciendo los costos operativos en un 20% durante el primer año. Además, esta información facilitará una planificación más efectiva para futuras temporadas, lo que aumentará la calidad del forraje en un 11%. 
 
      
@@ -103,175 +81,96 @@ Se asume que los usuarios objetivos, como los productores agrícolas y proveedor
   
 
 **Feature Assumption** 
-
-  
-
 -   **Monitoreo de humedad en tiempo real:** La aplicación "Thirsty Seed" integrará un sistema de monitoreo en tiempo real que utiliza sensores IoT para recopilar datos sobre los niveles de humedad del suelo, proporcionando esta información a los usuarios a través de una interfaz intuitiva. 
-
-     
-
 -   **Notificaciones automáticas:** La aplicación enviará notificaciones automáticas cuando los niveles de humedad indiquen la necesidad de iniciar el riego, basándose en datos de monitoreo en tiempo real y otros parámetros ambientales relevantes. 
-
-     
-
 -   **Reportes detallados por parcela:** Se proporcionarán reportes detallados sobre el estado actual de cada parcela, abarcando niveles de humedad, condiciones del suelo y requerimientos de riego, facilitando una gestión más precisa. 
-
-     
-
 -   **Modalidades de riego parcial y completo:** La aplicación permitirá a los usuarios seleccionar entre riego parcial (con mayor control manual) y riego completo (totalmente automatizado), para ajustar el sistema a sus necesidades operativas. 
-
-     
-
 -   **Reportes mensuales de irrigación:** La aplicación generará un reporte mensual con detalles sobre las actividades de irrigación, incluyendo la cantidad de agua utilizada, tiempos de riego y métricas de eficiencia operativa. 
 
  
-#### 1.2.2.3. Lean UX Hypothesis Statements
+
+#### 1.2.2.3. Lean UX Hypothesis Statements 
+
 **Business Hypothesis** 
-
 -------------------------- 
-
 **Creemos que** implementar un sistema de monetización con planes de suscripción básica y premium, además de costos asociados con los artefactos y su instalación   
-
 **Para** Productores Agrícolas y proveedores de riego   
-
 **Logrará** una generación sostenida de ingresos que permitirá financiar el desarrollo continuo y la expansión del producto   
-
 **Sabremos que esto es cierto** cuando veamos un incremento en la adopción de los planes premium y una contribución del 75% de los ingresos recurrentes provenientes de las suscripciones en el primer año. 
 
-  
-
 **Business Outcome Hypothesis** 
-
 -------------------------- 
 
 **Creemos que** la implementación de la aplicación web y móvil de 'Thirsty Seed'   
-
 **Para** Productores Agrícolas que necesitan soluciones de riego eficientes y proveedores de riego que buscan integrar tecnologías avanzadas   
-
 **Logrará** un aumento en la retención de clientes y la captación de un 15% del mercado regional en los primeros dos años   
-
 **Sabremos que esto es cierto** cuando veamos un aumento del 20% en la retención de clientes y un crecimiento sostenido en la base de usuarios durante el primer año. 
 
-  
-
 **User Hypothesis** 
-
 -------------------------- 
 
 **Creemos que** nuestros usuarios objetivo, los productores agrícolas y proveedores de riego   
-
 **Para** buscar tecnologías que optimicen el uso del agua y el tiempo dedicado al riego de forrajes   
-
 **Logrará** una adopción significativa de 'Thirsty Seed' si el producto es fácil de usar y se integra con sus sistemas actuales   
-
 **Sabremos que esto es cierto** cuando veamos una alta tasa de adopción en el primer año y retroalimentación positiva relacionada con la facilidad de uso e integración. 
 
-  
-
 **User Outcome Hypothesis** 
-
 -------------------------- 
-
 **Creemos que** al implementar la función de monitoreo de humedad en tiempo real en "Thirsty Seed",   
-
 **Para** productores agrícolas que desean mejorar la precisión del riego,   
-
 **Logrará** una reducción del desperdicio de agua y una disminución de los costos operativos en un 20% durante el primer año,   
-
 **Sabremos que esto es cierto** cuando veamos que los usuarios reporten una reducción en el uso de agua y en los costos asociados al riego, así como una mejora en la calidad del forraje. 
 
-  
-
 **Creemos que** al implementar notificaciones automáticas para iniciar el riego,   
-
 **Para** productores agrícolas que buscan una programación de riego más consistente y eficiente,   
-
 **Logrará** reducir los errores humanos y liberar tiempo para los usuarios, disminuyendo los costos operativos en un 15% durante el primer año,   
-
 **Sabremos que esto es cierto** cuando veamos que los usuarios reportan menos errores en la programación del riego y una mejora en la eficiencia, reflejada en la reducción de costos. 
 
-  
-
 **Creemos que** al ofrecer reportes detallados sobre el estado de cada parcela,   
-
 **Para** productores agrícolas que desean tomar decisiones más informadas sobre el riego,   
-
 **Logrará** una mejora en la eficiencia operativa y una reducción de costos en un 18% durante el primer año,   
-
 **Sabremos que esto es cierto** cuando veamos que los usuarios ajustan su estrategia de riego con base en los reportes y experimentan una reducción de costos y una mejora en la calidad del forraje. 
 
-  
-
 **Creemos que** al permitir la elección entre modalidades de riego parcial y completo,   
-
 **Para** productores agrícolas que necesitan flexibilidad en la gestión del riego,   
-
 **Logrará** una mayor flexibilidad, una reducción de los costos operativos en un 22% durante el primer año, y una mejora en la calidad del forraje en un 13%,   
-
 **Sabremos que esto es cierto** cuando veamos que los usuarios adoptan las modalidades de riego y reportan mejoras en eficiencia y calidad del forraje. 
 
-  
 
 **Creemos que** al ofrecer reportes mensuales sobre las actividades de irrigación,   
-
 **Para** productores agrícolas que desean evaluar y optimizar el uso del agua,   
-
 **Logrará** una optimización en el uso del agua y una reducción de costos operativos en un 20% durante el primer año,   
-
 **Sabremos que esto es cierto** cuando veamos que los usuarios utilizan los reportes para ajustar su estrategia de riego, resultando en una mejora en la planificación y en la calidad del forraje. 
 
   
 
 **Feature Hypothesis** 
-
 -------------------------- 
 
 **Creemos que** al incluir un sistema de monitoreo de humedad en tiempo real para los cultivos en "Thirsty Seed",   
-
 **Para** productores agrícolas que buscan una precisión mejorada en la gestión del riego,   
-
 **Logrará** proporcionarles datos precisos y en tiempo real sobre los niveles de humedad del suelo,   
-
 **Sabremos que esto es cierto** cuando veamos que los usuarios utilizan regularmente la función de monitoreo y reportan una mejora en la eficiencia del uso del agua. 
 
-  
-
 **Creemos que** al enviar notificaciones automáticas cuando sea necesario comenzar el proceso de riego,   
-
 **Para** productores agrícolas que buscan automatizar y optimizar el tiempo de riego,   
-
 **Logrará** que los usuarios inicien el riego de manera más eficiente, reduciendo el desperdicio de agua y los errores humanos,   
-
 **Sabremos que esto es cierto** cuando veamos que los usuarios responden rápidamente a las notificaciones y reportan una reducción en los errores de riego. 
 
-  
-
 **Creemos que** al ofrecer reportes detallados sobre el estado actual de cada parcela,   
-
 **Para** productores agrícolas que necesitan información completa y precisa para tomar decisiones de riego,   
-
 **Logrará** que los usuarios tomen decisiones más informadas y ajusten sus estrategias de riego en consecuencia,   
-
 **Sabremos que esto es cierto** cuando veamos que los usuarios consultan los reportes regularmente y reportan mejoras en la gestión del riego. 
 
-  
-
 **Creemos que** al permitir que los usuarios seleccionen entre modalidades de riego parcial y completo,   
-
 **Para** productores agrícolas que desean flexibilidad en la gestión del riego,   
-
 **Logrará** que los usuarios ajusten el nivel de automatización según sus necesidades específicas, mejorando la eficiencia y reduciendo costos,   
-
 **Sabremos que esto es cierto** cuando veamos que los usuarios utilizan ambas modalidades y reportan una mejora en la eficiencia operativa. 
 
-  
 
 **Creemos que** al generar un reporte mensual sobre las actividades de irrigación,   
-
 **Para** productores agrícolas que desean evaluar el rendimiento del riego y planificar mejoras,   
-
 **Logrará** que los usuarios optimicen el uso del agua y ajusten sus estrategias de riego basándose en datos históricos,   
-
 **Sabremos que esto es cierto** cuando veamos que los usuarios revisan los reportes mensuales y reportan una mejora en la planificación y la eficiencia del riego. 
 #### 1.2.2.4. Lean UX Canvas
 
