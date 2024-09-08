@@ -8,11 +8,6 @@
 
 ![...](/assets3/2.png)
 
-
-
-
-
-
 ## 3.2. User Stories
 |**Epica ID**|**Descripción**|
 | :- | :- |
@@ -37,6 +32,15 @@
 |US011|Historial de Riego|Como productor agrícola, quiero acceder a un histórico detallado de las actividades de riego, para analizar patrones y mejorar la planificación futura.|<p>- **Dado** que el usuario accede a la sección de historial, **cuando** selecciona un periodo de tiempo, **entonces** se muestra un reporte detallado de todas las actividades de riego en ese periodo.</p><p></p><p>-  **Dado** que el usuario accede a la sección de historial, **cuando** selecciona un periodo de tiempo y no hay datos disponibles, **entonces** la aplicación debe notificar que no se encontraron registros y sugerir verificar otro periodo.</p>|EP002|
 
 ## 3.3. Impact Mapping
+
+- Productores Agrícolas
+
+![...](/assets3/1.1.png)
+
+- Provedores de Servicios de Agua
+
+![...](/assets3/2.2.png)
+
 ## 3.4. Product Backlog
 |# |User Story Id |Título |Descripción|Story Points (1 / 2 / 3 / 5 / 8)|
 | :- | :- | :- | :- | :- |
