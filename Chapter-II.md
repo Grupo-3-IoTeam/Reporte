@@ -51,28 +51,79 @@ Como parte del equipo de Thirsty Seed, hemos desarrollado una serie de estrategi
 | 11. ¿Qué tipo de forrajes produce? | | 
 
 ### 2.2.2. Registro de entrevistas
-Nombres y Apellidos: Isabel Valle
+|***Entrevista - Segmento Productores Agrícolas***|***1***|
+|---------|----------|
+|Nombre completo|Norma Puma Mamani|
+|Edad|46 años|
+|Distrito|Acopia|
+|Screenshot de video|<img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.005.png" alt="Usuario" style="width:100%;">|
+|URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c144_upc_edu_pe/Ea2xJKlb2aFIoLsfuCf_e0UBrpp8mk1lr5II-YbDrcO7vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bWyNeE)|
+|Entrevista entre los minutos|00:00 - 10:32|
+|Resumen de la entrevista|Norma, una productora agrícola de 46 años del distrito de Acopia en Cusco, se especializa en la producción de forrajes para alimentar a sus animales, incluyendo vacunos, ovinos y cuyes. Uno de los principales desafíos que enfrenta es el riego durante la época de sequía, que va de junio a octubre. Durante esta temporada, el riego se realiza de 1 a 2 veces al mes, dependiendo de la disponibilidad de recursos en su comunidad y cómo se organizan. La variabilidad climática, especialmente las heladas, puede dañar gravemente los forrajes al quemarlos, y esto puede destruir una parcela completa. Aunque sigue regando para mantener las raíces vivas hasta la llegada de la lluvia, las heladas a menudo anulan los beneficios del riego. Ella produce tres tipos de forraje: alfalfa, raigrás y cebada. De estos, la cebada es la más resistente a las heladas. Utiliza principalmente riego por gravedad o inundación y, en menor medida, riego por aspersión. Para el riego por aspersión, ella misma proporciona los aspersores. Ha observado que el sistema de riego actual resulta en grandes pérdidas de agua debido a tiempos de riego excesivos. Por ello, considera que incrementar el número de hidrantes y promover el uso de riego por aspersión podría ser una solución efectiva. Actualmente, no utiliza herramientas tecnológicas para monitorear la humedad del suelo. Menciona que está interesada en una herramienta tecnológica que le indique cuándo regar, especialmente para la cebada, para evitar problemas de sobreirrigación que también pueden dañar la producción. Ella estaría dispuesta a pagar un costo adicional inicial por una solución que permita monitorear la humedad del suelo y automatizar el riego, ya que esto le ahorraría tiempo y mejoraría la gestión de sus forrajes.|
 
-Edad: 65
+<img src="assets2/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
 
-Distrito: Arequipa
 
-Captura: 
+|***Entrevista - Segmento Productores Agrícolas***|***2***|
+|---------|----------|
+|Nombre completo|Bacilio Choque Ccasa|
+|Edad|53 años|
+|Distrito|Acopia|
+|Screenshot de video|<img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.006.png" alt="Usuario" style="width:100%;">|
+|URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c144_upc_edu_pe/Ea2xJKlb2aFIoLsfuCf_e0UBrpp8mk1lr5II-YbDrcO7vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bWyNeE)|
+|Entrevista entre los minutos|10:32 - 23:00|
+|Resumen de la entrevista|Bacilio, de 53 años y originario del distrito de Acopia en Cusco, es productor de forrajes para la alimentación de cuyes. Enfrenta desafíos significativos durante la época de sequía, que va de junio a octubre, debido a la escasez de agua para el riego de sus parcelas. Durante esta temporada, el riego se realiza semanal o quincenalmente, dependiendo del tipo de suelo. La helada también afecta gravemente, dañando o incluso matando las plantas. Para mitigar estos problemas, utiliza riego por aspersión y por gravedad, ajustando la frecuencia de riego según la observación. Sin embargo, el costo del riego no siempre se justifica por el rendimiento de los forrajes. A pesar de estos desafíos, el forraje de cebada muestra una mayor resistencia a las duras condiciones. Considera que sería muy útil contar con una herramienta para monitorear el nivel de humedad del suelo y automatizar el riego por aspersión, lo que podría ahorrar tiempo y costos. Además, le interesa tener una herramienta que le recomiende medidas para contrarrestar los efectos de la helada en los forrajes. Está dispuesto a asumir un costo adicional inicial para implementar estas soluciones.|
 
-![](assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.008.png)
+<img src="assets2/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
 
-URL:<https://youtu.be/0wucwk8gFIA>  
 
-Resumen:
-Isabel, de 65 años, es proveedor de agua para sistemas de riego y enfrenta desafíos durante la temporada de sequía debido a la alta demanda y la escasez de recursos. Ofrece sistemas de riego por gravedad, aspersión y goteo, pero ha notado un creciente interés de los productores en modernizar sus métodos para mejorar la eficiencia del agua. Luis menciona la necesidad de una mejor infraestructura y de adoptar tecnologías como IoT y sensores de humedad, aunque la adopción es baja debido al desconocimiento. Sus clientes reclaman por la eficiencia de los sistemas y por la falta de suministro constante. Luis recomienda riego por goteo y está interesado en soluciones que optimicen el uso del agua y mejoren el riego en las comunidades agrícolas.
-### 2.2.3. Análisis de entrevistas
-- **Productores Agrícolas**
+|***Entrevista - Segmento Productores Agrícolas***|***3***|
+|---------|----------|
+|Nombre completo|Ronaldo Quispe|
+|Edad|53 años|
+|Distrito|Santiago de surco|
+|Screenshot de video|<img src="assets2/Entrevsita - Ronaldo Quispe.png" alt="Usuario" style="width:100%;">|
+|URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c144_upc_edu_pe/Ea2xJKlb2aFIoLsfuCf_e0UBrpp8mk1lr5II-YbDrcO7vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bWyNeE)|
+|Entrevista entre los minutos|23:05 - 29:51|
+|Resumen de la entrevista|Ronaldo Quispe, productor agrícola de 43 años que vive en Santiago de Surco, menciona que los principales problemas en el cuidado de sus forrajes son asegurar que reciban suficiente agua, especialmente en épocas secas, y controlar plagas y enfermedades. Durante los periodos de escasez de lluvia, realiza el riego cada dos o tres días para mantener sus cultivos saludables. La variabilidad climática afecta sus prácticas de riego, obligando a hacer ajustes constantes que incrementan los costos y la complejidad del manejo de sus forrajes.Para enfrentar la falta de lluvias, ha mejorado su sistema de riego y busca conservar el agua, lo cual ha sido en gran medida efectivo, aunque no siempre suficiente. Raúl considera que la automatización del riego es crucial para aumentar la eficiencia y garantizar que el agua se use de manera óptima sin desperdiciar. Actualmente, utiliza un sistema de riego por goteo y un sensor básico de humedad, pero está interesado en actualizar su tecnología.Ha sufrido pérdidas de forraje por una mala gestión del riego en el pasado, pero ha ajustado su estrategia y aplicado fertilizantes para recuperar lo perdido. En cuanto al costo del riego, aunque puede ser elevado, lo considera justificado siempre que el forraje crezca adecuadamente y el rendimiento sea positivo. Está dispuesto a adoptar soluciones tecnológicas que optimicen el riego, siempre que el costo inicial tenga un retorno claro en términos de eficiencia y calidad. Raúl espera que la inversión en un sistema automatizado se traduzca en menos desperdicio de agua y mejor rendimiento en la producción de forrajes como la alfalfa y el trébol, destinados a la alimentación de ganado.
+|
 
-Los productores agrícolas en el distrito de Acopia enfrentan desafíos significativos relacionados con la sequía y las heladas. Durante la temporada seca, que va de junio a octubre, todos los productores entrevistados (100%) reportan una frecuencia de riego limitada a 1-2 veces al mes debido a la escasez de agua, lo cual afecta gravemente la salud de sus cultivos. Este riego infrecuente, combinado con el impacto destructivo de las heladas, destaca la necesidad urgente de soluciones que mitiguen estos problemas. El 100% de los entrevistados utilizan riego por gravedad o inundación, con solo una pequeña fracción empleando riego por aspersión, lo que lleva a grandes pérdidas de agua por tiempos excesivos de riego. Ambos productores muestran un fuerte interés en herramientas tecnológicas para monitorear la humedad del suelo y automatizar el riego, con una disposición a pagar un costo adicional por estas soluciones. Además, la cebada es mencionada como la variedad más resistente a las heladas, lo que subraya su importancia en las estrategias de cultivo bajo condiciones adversas.
 
-- **Proveedores de agua de riego**
+|***Entrevista - Segmento Proveedores de agua***|***1***|
+|---------|----------|
+|Nombre completo|Ernesto Condori Aroni|
+|Edad|49 años|
+|Distrito|Tactabamba|
+|Screenshot de video|<img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.007.png" alt="Usuario" style="width:100%;">|
+|URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c144_upc_edu_pe/Ea2xJKlb2aFIoLsfuCf_e0UBrpp8mk1lr5II-YbDrcO7vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bWyNeE)|
+|Entrevista entre los minutos|29:55 - 40:50|
+|Resumen de la entrevista|Ernesto, de 49 años, es productor agrícola y miembro del comité de riego por gravedad de su comunidad. Enfrenta problemas debido a la alta demanda de agua durante la temporada de sequía, cuando la escasez es más crítica. Los comuneros compran agua por horas para regar sus forrajes, y el comité vende agua semanalmente, enfocándose en uno o dos sectores a la vez. Después de la venta de agua, Ernesto observa varios problemas: algunos usuarios no riegan a tiempo, otros exceden el tiempo asignado, y el agua se desperdicia debido a un riego inadecuado. También ocurre desperdicio cuando un regante compra agua en una parcela lejana a la anterior, ya que el transporte y la habilitación de los canales contribuyen a la pérdida de tiempo y agua. Los principales reclamos de los usuarios incluyen falta de tiempo suficiente, cantidad de agua insuficiente, o el uso inadecuado del agua, que provoca desperdicio. Para el riego, se habilitan válvulas para cada tipo de riego, tanto por aspersión como por gravedad, después de recoger el agua en el reservorio. Los aspersores son proporcionados por los usuarios, y el servicio comunitario se basa en la implementación de hidrantes. Ernesto recomienda que la mayoría de los usuarios adopten el riego por aspersión, ya que gestiona mejor el agua. Actualmente, no se utiliza tecnología moderna para monitorear y controlar la actividad de riego. Sin embargo, está muy interesado en alguna herramienta que le permita mejorar la prestación de este servicio y optimizar el modo de riego de su comunidad.|
 
-Los proveedores de riego, como Ernesto, enfrentan problemas críticos relacionados con la alta demanda de agua durante la sequía. El 100% de los proveedores entrevistados identifican la escasez de agua como un problema central, y observan que el riego inadecuado y el desperdicio de agua son desafíos significativos. El desperdicio ocurre tanto por una gestión ineficiente del riego como por el transporte inadecuado del agua. Los proveedores están interesados en soluciones tecnológicas que optimicen la gestión del agua y reduzcan el desperdicio. La recomendación de Ernesto de adoptar riego por aspersión refleja una preferencia por métodos más eficientes para manejar el agua, aunque actualmente no se emplean tecnologías modernas para este propósito. El consenso en el interés por mejorar la eficiencia del riego mediante la tecnología sugiere una oportunidad clara para introducir soluciones que puedan abordar estos problemas y mejorar la prestación del servicio en la comunidad.
+<img src="assets2/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
+
+|***Entrevista - Segmento Proveedores de agua***|***2***|
+|---------|----------|
+|Nombre completo|Isabel Valle|
+|Edad|65 años|
+|Distrito|Arequipa|
+|Screenshot de video|<img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.008.png" alt="Usuario" style="width:100%;">|
+|URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c144_upc_edu_pe/Ea2xJKlb2aFIoLsfuCf_e0UBrpp8mk1lr5II-YbDrcO7vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bWyNeE)|
+|Entrevista entre los minutos|40:51 - 49:01|
+|Resumen de la entrevista|Isabel, de 65 años, es proveedor de agua para sistemas de riego y enfrenta desafíos durante la temporada de sequía debido a la alta demanda y la escasez de recursos. Ofrece sistemas de riego por gravedad, aspersión y goteo, pero ha notado un creciente interés de los productores en modernizar sus métodos para mejorar la eficiencia del agua. Luis menciona la necesidad de una mejor infraestructura y de adoptar tecnologías como IoT y sensores de humedad, aunque la adopción es baja debido al desconocimiento. Sus clientes reclaman por la eficiencia de los sistemas y por la falta de suministro constante. Luis recomienda riego por goteo y está interesado en soluciones que optimicen el uso del agua y mejoren el riego en las comunidades agrícolas.
+|
+
+<img src="assets2/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
+
+
+|***Entrevista - Segmento Proveedores de agua***|***3***|
+|---------|----------|
+|Nombre completo|Raúl Erasmo|
+|Edad|47 años|
+|Distrito|Chorrillos|
+|Screenshot de video|<img src="assets2/Entrevsita - Raúl Quispe.png" alt="Usuario" style="width:100%;">|
+|URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c144_upc_edu_pe/Ea2xJKlb2aFIoLsfuCf_e0UBrpp8mk1lr5II-YbDrcO7vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bWyNeE)|
+|Entrevista entre los minutos|49:03 - 55:23|
+|Resumen de la entrevista|En la entrevista con Raúl, se explicó que ofrecen sistemas de riego como goteo, aspersión y pivote central, adaptados a distintos cultivos y terrenos. Raúl mencionó que los clientes frecuentemente buscan modernizar sus sistemas para mejorar la eficiencia del uso del agua y reducir costos operativos. Los principales desafíos incluyen la disponibilidad de agua y los costos asociados a la infraestructura. Las tecnologías más efectivas son los sensores de humedad del suelo y los sistemas automatizados con software de control.Los criterios para recomendar un sistema incluyen el tipo de cultivo, el terreno, la disponibilidad de agua, el presupuesto y las condiciones climáticas. La demanda de tecnologías avanzadas ha crecido, con un interés en sistemas que proporcionan mejor control y análisis de datos. La retroalimentación de los clientes ha sido positiva en cuanto a la eficiencia y reducción del consumo de agua. Para manejar las fluctuaciones en la disponibilidad de agua, se utilizan planificación y almacenamiento. Raúl indicó que están incorporando tecnologías de IoT para monitoreo remoto y control automatizado, lo cual ha sido bien recibido. Para diferenciarse, planean ofrecer soluciones integrales que combinen sistemas avanzados con análisis de datos y soporte técnico continuo, además de desarrollar sistemas más sostenibles y adaptables.|
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
