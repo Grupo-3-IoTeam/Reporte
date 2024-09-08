@@ -1,10 +1,13 @@
 # **CAPÍTULO III: REQUIREMENTS SPECIFICATION**
 ## 3.1. To-Be Scenario Mapping
-Productores Agrícolas
+- Productores Agrícolas
+
 ![...](/assets3/1.png)
 
-Proveedores de Servicios de Agua
+- Provedores de Servicios de Agua
+
 ![...](/assets3/2.png)
+
 
 
 
