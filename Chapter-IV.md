@@ -223,9 +223,123 @@ Se identificó que la única clase central en el negocio es la clase **Device Pu
 |ExternalAnalysisService |Servicio para interactuar con APIs externas para análisis avanzado. |performExternalAnalysis(data: List<DataRecord>): AnalysisReport, getExternalData(deviceId: String): List<DataRecord> |
 **
 
+#### 4.2.1.6. Bounded Context Software Architecture Component Level Diagrams
+![](assets4/structurizr-91625-inventory_context_component_diagram.png)
+
+#### 4.2.1.7. Bounded Context Software Architecture Code Level Diagrams
+##### 4.2.1.7.1. Bounded Context Domain Layer Class Diagrams
+Representa las clases y entidades que permiten la gestión de la asignación de dispositivos dentro del contexto de **Inventory**.
+
+##### 4.2.1.7.2. Bounded Context Database Design Diagram
+El diseño de la base de datos para este contexto gestiona las tablas necesarias para almacenar el estado del inventario y la información de los dispositivos asignados a los productores.
+
+### 4.2.2. Bounded Context: Device Management
+#### 4.2.2.1. Domain Layer
+El dominio de **Device Management** se encarga de la configuración y monitoreo de los dispositivos IoT, incluyendo sensores y actuadores.
+
+#### 4.2.2.2. Interface Layer
+Expone interfaces API para configurar dispositivos IoT, recolectar datos de sensores y controlar los actuadores de riego.
+
+#### 4.2.2.3. Application Layer
+Incluye servicios como **Device Configuration Service** y **Actuator Control Service**, que manejan la lógica para configurar y controlar dispositivos.
+
+#### 4.2.2.4. Infrastructure Layer
+Utiliza un repositorio JPA para almacenar la configuración y estado de los dispositivos IoT.
+
+#### 4.2.2.6. Bounded Context Software Architecture Component Level Diagrams
+En el siguiente diagrama se desplieguen los componentes que implican este bounded en el API Application:
+![](assets4/structurizr-91625-device_management_context_component_diagram.png)
+
+Asimismo, se incluye el diagrama de componentes que comprende la configuración del Embedded Application:
+![](assets4/structurizr-91625-embedded_application_component_diagram.png.png)
+
+#### 4.2.2.7. Bounded Context Software Architecture Code Level Diagrams
+##### 4.2.2.7.1. Bounded Context Domain Layer Class Diagrams
+Representa las clases que manejan la configuración y el estado de los dispositivos IoT en el sistema.
+
+##### 4.2.2.7.2. Bounded Context Database Design Diagram
+El diagrama de diseño de la base de datos gestiona las tablas necesarias para la configuración y monitoreo de los dispositivos IoT.
+
+---
+
+### 4.2.3. Bounded Context: User Management
+#### 4.2.3.1. Domain Layer
+El contexto de **User Management** gestiona los usuarios, sus perfiles y roles dentro de la plataforma, proporcionando autenticación y autorización.
+
+#### 4.2.3.2. Interface Layer
+Existen interfaces API para manejar la autenticación de usuarios, la creación de perfiles y la asignación de roles.
+
+#### 4.2.3.3. Application Layer
+Incluye servicios como **User Service** y **Authentication Service**, responsables de la gestión de usuarios y la validación de autenticaciones.
+
+#### 4.2.3.4. Infrastructure Layer
+Los repositorios JPA permiten el almacenamiento de la información de los usuarios y sus perfiles.
+
+#### 4.2.3.6. Bounded Context Software Architecture Component Level Diagrams
+A continuación se presentan los diagrama de componentes que abarcan la gestión de usuarios, esto se gestiona en el API Application, aunque se reciben datos de los contenedores del web app y el mobile app.
+![](assets4/structurizr-91625-user_context_component_diagram.png)
+
+#### 4.2.3.7. Bounded Context Software Architecture Code Level Diagrams
+##### 4.2.3.7.1. Bounded Context Domain Layer Class Diagrams
+Representa las clases que gestionan los perfiles de usuarios, autenticación y autorización.
+
+##### 4.2.3.7.2. Bounded Context Database Design Diagram
+Este diseño gestiona las tablas que contienen los usuarios, sus roles y la información relacionada con su autenticación.
+
+---
+
+### 4.2.4. Bounded Context: Data Management
+#### 4.2.4.1. Domain Layer
+El dominio de **Data Management** se encarga de almacenar, analizar y reportar los datos recolectados de los dispositivos IoT.
+
+#### 4.2.4.2. Interface Layer
+Existen interfaces API que permiten acceder y gestionar los datos históricos de riego y humedad.
+
+#### 4.2.4.3. Application Layer
+Incluye servicios como **Data Analysis Service** y **Report Generation Handler** para analizar los datos y generar reportes.
+
+#### 4.2.4.4. Infrastructure Layer
+Los repositorios JPA permiten el almacenamiento y consulta de grandes volúmenes de datos históricos.
+
+#### 4.2.4.6. Bounded Context Software Architecture Component Level Diagrams
+Para el gestión de datos se han establecido los siguientes componentes, estos parten con el API Application:
+![](assets4/structurizr-91625-data_management_context_component_diagram.png)
+
+Una para la gestion de datos desde el edge server:
+![](assets4/structurizr-91625-edge_server_component_diagram.png)
+
+Por otro lado, para la presentación de estos datos se tiene lo siguiente de los componentes de la aplicación web:
+![](assets4/structurizr-91625-web_application_component_diagram.png)
+
+Y el siguiente para la aplicación movil:
+![](assets4/structurizr-91625-mobile_application_component_diagram.png)
+
+
+#### 4.2.4.7. Bounded Context Software Architecture Code Level Diagrams
+##### 4.2.4.7.1. Bounded Context Domain Layer Class Diagrams
+Representa las clases encargadas de almacenar, analizar y generar reportes basados en los datos de riego.
+
+##### 4.2.4.7.2. Bounded Context Database Design Diagram
+Este diseño de la base de datos gestiona las tablas de datos históricos de riego y análisis.
+
+---
+
+### 4.2.5. Bounded Context: Notification Management
+#### 4.2.5.1. Domain Layer
+El contexto de **Notification Management** maneja la generación y envío de notificaciones basadas en eventos de riego y datos analizados.
+
+#### 4.2.5.2. Interface Layer
+Proporciona una API para gestionar el envío de notificaciones a los usuarios a través de diferentes canales.
+
+#### 4.2.5.3. Application Layer
+Incluye servicios como **Notification Generation Handler** y **Notification Delivery Service** para generar y enviar notificaciones.
+
+#### 4.2.5.4. Infrastructure Layer
+Utiliza repositorios JPA para almacenar el historial de notificaciones.
+
 **4.2.5. Bounded Context: Notification Management** 
 
-**4.2.5.1. Domain Layer** 
+**4.2.1.1. Domain Layer** 
 
 **Entities** 
 
@@ -313,7 +427,13 @@ Se identificó que la única clase central en el negocio es la clase **Device Pu
 |ExternalNotificationService |Servicio para interactuar con APIs externas para el envío de notificaciones. |sendNotificationToExternalService(notification: Notification): void, retrieveNotificationStatus(notificationId: String): String |
 **
 
-#### 4.2.1.6. Bounded Context Software Architecture Component Level Diagrams
-#### 4.2.1.7. Bounded Context Software Architecture Code Level Diagrams
-##### 4.2.1.7.1. Bounded Context Domain Layer Class Diagrams
-##### 4.2.1.7.2. Bounded Context Database Design Diagram
+#### 4.2.5.6. Bounded Context Software Architecture Component Level Diagrams
+![](assets4/structurizr-91625-notification_management_context_component_diagram.png)
+
+
+#### 4.2.5.7. Bounded Context Software Architecture Code Level Diagrams
+##### 4.2.5.7.1. Bounded Context Domain Layer Class Diagrams
+Representa las clases que gestionan la lógica de generación y envío de notificaciones.
+
+##### 4.2.5.7.2. Bounded Context Database Design Diagram
+El diseño de la base de datos gestiona las tablas necesarias para almacenar el historial de notificaciones y los eventos que las generan.
