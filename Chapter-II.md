@@ -27,44 +27,30 @@ En este apartado veremos los principales competidores que tenemos en comparació
 ### 2.1.2. Estrategias y tácticas frente a competidores
 Como parte del equipo de Thirsty Seed, hemos desarrollado una serie de estrategias y tácticas para enfrentar a nuestros competidores y posicionar nuestra solución como líder en el mercado tomando en cuenta nuestros principales competidores:
 
-- Diferenciación por precio: Ofreceremos planes de suscripción y soluciones más asequibles, diseñadas específicamente para pequeños y medianos agricultores. Nuestro objetivo es destacar la accesibilidad de Thirsty Seed frente a productos más costosos de competidores como Netafim, asegurando que nuestra tecnología esté al alcance de todos.
-- Enfoque en la personalización: Desarrollaremos soluciones modulares y personalizables que se adapten a las necesidades específicas de cada agricultor. Esto nos permitirá ofrecer una flexibilidad superior a la de nuestros competidores, que suelen ofrecer soluciones más estandarizadas.
-- Soluciones Offline: Implementaremos características que permitan el monitoreo y control del riego en áreas con conectividad limitada. De esta manera, superaremos la dependencia de conectividad avanzada que tienen competidores como CropX, garantizando que Thirsty Seed sea funcional en cualquier entorno.
-- Sencillez y facilidad de uso: Nos enfocaremos en destacar la facilidad de uso de Thirsty Seed en contraste con soluciones más complejas. Queremos atraer a aquellos usuarios que buscan una tecnología intuitiva y fácil de implementar, minimizando las barreras de adopción.
-- Sostenibilidad como valor agregado: Pondremos un fuerte énfasis en las características sostenibles y amigables con el medio ambiente de Thirsty Seed. Este enfoque nos permitirá diferenciarnos de competidores que no priorizan la sostenibilidad, atrayendo a un segmento creciente de usuarios conscientes del medio ambiente.
-- Innovación tecnológica: Continuaremos integrando y mejorando la tecnología IoT en Thirsty Seed, ofreciendo soluciones avanzadas y preparadas para el futuro. Nos aseguraremos de superar a nuestros competidores manteniéndonos a la vanguardia tecnológica.
+- **Diferenciación por precio:** Ofreceremos planes de suscripción y soluciones más asequibles, diseñadas específicamente para pequeños y medianos agricultores. Nuestro objetivo es destacar la accesibilidad de Thirsty Seed frente a productos más costosos de competidores como Netafim, asegurando que nuestra tecnología esté al alcance de todos.
+- **Enfoque en la personalización:** Desarrollaremos soluciones modulares y personalizables que se adapten a las necesidades específicas de cada agricultor. Esto nos permitirá ofrecer una flexibilidad superior a la de nuestros competidores, que suelen ofrecer soluciones más estandarizadas.
+- **Soluciones Offline:** Implementaremos características que permitan el monitoreo y control del riego en áreas con conectividad limitada. De esta manera, superaremos la dependencia de conectividad avanzada que tienen competidores como CropX, garantizando que Thirsty Seed sea funcional en cualquier entorno.
+- **Sencillez y facilidad de uso:** Nos enfocaremos en destacar la facilidad de uso de Thirsty Seed en contraste con soluciones más complejas. Queremos atraer a aquellos usuarios que buscan una tecnología intuitiva y fácil de implementar, minimizando las barreras de adopción.
+- **Sostenibilidad como valor agregado:** Pondremos un fuerte énfasis en las características sostenibles y amigables con el medio ambiente de Thirsty Seed. Este enfoque nos permitirá diferenciarnos de competidores que no priorizan la sostenibilidad, atrayendo a un segmento creciente de usuarios conscientes del medio ambiente.
+- **Innovación tecnológica:** Continuaremos integrando y mejorando la tecnología IoT en Thirsty Seed, ofreciendo soluciones avanzadas y preparadas para el futuro. Nos aseguraremos de superar a nuestros competidores manteniéndonos a la vanguardia tecnológica.
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+| **SEGMENTO PRODUCTORES AGRÍCOLAS** | **SEGMENTO PROVEEDORES** | 
+| ---------------------------------- | ------------------------ | 
+| 1. ¿Cuáles son los principales problemas al cuidar de sus forrajes? | 1. ¿Qué tipo de sistemas de riego ofrecen actualmente a sus clientes Productores Agrícolas? | 
+| 2. Durante la época de escasez de lluvia, ¿con qué frecuencia realiza el riego de sus forrajes? | 2. ¿Han recibido solicitudes de sus clientes para mejorar o modernizar los sistemas de riego? | 
+| 3. ¿Cómo afecta la variabilidad del clima a sus prácticas de riego y manejo de forrajes? | 3. ¿Cuáles son los principales desafíos que enfrentan al suministrar agua de riego a los Productores Agrícolas? | 
+| 4. ¿Qué medidas ha tomado para contrarrestar los impactos de escasez de lluvia en sus forrajes? ¿Cuán efectivas han sido estas medidas? | 4. ¿Qué tecnologías o innovaciones considera que serían más efectivas para mejorar la eficiencia del riego en las explotaciones ganaderas? | 
+| 5. ¿Qué tan importante considera la automatización del riego para mejorar la eficiencia y la calidad del forraje en su producción? | 5. ¿Qué criterios utilizan para recomendar un sistema de riego a sus clientes? | 
+| 6. ¿Qué herramientas o tecnologías utiliza actualmente para monitorear y gestionar el riego? ¿O no utiliza alguna? | 6. ¿Cómo ha evolucionado la demanda de tecnologías avanzadas en sistemas de riego entre sus clientes en los últimos años? | 
+| 7. ¿Ha experimentado pérdidas significativas de forraje debido a una mala gestión del riego? Si es así, ¿cómo las ha manejado? | 7. ¿Qué retroalimentación reciben de sus clientes sobre la eficacia y efectividad de los sistemas de riego que ofrecen? | 
+| 8. ¿Cómo evalúa el costo de riego en relación con el rendimiento de sus forrajes? | 8. ¿Cómo gestionan las fluctuaciones en la disponibilidad de agua para riego cuando sus clientes están operando? | 
+| 9. ¿Qué tan dispuesto estaría a adoptar una solución tecnológica que optimice el riego, incluso si implica un costo inicial adicional? | 9. ¿Están explorando o implementando tecnologías IoT en sus soluciones de riego? Si es así, ¿cómo han respondido sus clientes? | 
+| 10. ¿Cuáles son sus expectativas en cuanto al retorno de inversión si decidiera implementar un sistema de riego automatizado? | 10. ¿Qué mejoras o innovaciones cree que podrían implementar para diferenciarse de la competencia en el mercado de sistemas de riego? | 
+| 11. ¿Qué tipo de forrajes produce? | | 
 
-Segmento Productores Agrícolas
-
-1. ¿Cuáles son los principales problemas al cuidar de sus forrajes?
-1. Durante la época de escasez de lluvia, ¿con qué frecuencia realiza el riego de sus forrajes?
-1. ¿Cómo afecta la variabilidad del clima a sus prácticas de riego y manejo de forrajes?
-1. ¿Qué medidas ha tomado para contrarrestar los impactos de escasez de lluvia en sus forrajes? ¿Cuán efectivas han sido estas medidas?
-1. ¿Qué tan importante considera la automatización del riego para mejorar la eficiencia y la calidad del forraje en su producción?
-1. ¿Qué herramientas o tecnologías utiliza actualmente para monitorear y gestionar el riego? ¿O no utiliza alguna?
-1. ¿Ha experimentado pérdidas significativas de forraje debido a una mala gestión del riego? Si es así, ¿cómo las ha manejado?
-1. ¿Cómo evalúa el costo de riego en relación con el rendimiento de sus forrajes?
-1. ¿Qué tan dispuesto estaría a adoptar una solución tecnológica que optimice el riego, incluso si implica un costo inicial adicional?
-1. ¿Cuáles son sus expectativas en cuanto al retorno de inversión si decidiera implementar un sistema de riego automatizado?
-1. ¿Qué tipo de forrajes produce?
-
-Segmento Proveedores
-
-1. ¿Qué tipo de sistemas de riego ofrecen actualmente a sus clientes Productores Agrícolas?
-1. ¿Han recibido solicitudes de sus clientes para mejorar o modernizar los sistemas de riego?
-1. ¿Cuáles son los principales desafíos que enfrentan al suministrar agua de riego a los Productores Agrícolas?
-1. ¿Qué tecnologías o innovaciones considera que serían más efectivas para mejorar la eficiencia del riego en las explotaciones ganaderas?
-1. ¿Qué criterios utilizan para recomendar un sistema de riego a sus clientes?
-1. ¿Cómo ha evolucionado la demanda de tecnologías avanzadas en sistemas de riego entre sus clientes en los últimos años?
-1. ¿Qué retroalimentación reciben de sus clientes sobre la eficiencia y efectividad de los sistemas de riego que ofrecen?
-1. ¿Cómo gestionan las fluctuaciones en la disponibilidad de agua para riego en sus operaciones?
-1. ¿Están explorando o implementando tecnologías de IoT en sus soluciones de riego? Si es así, ¿cómo han respondido sus clientes?
-1. ¿Qué mejoras o innovaciones creen que podrían ofrecer para diferenciarse de la competencia en el mercado de sistemas de riego?
 ### 2.2.2. Registro de entrevistas
-#### Proveedor de agua
 Nombres y Apellidos: Isabel Valle
 
 Edad: 65
@@ -79,46 +65,26 @@ URL:<https://youtu.be/0wucwk8gFIA>  
 
 Resumen:
 Isabel, de 65 años, es proveedor de agua para sistemas de riego y enfrenta desafíos durante la temporada de sequía debido a la alta demanda y la escasez de recursos. Ofrece sistemas de riego por gravedad, aspersión y goteo, pero ha notado un creciente interés de los productores en modernizar sus métodos para mejorar la eficiencia del agua. Luis menciona la necesidad de una mejor infraestructura y de adoptar tecnologías como IoT y sensores de humedad, aunque la adopción es baja debido al desconocimiento. Sus clientes reclaman por la eficiencia de los sistemas y por la falta de suministro constante. Luis recomienda riego por goteo y está interesado en soluciones que optimicen el uso del agua y mejoren el riego en las comunidades agrícolas.
-
-Nombres y Apellidos: Ernesto Condori Aroni
-Edad: 49
-Distrito: Tactabamba
-URL: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c144_upc_edu_pe/Ec5UiqDYfMxPv-19dW2HhIQB2ngtIpKj69RlyChaX5oajg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WxFolP>
-Resumen: 
-Ernesto, de 49 años, es productor agrícola y miembro del comité de riego por gravedad de su comunidad. Enfrenta problemas debido a la alta demanda de agua durante la temporada de sequía, cuando la escasez es más crítica. Los comuneros compran agua por horas para regar sus forrajes, y el comité vende agua semanalmente, enfocándose en uno o dos sectores a la vez. Después de la venta de agua, Ernesto observa varios problemas: algunos usuarios no riegan a tiempo, otros exceden el tiempo asignado, y el agua se desperdicia debido a un riego inadecuado. También ocurre desperdicio cuando un regante compra agua en una parcela lejana a la anterior, ya que el transporte y la habilitación de los canales contribuyen a la pérdida de tiempo y agua. Los principales reclamos de los usuarios incluyen falta de tiempo suficiente, cantidad de agua insuficiente, o el uso inadecuado del agua, que provoca desperdicio. Para el riego, se habilitan válvulas para cada tipo de riego, tanto por aspersión como por gravedad, después de recoger el agua en el reservorio. Los aspersores son proporcionados por los usuarios, y el servicio comunitario se basa en la implementación de hidrantes. Ernesto recomienda que la mayoría de los usuarios adopten el riego por aspersión, ya que gestiona mejor el agua. Actualmente, no se utiliza tecnología moderna para monitorear y controlar la actividad de riego. Sin embargo, está muy interesado en alguna herramienta que le permita mejorar la prestación de este servicio y optimizar el modo de riego de su comunidad.
-
-#### Productor agricola
-Nombres y Apellidos: Norma Puma Mamani
-Edad: 46
-Distrito: Acopia
-URL: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c144_upc_edu_pe/EeYnbi3sqP5KrMwAL1kKzlkBaRIhkuChKE7PVIW15Gdv9w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vqrxfk>
-
-Resumen: Norma, una productora agrícola de 46 años del distrito de Acopia en Cusco, se especializa en la producción de forrajes para alimentar a sus animales, incluyendo vacunos, ovinos y cuyes. Uno de los principales desafíos que enfrenta es el riego durante la época de sequía, que va de junio a octubre. Durante esta temporada, el riego se realiza de 1 a 2 veces al mes, dependiendo de la disponibilidad de recursos en su comunidad y cómo se organizan. La variabilidad climática, especialmente las heladas, puede dañar gravemente los forrajes al quemarlos, y esto puede destruir una parcela completa. Aunque sigue regando para mantener las raíces vivas hasta la llegada de la lluvia, las heladas a menudo anulan los beneficios del riego. Ella produce tres tipos de forraje: alfalfa, raigrás y cebada. De estos, la cebada es la más resistente a las heladas. Utiliza principalmente riego por gravedad o inundación y, en menor medida, riego por aspersión. Para el riego por aspersión, ella misma proporciona los aspersores. Ha observado que el sistema de riego actual resulta en grandes pérdidas de agua debido a tiempos de riego excesivos. Por ello, considera que incrementar el número de hidrantes y promover el uso de riego por aspersión podría ser una solución efectiva. Actualmente, no utiliza herramientas tecnológicas para monitorear la humedad del suelo. Menciona que está interesada en una herramienta tecnológica que le indique cuándo regar, especialmente para la cebada, para evitar problemas de sobreirrigación que también pueden dañar la producción. Ella estaría dispuesta a pagar un costo adicional inicial por una solución que permita monitorear la humedad del suelo y automatizar el riego, ya que esto le ahorraría tiempo y mejoraría la gestión de sus forrajes.
- 
-Nombres y Apellidos: Bacilio Choque Ccasa
-Edad: 53
-Distrito: Acopia
-URL: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c144_upc_edu_pe/EeYnbi3sqP5KrMwAL1kKzlkBaRIhkuChKE7PVIW15Gdv9w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tqXlcg>
-
-Resumen: Bacilio, de 53 años y originario del distrito de Acopia en Cusco, es productor de forrajes para la alimentación de cuyes. Enfrenta desafíos significativos durante la época de sequía, que va de junio a octubre, debido a la escasez de agua para el riego de sus parcelas. Durante esta temporada, el riego se realiza semanal o quincenalmente, dependiendo del tipo de suelo. La helada también afecta gravemente, dañando o incluso matando las plantas. Para mitigar estos problemas, utiliza riego por aspersión y por gravedad, ajustando la frecuencia de riego según la observación. Sin embargo, el costo del riego no siempre se justifica por el rendimiento de los forrajes. A pesar de estos desafíos, el forraje de cebada muestra una mayor resistencia a las duras condiciones. Considera que sería muy útil contar con una herramienta para monitorear el nivel de humedad del suelo y automatizar el riego por aspersión, lo que podría ahorrar tiempo y costos. Además, le interesa tener una herramienta que le recomiende medidas para contrarrestar los efectos de la helada en los forrajes. Está dispuesto a asumir un costo adicional inicial para implementar estas soluciones.
-
 ### 2.2.3. Análisis de entrevistas
-**Productores Agrícolas**
+- **Productores Agrícolas**
 
 Los productores agrícolas en el distrito de Acopia enfrentan desafíos significativos relacionados con la sequía y las heladas. Durante la temporada seca, que va de junio a octubre, todos los productores entrevistados (100%) reportan una frecuencia de riego limitada a 1-2 veces al mes debido a la escasez de agua, lo cual afecta gravemente la salud de sus cultivos. Este riego infrecuente, combinado con el impacto destructivo de las heladas, destaca la necesidad urgente de soluciones que mitiguen estos problemas. El 100% de los entrevistados utilizan riego por gravedad o inundación, con solo una pequeña fracción empleando riego por aspersión, lo que lleva a grandes pérdidas de agua por tiempos excesivos de riego. Ambos productores muestran un fuerte interés en herramientas tecnológicas para monitorear la humedad del suelo y automatizar el riego, con una disposición a pagar un costo adicional por estas soluciones. Además, la cebada es mencionada como la variedad más resistente a las heladas, lo que subraya su importancia en las estrategias de cultivo bajo condiciones adversas.
 
-**Proveedores de agua de riego**
+- **Proveedores de agua de riego**
 
 Los proveedores de riego, como Ernesto, enfrentan problemas críticos relacionados con la alta demanda de agua durante la sequía. El 100% de los proveedores entrevistados identifican la escasez de agua como un problema central, y observan que el riego inadecuado y el desperdicio de agua son desafíos significativos. El desperdicio ocurre tanto por una gestión ineficiente del riego como por el transporte inadecuado del agua. Los proveedores están interesados en soluciones tecnológicas que optimicen la gestión del agua y reduzcan el desperdicio. La recomendación de Ernesto de adoptar riego por aspersión refleja una preferencia por métodos más eficientes para manejar el agua, aunque actualmente no se emplean tecnologías modernas para este propósito. El consenso en el interés por mejorar la eficiencia del riego mediante la tecnología sugiere una oportunidad clara para introducir soluciones que puedan abordar estos problemas y mejorar la prestación del servicio en la comunidad.
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
-Segmento Productores Agricolas:
 
-![](assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.009.png)
 
-Segmento Proveedores de agua:
-![](assets2\Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.010.png)
+|**PRODUCTORES AGRICOLAS**|
+|-------------------------|
+|<img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.009.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets2/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">|
+|**PROVEEDORES DE AGUA**|
+|<img src="assets2\Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.010.png" alt="BARRA SEPARADORA" style="width:100%">|
+
 
 ### 2.3.2. User Task Matrix
 
@@ -136,27 +102,75 @@ Segmento Proveedores de agua:
 <tr><td valign="top">Ajustar la estrategia de riego según resultados	</td><td valign="top">Media</td><td valign="top">Alta</td><td valign="top">Media</td><td valign="top">Alta</td></tr>
 </table>
 
-Análisis del User Task Matrix
+***Análisis del User Task Matrix***
 
-Tareas de Mayor Frecuencia e Importancia:
+- **Tareas de Mayor Frecuencia e Importancia:** Tanto los Productores Agrícolas como los Proveedores de Agua de Riego realizan con alta frecuencia e importancia las tareas de Monitorear las condiciones climáticas, Planificar el calendario de riego, Supervisar el riego, y Gestionar el uso eficiente del agua. Estas tareas son fundamentales para asegurar que el riego se realice de manera efectiva y eficiente, considerando las condiciones climáticas y la disponibilidad de agua.
 
-Tanto los Productores Agrícolas como los Proveedores de Agua de Riego realizan con alta frecuencia e importancia las tareas de Monitorear las condiciones climáticas, Planificar el calendario de riego, Supervisar el riego, y Gestionar el uso eficiente del agua. Estas tareas son fundamentales para asegurar que el riego se realice de manera efectiva y eficiente, considerando las condiciones climáticas y la disponibilidad de agua.
+- **Diferencias Principales:** Los Proveedores de Agua de Riego asignan mayor importancia y frecuencia a la tarea de reparar y mantener el equipo de riego debido a su responsabilidad en garantizar que los sistemas de riego comunitarios estén operativos y en buen estado. - Los productores agrícolas, por otro lado, tienden a realizar con más frecuencia la tarea de revisar el rendimiento de los cultivos, dado que su enfoque está en maximizar la productividad agrícola en sus parcelas individuales.
 
-Diferencias Principales:
+- **Coincidencias Relevantes:** Ambos segmentos coinciden en la alta importancia de ajustar métodos de riego según condiciones y ajustar la estrategia de riego según resultados. Aunque la frecuencia de estas tareas puede variar, su relevancia es clara, ya que ambas son necesarias para adaptar las prácticas de riego a las condiciones actuales y optimizar el uso del agua.
 
-Los Proveedores de Agua de Riego asignan mayor importancia y frecuencia a la tarea de reparar y mantener el equipo de riego debido a su responsabilidad en garantizar que los sistemas de riego comunitarios estén operativos y en buen estado.
-
-Los productores agrícolas, por otro lado, tienden a realizar con más frecuencia la tarea de revisar el rendimiento de los cultivos, dado que su enfoque está en maximizar la productividad agrícola en sus parcelas individuales.
-
-Coincidencias Relevantes:
-
-Ambos segmentos coinciden en la alta importancia de ajustar métodos de riego según condiciones y ajustar la estrategia de riego según resultados. Aunque la frecuencia de estas tareas puede variar, su relevancia es clara, ya que ambas son necesarias para adaptar las prácticas de riego a las condiciones actuales y optimizar el uso del agua.
-
-Oportunidades de Intervención:
-
-Dado que tanto los Productores Agrícolas como los Proveedores de Agua de Riego enfrentan desafíos similares en cuanto al monitoreo del clima y la planificación del riego, existen claras oportunidades para introducir herramientas tecnológicas que faciliten estas tareas, mejorando la eficiencia y efectividad de las operaciones diarias.
+- **Oportunidades de Intervención:** Dado que tanto los Productores Agrícolas como los Proveedores de Agua de Riego enfrentan desafíos similares en cuanto al monitoreo del clima y la planificación del riego, existen claras oportunidades para introducir herramientas tecnológicas que faciliten estas tareas, mejorando la eficiencia y efectividad de las operaciones diarias.
 
 ### 2.3.3. User Journey Mapping
+|**PRODUCTORES AGRICOLAS**|
+|-------------------------|
+|<img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.011.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets2/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">|
+|**PROVEEDORES DE AGUA**|
+|<img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.012.png" alt="BARRA SEPARADORA" style="width:100%">|
+
 ### 2.3.4. Empathy Mapping
+|**PRODUCTORES AGRICOLAS**|
+|-------------------------|
+|<img src="assets2/upc-pre-202401-Thirsty Seed-si729-WV71-keynote-tb1.png" alt="BARRA SEPARADORA" style="width:100%">|
+|**PROVEEDORES DE AGUA**|
+|<img src="assets2/upc-pre-202401-Thirsty Seed-si729-WV71-keynote-tb1 (1).png" alt="BARRA SEPARADORA" style="width:100%">|
+
 ### 2.3.5. As-is Scenario Mapping
+| Fases                               | Configuración de la cuenta                            | Monitoreo de la humedad del suelo                     | Ajuste de parámetros de riego                         | Revisión de reportes y análisis                       |
+|-------------------------------------|-------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-------------------------------------------------------|
+| **Doing**                           | Ingreso mis datos personales y configuro mi cuenta en la aplicación. | Reviso las lecturas de los sensores de humedad del suelo. | Ajusto los parámetros de riego basados en las lecturas y condiciones climáticas. | Reviso los reportes generados por la aplicación sobre la eficiencia del riego y el uso del agua. |
+| **Thinking**                        | Me pregunto si la aplicación será fácil de usar y si los datos que ingreso son suficientes para empezar. | Me pregunto si las lecturas de humedad son precisas y reflejan las condiciones reales del suelo. | Me pregunto si los ajustes que hago realmente optimizan el riego sin desperdiciar agua. | Me pregunto si los reportes me están dando una imagen clara de cómo mejorar mi gestión del riego. |
+| **Feeling**                         | Siento incertidumbre al configurar la cuenta por primera vez y sobre si la configuración es correcta. | Me siento vigilante, esperando que las lecturas de humedad sean correctas. | Me siento responsable al hacer ajustes críticos que afectarán el riego y los recursos. | Me siento satisfecho cuando los reportes muestran mejoras en la eficiencia, pero también ansioso por mantener esos resultados. |
+
+
 ## 2.4. Ubiquitous Language
+
+- **Productor Agrícola:** Usuario encargado del cultivo de forrajes y de la gestión del riego y la humedad del suelo.
+- **Forraje:** Plantas cultivadas para alimentar animales, como alfalfa, raigrás y cebada. La calidad del forraje depende de un riego adecuado y de la humedad del suelo.
+- **Humedad del Suelo:** Cantidad de agua en el suelo, esencial para el crecimiento saludable de las plantas y la producción de forrajes.
+- **Riego:** Proceso de suministro de agua a las plantas para mantener su crecimiento y asegurar la producción de forrajes.
+
+----------------
+
+**1. Métodos de Riego:**
+
+- **Riego por Gravedad:** Método tradicional donde el agua fluye a través de canales por acción de la gravedad.
+- **Riego por Aspersión:** Simula la lluvia mediante aspersores para distribuir el agua de manera uniforme.
+- **Automatización del Riego:** Uso de tecnología para gestionar el riego automáticamente según condiciones predefinidas, lo que mejora la eficiencia del uso del agua.
+
+**2. Aplicaciones para Gestión del Riego:**
+
+- **Aplicación Web:** Plataforma accesible a través de un navegador para gestionar y monitorear el riego y la humedad del suelo.
+- **Aplicación Móvil:** Software para dispositivos móviles que permite controlar y supervisar el riego en tiempo real.
+- **Aplicación Embebida:** Sistema integrado en hardware para controlar y monitorear el riego y la humedad del suelo.
+Optimización del Riego: Proceso de mejorar la eficiencia del uso del agua para maximizar los beneficios del riego y reducir costos operativos.
+
+--------
+
+- **Sistema de Monitoreo:** Herramientas tecnológicas para supervisar las condiciones del suelo y el estado de los cultivos, ayudando a optimizar el riego.
+
+- **Sensores de Humedad:** Dispositivos que miden la humedad en el suelo, permitiendo ajustes precisos en el riego para mantener condiciones óptimas para el crecimiento de las plantas.
+
+- **Hidratantes:** Dispositivos en el sistema de riego que distribuyen el agua de manera más eficiente.
+
+- **Frecuencia de Riego:** Intervalo de tiempo en el que se realiza el riego, que debe ajustarse según las necesidades específicas de los cultivos y las condiciones climáticas.
+
+- **Escasez de Agua:** Problema relacionado con la disponibilidad insuficiente de agua durante períodos de sequía, que afecta la eficiencia del riego.
+
+- **Heladas:** Condiciones climáticas que pueden dañar los forrajes y afectar la efectividad del riego, especialmente en cultivos como el forraje de cebada.
+
+- **Dispositivo de Medición:** Herramienta para registrar datos de humedad del suelo y condiciones de riego, crucial para una gestión eficiente del agua.
+
+- **Gestión del Agua:** Administración eficiente de la distribución del recurso hídrico en el proceso de riego, clave para
