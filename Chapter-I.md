@@ -7,52 +7,35 @@ En IoTeam, somos un grupo apasionado de ingenieros que ha unido fuerzas para tra
 
 Al elegir IoTeam, los agricultores acceden a una tecnología que no solo les brinda un control sin precedentes sobre sus cultivos, sino que también les permite concentrarse en lo que realmente importa: el crecimiento y la sostenibilidad de sus operaciones. Con "Thirsty Seed", estamos redefiniendo la manera en que el sector agrícola aborda el riego, llevando la eficiencia, la precisión y la tranquilidad directamente a las manos de nuestros usuarios.
 
-MISIÓN
+- **Misión:** En **IoTeam**, nuestra misión es empoderar a los agricultores y Productores Agricolas con tecnologías avanzadas de IoT a través de nuestra aplicación **'Thirsty Seed'**, ofreciendo soluciones que no solo mejoren la eficiencia y productividad del riego de forrajes, sino que también contribuyan al bienestar del medio ambiente y la sostenibilidad agrícola
 
-En **IoTeam**, nuestra misión es empoderar a los agricultores y Productores Agricolas con tecnologías avanzadas de IoT a través de nuestra aplicación **'Thirsty Seed'**, ofreciendo soluciones que no solo mejoren la eficiencia y productividad del riego de forrajes, sino que también contribuyan al bienestar del medio ambiente y la sostenibilidad agrícola
+- **Visión:** Convertirnos en el líder en soluciones de riego inteligente para el sector agrícola, ayudando a los agricultores de todo el mundo a optimizar el uso del agua, mejorar la calidad de sus cultivos, y garantizar la sostenibilidad de sus operaciones
 
-VISIÓN
-Convertirnos en el líder en soluciones de riego inteligente para el sector agrícola, ayudando a los agricultores de todo el mundo a optimizar el uso del agua, mejorar la calidad de sus cultivos, y garantizar la sostenibilidad de sus operaciones
 ### 1.1.2. Perfiles de integrantes del equipo
 |Foto|Nombre completo|Código de estudiante|Descripción de carrera|Resumen de conocimientos técnicos y habilidades|
 | - | - | - | - | - |
 |![](assets/AlexisVargas_Chap1.png) |Manuel Alexis Vargas Quispe|u202113256|Ingeniería de Software|Tengo experiencia en C++, HTML, CSS, Angular, y Vue.js. He trabajado con Android Studio para el desarrollo de aplicaciones móviles y tengo conocimientos básicos de backend. También he usado Cisco Packet Tracer, y tengo conocimientos en Python y Java a nivel básico.|
-|![](assets/Aspose.Words.8a01a8f8-badf-4fdf-9e18-c4b679daf7ec.001.jpeg)|Rafael Arturo Luyo||Ingeniería de Software |Mi nombre es Rafael, tengo 22 años. Me considero una persona agradable, puntual y respetuosa. Elegí mi profesión actual porque disfruto haciendo varios ejercicios o problemas relacionados con el uso de la programación, además de interesarme mucho la malla curricular. Me motiva aprender cosas nuevas y también la futura estabilidad económica.|
+|![](assets/Aspose.Words.8a01a8f8-badf-4fdf-9e18-c4b679daf7ec.001.jpeg)|Rafael Arturo Luyo|U201919295|Ingeniería de Software |Mi nombre es Rafael, tengo 22 años. Me considero una persona agradable, puntual y respetuosa. Elegí mi profesión actual porque disfruto haciendo varios ejercicios o problemas relacionados con el uso de la programación, además de interesarme mucho la malla curricular. Me motiva aprender cosas nuevas y también la futura estabilidad económica.|
 |![](assets/Aspose.Words.8a01a8f8-badf-4fdf-9e18-c4b679daf7ec.002.jpeg)|Kurt Matthews Puican Salas|u202016643|Ingeniería de Software|A lo largo de mi carrera he adquirido diversos conocimientos en varios ámbitos como en diversos lenguajes como C++, C#, Java, HTML y MySQL. Considero que tengo los conocimientos necesarios para poder aportar a este trabajo.|
 |![](assets/Aspose.Words.8a01a8f8-badf-4fdf-9e18-c4b679daf7ec.003.png)|Shayla Lussiné Choque Puma|U20201C144|Ingeniería de Software|Soy una persona participativa y responsable en el trabajo en equipo, con experiencia en desarrollo de software utilizando C# y .NET, Java con SpringBoot, y tecnologías frontend como Angular y Vue.js. Además, tengo habilidades en desarrollo móvil con Flutter, lo que me permite contribuir eficazmente a proyectos diversos.|
 |![](assets/Aspose.Words.8a01a8f8-badf-4fdf-9e18-c4b679daf7ec.004.png)|Giakomo Rodolfo Causso Mariano|u202118374|Ingeniería de Software|En el progreso que obtuve respecto a mis conocimientos académicos, pude aprender lenguajes como Java, JavaScript, C++, C#, SQL, HTML y CSS. Dentro del desarrollo de la carrera de Ingeniería de software pude tener un mayor concepto referente a proyectos y gracias a eso he sido capaz de desarrollar habilidades como el liderazgo, compañerismo, compromiso, responsabilidad y creatividad.|
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-**Who:**
+- **Who:**
+El sector agrícola en Perú enfrenta desafíos crecientes en la calidad de riego para mejorar la calidad de sus forrajes, un componente esencial para asegurar la calidad de sus productos. - Los proveedores de agua y sistemas de riego también son actores clave, ya que suministran los recursos y tecnologías necesarias para que los Productores Agrícolas optimicen sus operaciones.
 
-El sector agrícola en Perú enfrenta desafíos crecientes en la calidad de riego para mejorar la calidad de sus forrajes, un componente esencial para asegurar la calidad de sus productos. 
+- **What:** La principal problemática es la falta de eficiencia y control en el riego de forrajes. El riego tradicional, que a menudo se realiza de manera manual o con sistemas rudimentarios, resulta en un uso ineficiente del agua, lo que no sólo encarece los costos operativos, sino que también pone en riesgo la sostenibilidad del negocio. Esto impacta negativamente en la producción de forrajes de alta calidad, afectando la alimentación del ganado y, en consecuencia, la calidad de la carne y los productos lácteos.
 
-Los proveedores de agua y sistemas de riego también son actores clave, ya que suministran los recursos y tecnologías necesarias para que los Productores Agrícolas optimicen sus operaciones.
+- **Where:** Esta problemática es especialmente crítica en las regiones ganaderas de Perú, como Cajamarca, Puno, y Huancayo, donde la ganadería es una actividad económica fundamental. En estas áreas, el acceso al agua y la gestión eficiente del riego son determinantes para la viabilidad de las explotaciones ganaderas.
 
-**What:**
+- **When:** El problema ha sido persistente, pero se ha intensificado en los últimos años debido a factores como el cambio climático, que ha alterado los patrones de lluvia y ha hecho que el agua sea un recurso aún más escaso y valioso. La necesidad de soluciones innovadoras y eficientes ha aumentado en respuesta a estos desafíos emergentes.
 
-La principal problemática es la falta de eficiencia y control en el riego de forrajes. El riego tradicional, que a menudo se realiza de manera manual o con sistemas rudimentarios, resulta en un uso ineficiente del agua, lo que no sólo encarece los costos operativos, sino que también pone en riesgo la sostenibilidad del negocio. Esto impacta negativamente en la producción de forrajes de alta calidad, afectando la alimentación del ganado y, en consecuencia, la calidad de la carne y los productos lácteos.
+- **Why:** La falta de tecnologías avanzadas para la automatización y optimización del riego es una de las principales causas del problema. Los sistemas de riego actuales a menudo no cuentan con la capacidad de monitorear y ajustar automáticamente la cantidad de agua utilizada, lo que lleva a un desperdicio significativo de recursos. Además, la falta de información en tiempo real impide a los Productores Agrícolas tomar decisiones informadas sobre el riego, aumentando los costos y reduciendo la eficiencia.
 
-**Where:**
+- **How:** La problemática afecta a los Productores Agrícolas al incrementar sus costos operativos y reducir la calidad de sus productos, lo que a su vez afecta la rentabilidad de sus negocios. Sin un riego adecuado, los forrajes pueden sufrir de sequía o sobre irrigación, lo que impacta negativamente en su calidad nutricional. Los proveedores de agua y sistemas de riego también enfrentan desafíos para ofrecer soluciones que realmente respondan a las necesidades de sus clientes en el sector Productores Agrícolas.
 
-Esta problemática es especialmente crítica en las regiones ganaderas de Perú, como Cajamarca, Puno, y Huancayo, donde la ganadería es una actividad económica fundamental. En estas áreas, el acceso al agua y la gestión eficiente del riego son determinantes para la viabilidad de las explotaciones ganaderas.
-
-**When:**
-
-El problema ha sido persistente, pero se ha intensificado en los últimos años debido a factores como el cambio climático, que ha alterado los patrones de lluvia y ha hecho que el agua sea un recurso aún más escaso y valioso. La necesidad de soluciones innovadoras y eficientes ha aumentado en respuesta a estos desafíos emergentes.
-
-**Why:**
-
-La falta de tecnologías avanzadas para la automatización y optimización del riego es una de las principales causas del problema. Los sistemas de riego actuales a menudo no cuentan con la capacidad de monitorear y ajustar automáticamente la cantidad de agua utilizada, lo que lleva a un desperdicio significativo de recursos. Además, la falta de información en tiempo real impide a los Productores Agrícolas tomar decisiones informadas sobre el riego, aumentando los costos y reduciendo la eficiencia.
-
-**How:**
-
-La problemática afecta a los Productores Agrícolas al incrementar sus costos operativos y reducir la calidad de sus productos, lo que a su vez afecta la rentabilidad de sus negocios. Sin un riego adecuado, los forrajes pueden sufrir de sequía o sobre irrigación, lo que impacta negativamente en su calidad nutricional. Los proveedores de agua y sistemas de riego también enfrentan desafíos para ofrecer soluciones que realmente respondan a las necesidades de sus clientes en el sector Productores Agrícolas.
-
-**How Much:**
-
-El impacto económico de la problemática es significativo. Los Productores Agrícolas pueden ver incrementados sus costos de producción en un 20-30% debido a la ineficiencia en el uso del agua. Además, la calidad inferior del forraje puede llevar a una disminución en la producción de carne y leche, afectando los ingresos en un 10-15%. Por otro lado, los proveedores de sistemas de riego podrían estar perdiendo una oportunidad de mercado importante al no ofrecer soluciones tecnológicas avanzadas que se alineen con las necesidades actuales de los Productores Agrícolas.
+- **How Much:** El impacto económico de la problemática es significativo. Los Productores Agrícolas pueden ver incrementados sus costos de producción en un 20-30% debido a la ineficiencia en el uso del agua. Además, la calidad inferior del forraje puede llevar a una disminución en la producción de carne y leche, afectando los ingresos en un 10-15%. Por otro lado, los proveedores de sistemas de riego podrían estar perdiendo una oportunidad de mercado importante al no ofrecer soluciones tecnológicas avanzadas que se alineen con las necesidades actuales de los Productores Agrícolas.
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
@@ -173,10 +156,9 @@ Se asume que los usuarios objetivos, como los productores agrícolas y proveedor
 **Logrará** que los usuarios optimicen el uso del agua y ajusten sus estrategias de riego basándose en datos históricos,   
 **Sabremos que esto es cierto** cuando veamos que los usuarios revisan los reportes mensuales y reportan una mejora en la planificación y la eficiencia del riego. 
 #### 1.2.2.4. Lean UX Canvas
+<img src="assets/Aspose.Words.8a01a8f8-badf-4fdf-9e18-c4b679daf7ec.005.jpeg" alt="BARRA SEPARADORA" style="width:100%">
 
-![](assets/Aspose.Words.8a01a8f8-badf-4fdf-9e18-c4b679daf7ec.005.jpeg)
-
-Link del Lean UX Canvas: <https://miro.com/welcomeonboard/QTdaaFFZemNJVjN0SmdJTnM2QjZDS2VRUzc1QTc0dmo2d3dXblhKQlN0QUNBUVQyUTBEZFdPejEwY01wdklPSnwzMDc0NDU3MzQ4Mjg5MTQwMTczfDI=?share_link_id=470334668716> 
+**Link del Lean UX Canvas:** <https://miro.com/welcomeonboard/QTdaaFFZemNJVjN0SmdJTnM2QjZDS2VRUzc1QTc0dmo2d3dXblhKQlN0QUNBUVQyUTBEZFdPejEwY01wdklPSnwzMDc0NDU3MzQ4Mjg5MTQwMTczfDI=?share_link_id=470334668716> 
 
 ## 1.3. Segmentos objetivo
 A continuación se describirán los sectores objetivos de nuestro negocio
