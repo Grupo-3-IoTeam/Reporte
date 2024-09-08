@@ -23,6 +23,40 @@
 
 #### 4.1.1.1 Candidate Context Discovery
 #### 4.1.1.2 Domain Message Flows Modeling
+
+Escenario: Inicio de sesión (Móvil)
+
+![](assets4/1.png)
+
+Escenario: Inicio de sesión (Web)
+
+![](assets4/2.png)
+
+Escenario: Registro de usuario (Móvil)
+
+![](assets4/3.png)
+
+Escenario: Registro de usuario (Web)
+![](assets4/4.png)
+
+
+Escenario: Monitoreo de humedad del suelo y ajuste del riego
+
+![](assets4/5.png)
+
+Escenario: Visualización de Reportes de Humedad y Temperatura
+
+![](assets4/6.png)
+
+Escenario: Recepción de Alertas de Condiciones Críticas
+
+![](assets4/7.png)
+
+Escenario: Actualización de Configuraciones del Sistema de Riego
+
+![](assets4/8.png)
+
+
 #### 4.1.1.3 Bounded Context Canvases
 
 User:
@@ -232,6 +266,8 @@ Representa las clases y entidades que permiten la gestión de la asignación de 
 
 ##### 4.2.1.7.2. Bounded Context Database Design Diagram
 El diseño de la base de datos para este contexto gestiona las tablas necesarias para almacenar el estado del inventario y la información de los dispositivos asignados a los productores.
+![](assets4/9.png)
+
 
 ### 4.2.2. Bounded Context: Device Management
 #### 4.2.2.1. Domain Layer
@@ -260,7 +296,7 @@ Representa las clases que manejan la configuración y el estado de los dispositi
 ##### 4.2.2.7.2. Bounded Context Database Design Diagram
 El diagrama de diseño de la base de datos gestiona las tablas necesarias para la configuración y monitoreo de los dispositivos IoT.
 
----
+![](assets4/10.png)
 
 ### 4.2.3. Bounded Context: User Management
 #### 4.2.3.1. Domain Layer
@@ -286,7 +322,7 @@ Representa las clases que gestionan los perfiles de usuarios, autenticación y a
 ##### 4.2.3.7.2. Bounded Context Database Design Diagram
 Este diseño gestiona las tablas que contienen los usuarios, sus roles y la información relacionada con su autenticación.
 
----
+![](assets4/11.png)
 
 ### 4.2.4. Bounded Context: Data Management
 #### 4.2.4.1. Domain Layer
@@ -322,7 +358,7 @@ Representa las clases encargadas de almacenar, analizar y generar reportes basad
 ##### 4.2.4.7.2. Bounded Context Database Design Diagram
 Este diseño de la base de datos gestiona las tablas de datos históricos de riego y análisis.
 
----
+![](assets4/12.png)
 
 ### 4.2.5. Bounded Context: Notification Management
 #### 4.2.5.1. Domain Layer
@@ -437,3 +473,5 @@ Representa las clases que gestionan la lógica de generación y envío de notifi
 
 ##### 4.2.5.7.2. Bounded Context Database Design Diagram
 El diseño de la base de datos gestiona las tablas necesarias para almacenar el historial de notificaciones y los eventos que las generan.
+
+![](assets4/13.png)
