@@ -59,7 +59,17 @@ Este punto abarca los estilos que se usarán para diseñar el sitio web y la apl
         </td>
     </tr>
 </table>
+
 ### 5.1.2. Web, Mobile and IoT Style Guidelines
+Se implementa un sitio web responsive, es decir que se puede adaptar a cualquier dispositivo, siendo siempre comprensible y visualmente agradable para el usuario.
+
+En el sitio web se usará el patrón Z, esto hará que el usuario pueda navegar nuestro sitio web y aplicación web desde el logo, pasando por los opciones que le brindaremos, para luego ver el contenido general.
+
+<p align="center">
+    <img src="assets/PatronZ.png" alt="PatronZ_Photo" width="500px"/>
+
+</p>
+
 ## 5.2. Information Architecture
 ### 5.2.1. Organization Systems
 ### 5.2.2. Labeling Systems
