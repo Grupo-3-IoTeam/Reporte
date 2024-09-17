@@ -67,7 +67,6 @@ En el sitio web se usará el patrón Z, esto hará que el usuario pueda navegar 
 
 <p align="center">
     <img src="assets/PatronZ.png" alt="PatronZ_Photo" width="500px"/>
-
 </p>
 
 ## 5.2. Information Architecture
@@ -77,8 +76,17 @@ En el sitio web se usará el patrón Z, esto hará que el usuario pueda navegar 
 ### 5.2.4. Searching Systems
 ### 5.2.5. Navigation Systems
 ## 5.3. Landing Page UI Design
+Las Landing Pages se utilizan para convertir a los visitantes en clientes potenciales mediante mensajes atractivos y detalles sobre el producto, entre otras estrategias. Por eso, decidimos utilizar esta herramienta y desarrollar una versión preliminar tanto para dispositivos móviles como para computadoras.
 ### 5.3.1. Landing Page Wireframe
+<p align="center">
+    <img src="assets/LandingP-Wire.jpg" alt="PatronZ_Photo" width="500px"/>
+</p>
+
 ### 5.3.2. Landing Page Mock-up
+<p align="center">
+    <img src="assets/LandingP-Mock_up.jpg" alt="PatronZ_Photo" width="500px"/>
+</p>
+
 ## 5.4. Applications UX/UI Design
 ### 5.4.1. Applications Wireframes
 ### 5.4.2. Applications Wireflow Diagrams
