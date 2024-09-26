@@ -201,13 +201,6 @@ Como parte del equipo de Thirsty Seed, hemos desarrollado una serie de estrategi
 - **Riego por Aspersión:** Simula la lluvia mediante aspersores para distribuir el agua de manera uniforme.
 - **Automatización del Riego:** Uso de tecnología para gestionar el riego automáticamente según condiciones predefinidas, lo que mejora la eficiencia del uso del agua.
 
-**2. Aplicaciones para Gestión del Riego:**
-
-- **Aplicación Web:** Plataforma accesible a través de un navegador para gestionar y monitorear el riego y la humedad del suelo.
-- **Aplicación Móvil:** Software para dispositivos móviles que permite controlar y supervisar el riego en tiempo real.
-- **Aplicación Embebida:** Sistema integrado en hardware para controlar y monitorear el riego y la humedad del suelo.
-Optimización del Riego: Proceso de mejorar la eficiencia del uso del agua para maximizar los beneficios del riego y reducir costos operativos.
-
 --------
 
 - **Sistema de Monitoreo:** Herramientas tecnológicas para supervisar las condiciones del suelo y el estado de los cultivos, ayudando a optimizar el riego.
