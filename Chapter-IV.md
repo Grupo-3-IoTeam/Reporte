@@ -607,14 +607,86 @@ Este diseño de la base de datos gestiona las tablas de datos históricos de rie
 #### 4.2.5.1. Domain Layer
 El contexto de **Notification Management** maneja la generación y envío de notificaciones basadas en eventos de riego y datos analizados.
 
+#### Entities
+
+| Class Name   | Purpose                                                 | Attributes                                                                                 | Methods                                          |
+|--------------|---------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------|
+| Notification | Representa una notificación que se envía a los usuarios. | `notificationId: String`, `userId: String`, `message: String`, `status: String`, `timestamp: DateTime` | `markAsSent(): void`, `updateStatus(status: String): void` |
+
+#### Value Objects
+
+| Class Name          | Purpose                                      | Attributes                   | Methods               |
+|---------------------|----------------------------------------------|------------------------------|-----------------------|
+| NotificationMessage | Define el contenido y formato de una notificación. | `content: String`, `format: String` | `toString(): String`   |
+
+#### Aggregates
+
+| Class Name            | Purpose                                                   | Root Entity   | Methods                                                                                                  |
+|-----------------------|-----------------------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------|
+| NotificationAggregate  | Agrega Notification y NotificationMessage para operaciones coherentes. | Notification  | `createNotification(userId: String, message: NotificationMessage): Notification`, `getNotification(notificationId: String): Notification` |
+
+#### Domain Services
+
+| Class Name            | Purpose                                                   | Methods                                                                                                  |
+|-----------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| NotificationService    | Proporciona lógica de negocio para la gestión y envío de notificaciones. | `sendNotification(notification: Notification): void`, `getPendingNotifications(): List<Notification>` |
+
+#### Repositories
+
+| Class Name            | Purpose                                                   | Methods                                                                                                  |
+|-----------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| NotificationRepository | Interfaz para acceder a notificaciones persistidas.        | `findById(notificationId: String): Notification`, `save(notification: Notification): void`, `delete(notificationId: String): void` |
+
 #### 4.2.5.2. Interface Layer
 Proporciona una API para gestionar el envío de notificaciones a los usuarios a través de diferentes canales.
+#### Controllers
+
+| Class Name            | Purpose                                                   | Methods                                                                                                  |
+|-----------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| NotificationController | Maneja las solicitudes relacionadas con la creación y gestión de notificaciones. | `createNotification(request: NotificationRequest): Response`, `getNotification(request: NotificationRequest): Response` |
+
+#### Consumers
+
+| Class Name            | Purpose                                                   | Methods                                                                                                  |
+|-----------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| NotificationEventConsumer | Escucha y procesa eventos relacionados con el envío de notificaciones. | `consumeNotificationEvent(event: NotificationEvent): void` |
 
 #### 4.2.5.3. Application Layer
 Incluye servicios como **Notification Generation Handler** y **Notification Delivery Service** para generar y enviar notificaciones.
 
+#### Command Handlers
+
+| Class Name                   | Purpose                                                   | Methods                                                                                                  |
+|------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| CreateNotificationCommandHandler | Maneja el comando para crear una nueva notificación.       | `handle(command: CreateNotificationCommand): void`                                                       |
+| UpdateNotificationStatusHandler  | Maneja el comando para actualizar el estado de una notificación. | `handle(command: UpdateNotificationStatusCommand): void`                                                  |
+
+#### Event Handlers
+
+| Class Name                      | Purpose                                                   | Methods                                                                                                  |
+|---------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| NotificationCreatedEventHandler | Maneja eventos relacionados con la creación de notificaciones. | `handle(event: NotificationCreatedEvent): void`                                                           |
+
 #### 4.2.5.4. Infrastructure Layer
 Utiliza repositorios JPA para almacenar el historial de notificaciones.
+
+#### Repositories Implementations
+
+| Class Name                    | Purpose                                                   | Methods                                                                                                  |
+|-------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| NotificationRepositoryImpl     | Implementación concreta de NotificationRepository para acceder a notificaciones persistidas. | `findById(notificationId: String): Notification`, `save(notification: Notification): void`, `delete(notificationId: String): void` |
+
+#### Messaging Systems
+
+| Class Name                    | Purpose                                                   | Methods                                                                                                  |
+|-------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| NotificationEventPublisher     | Publica eventos relacionados con la creación y envío de notificaciones. | `publish(event: NotificationEvent): void`                                                                |
+
+#### External Services
+
+| Class Name                      | Purpose                                                   | Methods                                                                                                  |
+|---------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| ExternalNotificationService     | Servicio para interactuar con APIs externas para el envío de notificaciones. | `sendNotificationToExternalService(notification: Notification): void`, `retrieveNotificationStatus(notificationId: String): String` |
 
 **4.2.5. Bounded Context: Notification Management** 
 
