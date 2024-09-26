@@ -127,21 +127,13 @@ Como parte del equipo de Thirsty Seed, hemos desarrollado una serie de estrategi
 
 ### 2.2.3. Análisis de entrevistas
 
-** Productores Agrícolas **
+**Productores Agrícolas**
 
-Los productores agrícolas en el distrito de Acopia enfrentan desafíos significativos relacionados con la sequía y las heladas. Durante la temporada seca, que va de junio a octubre, todos los productores entrevistados (100%) reportan una frecuencia de riego limitada a 1-2 veces al mes debido a la escasez de agua, lo cual afecta gravemente la salud de sus cultivos. Este riego infrecuente, combinado con el impacto destructivo de las heladas, destaca la necesidad urgente de soluciones que mitiguen estos problemas.
+Los productores agrícolas en el distrito de Acopia enfrentan desafíos significativos relacionados con la sequía y las heladas. Durante la temporada seca, que va de junio a octubre, todos los productores entrevistados (100%) reportan una frecuencia de riego limitada a 1-2 veces al mes debido a la escasez de agua, lo cual afecta gravemente la salud de sus cultivos. Este riego infrecuente, combinado con el impacto destructivo de las heladas, destaca la necesidad urgente de soluciones que mitiguen estos problemas. El 100% de los entrevistados utilizan riego por gravedad o inundación, con solo una pequeña fracción empleando riego por aspersión, lo que lleva a grandes pérdidas de agua por tiempos excesivos de riego. Ambos productores muestran un fuerte interés en herramientas tecnológicas para monitorear la humedad del suelo y automatizar el riego, con una disposición a pagar un costo adicional por estas soluciones. Además, la cebada es mencionada como la variedad más resistente a las heladas, lo que subraya su importancia en las estrategias de cultivo bajo condiciones adversas.
 
-El 100% de los entrevistados utilizan riego por gravedad o inundación, con solo una pequeña fracción empleando riego por aspersión, lo que lleva a grandes pérdidas de agua por tiempos excesivos de riego. Ambos productores muestran un fuerte interés en herramientas tecnológicas para monitorear la humedad del suelo y automatizar el riego, con una disposición a pagar un costo adicional por estas soluciones.
+**Proveedores de Agua de Riego**
 
-Además, la cebada es mencionada como la variedad más resistente a las heladas, lo que subraya su importancia en las estrategias de cultivo bajo condiciones adversas.
-
-** Proveedores de Agua de Riego **
-
-Los proveedores de riego, como Ernesto, enfrentan problemas críticos relacionados con la alta demanda de agua durante la sequía. El 100% de los proveedores entrevistados identifican la escasez de agua como un problema central, y observan que el riego inadecuado y el desperdicio de agua son desafíos significativos. El desperdicio ocurre tanto por una gestión ineficiente del riego como por el transporte inadecuado del agua.
-
-Los proveedores están interesados en soluciones tecnológicas que optimicen la gestión del agua y reduzcan el desperdicio. La recomendación de Ernesto de adoptar riego por aspersión refleja una preferencia por métodos más eficientes para manejar el agua, aunque actualmente no se emplean tecnologías modernas para este propósito.
-
-El consenso en el interés por mejorar la eficiencia del riego mediante la tecnología sugiere una oportunidad clara para introducir soluciones que puedan abordar estos problemas y mejorar la prestación del servicio en la comunidad.
+Los proveedores de riego, como Ernesto, enfrentan problemas críticos relacionados con la alta demanda de agua durante la sequía. El 100% de los proveedores entrevistados identifican la escasez de agua como un problema central, y observan que el riego inadecuado y el desperdicio de agua son desafíos significativos. El desperdicio ocurre tanto por una gestión ineficiente del riego como por el transporte inadecuado del agua. Los proveedores están interesados en soluciones tecnológicas que optimicen la gestión del agua y reduzcan el desperdicio. La recomendación de Ernesto de adoptar riego por aspersión refleja una preferencia por métodos más eficientes para manejar el agua, aunque actualmente no se emplean tecnologías modernas para este propósito. El consenso en el interés por mejorar la eficiencia del riego mediante la tecnología sugiere una oportunidad clara para introducir soluciones que puedan abordar estos problemas y mejorar la prestación del servicio en la comunidad.
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
