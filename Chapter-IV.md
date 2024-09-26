@@ -495,14 +495,91 @@ Este diseño gestiona las tablas que contienen los usuarios, sus roles y la info
 #### 4.2.4.1. Domain Layer
 El dominio de **Data Management** se encarga de almacenar, analizar y reportar los datos recolectados de los dispositivos IoT.
 
+### Entities
+
+| Class Name   | Purpose                                                    | Attributes                                                                                                        | Methods                                                                                                      |
+|--------------|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| DataRecord   | Representa un registro de datos de humedad o riego.         | `recordId: String`, `timestamp: DateTime`, `deviceId: String`, `humidityLevel: Float`, `irrigationCommand: String` | `updateRecord(humidityLevel: Float, irrigationCommand: String): void`, `getRecordDetails(): String`           |
+| AnalysisReport | Representa un reporte de análisis sobre los datos de riego y humedad. | `reportId: String`, `dateRange: DateRange`, `summary: String`, `details: Map<String, Any>`                         | `generateReport(): void`, `getReportDetails(): String`                                                        |
+
+### Value Objects
+
+| Class Name              | Purpose                                          | Attributes                                 | Methods                                    |
+|-------------------------|--------------------------------------------------|--------------------------------------------|--------------------------------------------|
+| DateRange               | Define un rango de fechas para consultas o reportes. | `startDate: DateTime`, `endDate: DateTime` | `isWithinRange(date: DateTime): Boolean`   |
+| DataAnalysisParameters  | Define los parámetros para realizar análisis de datos. | `threshold: Float`, `period: Int`          | `toMap(): Map<String, Any>`                |
+
+### Aggregates
+
+| Class Name            | Purpose                                                | Root Entity   | Methods                                                                                                       |
+|-----------------------|--------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------|
+| DataManagementAggregate | Agrega DataRecord y AnalysisReport para operaciones coherentes. | DataRecord    | `getRecordsByDateRange(dateRange: DateRange): List<DataRecord`, `generateAnalysisReport(parameters: DataAnalysisParameters): AnalysisReport` |
+
+### Domain Services
+
+| Class Name          | Purpose                                                | Methods                                                                                                       |
+|---------------------|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| DataAnalysisService | Proporciona lógica de negocio para el análisis de datos. | `performDataAnalysis(records: List<DataRecord>, parameters: DataAnalysisParameters): AnalysisReport`, `getHistoricalData(deviceId: String, dateRange: DateRange): List<DataRecord` |
+
+### Repositories
+
+| Class Name             | Purpose                                                | Methods                                                                                                       |
+|------------------------|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| DataRecordRepository    | Interfaz para acceder a datos persistidos de registros de datos. | `findByDateRange(dateRange: DateRange): List<DataRecord`, `save(record: DataRecord): void`, `delete(recordId: String): void` |
+| AnalysisReportRepository | Interfaz para acceder a reportes de análisis persistidos. | `findById(reportId: String): AnalysisReport`, `save(report: AnalysisReport): void`                              |
+
 #### 4.2.4.2. Interface Layer
 Existen interfaces API que permiten acceder y gestionar los datos históricos de riego y humedad.
+
+### Controllers
+
+| Class Name     | Purpose                                             | Methods                                                                                                                                   |
+|----------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| DataController | Maneja las solicitudes relacionadas con datos y reportes. | `getDataRecords(request: DataRequest): Response`, `generateReport(request: ReportRequest): Response`                                       |
+
+### Consumers
+
+| Class Name        | Purpose                                              | Methods                                                  |
+|-------------------|------------------------------------------------------|----------------------------------------------------------|
+| DataEventConsumer | Escucha y procesa eventos relacionados con datos.    | `consumeDataEvent(event: DataEvent): void`                |
 
 #### 4.2.4.3. Application Layer
 Incluye servicios como **Data Analysis Service** y **Report Generation Handler** para analizar los datos y generar reportes.
 
+### Command Handlers
+
+| Class Name              | Purpose                                                   | Methods                                                     |
+|-------------------------|-----------------------------------------------------------|-------------------------------------------------------------|
+| GenerateReportHandler    | Maneja el comando para generar un reporte de análisis de datos. | `handle(command: GenerateReportCommand): void`               |
+| SaveDataRecordHandler    | Maneja el comando para guardar un nuevo registro de datos. | `handle(command: SaveDataRecordCommand): void`               |
+
+### Event Handlers
+
+| Class Name                | Purpose                                                   | Methods                                                     |
+|---------------------------|-----------------------------------------------------------|-------------------------------------------------------------|
+| DataRecordSavedEventHandler | Maneja eventos relacionados con la creación de registros de datos. | `handle(event: DataRecordSavedEvent): void`                  |
+
 #### 4.2.4.4. Infrastructure Layer
 Los repositorios JPA permiten el almacenamiento y consulta de grandes volúmenes de datos históricos.
+
+### Repositories Implementations
+
+| Class Name                    | Purpose                                                              | Methods                                                                                                      |
+|-------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| DataRecordRepositoryImpl       | Implementación concreta de DataRecordRepository para acceder a datos persistidos. | `findByDateRange(dateRange: DateRange): List<DataRecord`, `save(record: DataRecord): void`, `delete(recordId: String): void` |
+| AnalysisReportRepositoryImpl   | Implementación concreta de AnalysisReportRepository para acceder a reportes persistidos. | `findById(reportId: String): AnalysisReport`, `save(report: AnalysisReport): void`                             |
+
+### Messaging Systems
+
+| Class Name         | Purpose                                         | Methods                                    |
+|--------------------|-------------------------------------------------|--------------------------------------------|
+| DataEventPublisher | Publica eventos relacionados con datos y reportes. | `publish(event: DataEvent): void`          |
+
+### External Services
+
+| Class Name              | Purpose                                                              | Methods                                                                                                              |
+|-------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| ExternalAnalysisService  | Servicio para interactuar con APIs externas para análisis avanzado.  | `performExternalAnalysis(data: List<DataRecord>): AnalysisReport`, `getExternalData(deviceId: String): List<DataRecord` |
 
 #### 4.2.4.6. Bounded Context Software Architecture Component Level Diagrams
 Para el gestión de datos se han establecido los siguientes componentes, estos parten con el API Application:
@@ -516,7 +593,6 @@ Por otro lado, para la presentación de estos datos se tiene lo siguiente de los
 
 Y el siguiente para la aplicación movil:
 ![](assets4/structurizr-91625-mobile_application_component_diagram.png)
-
 
 #### 4.2.4.7. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.4.7.1. Bounded Context Domain Layer Class Diagrams
