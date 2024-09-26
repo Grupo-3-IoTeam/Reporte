@@ -312,11 +312,70 @@ El dominio de **Device Management** se encarga de la configuración y monitoreo 
 #### 4.2.2.2. Interface Layer
 Expone interfaces API para configurar dispositivos IoT, recolectar datos de sensores y controlar los actuadores de riego.
 
+### Controllers
+
+| Class Name       | Purpose                                               | Methods                                                                                                                                                   |
+|------------------|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| DeviceController | Maneja las solicitudes relacionadas con dispositivos y riego | `getDeviceStatus(deviceId: String): Response`, `registerDevice(request: RegisterDeviceRequest): Response`, `controlDevice(request: ControlDeviceRequest): Response`, `getIrrigationSchedule(parcelId: String): Response`, `createIrrigationCommand(request: CommandRequest): Response` |
+
+### Consumers
+
+| Class Name          | Purpose                                               | Methods                                                                                           |
+|---------------------|-------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| DeviceEventConsumer | Escucha y procesa eventos relacionados con dispositivos y comandos de riego | `consumeDeviceEvent(event: DeviceEvent): void`, `consumeIrrigationEvent(event: IrrigationEvent): void` |
+
+### Command Handlers
+
+| Class Name            | Purpose                                           | Methods                                                                                                   |
+|-----------------------|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| RegisterDeviceHandler  | Maneja el comando para registrar un nuevo dispositivo. | `handle(command: RegisterDeviceCommand): void`                                                             |
+| ControlDeviceHandler   | Maneja el comando para controlar un dispositivo y ejecutar riegos | `handle(command: ControlDeviceCommand): void`, `handle(command: CreateIrrigationCommand): void`            |
+
+### Event Handlers
+
+| Class Name                        | Purpose                                                        | Methods                                                                                           |
+|-----------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| DeviceMeasurementEventHandler     | Maneja eventos relacionados con la medición de sensores.        | `handle(event: DeviceMeasurementEvent): void`                                                      |
+| IrrigationCommandCreatedEventHandler | Maneja eventos relacionados con la creación de comandos de riego. | `handle(event: IrrigationCommandCreatedEvent): void`                                               |
+
+
 #### 4.2.2.3. Application Layer
 Incluye servicios como **Device Configuration Service** y **Actuator Control Service**, que manejan la lógica para configurar y controlar dispositivos.
 
+### Command Handlers
+
+| Class Name            | Purpose                                           | Methods                                                                                                   |
+|-----------------------|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| RegisterDeviceHandler  | Maneja el comando para registrar un nuevo dispositivo. | `handle(command: RegisterDeviceCommand): void`                                                             |
+| ControlDeviceHandler   | Maneja el comando para controlar un dispositivo y ejecutar riegos | `handle(command: ControlDeviceCommand): void`, `handle(command: CreateIrrigationCommand): void`            |
+
+### Event Handlers
+
+| Class Name                        | Purpose                                                        | Methods                                                                                           |
+|-----------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| DeviceMeasurementEventHandler     | Maneja eventos relacionados con la medición de sensores.        | `handle(event: DeviceMeasurementEvent): void`                                                      |
+| IrrigationCommandCreatedEventHandler | Maneja eventos relacionados con la creación de comandos de riego. | `handle(event: IrrigationCommandCreatedEvent): void`                                               |
+
+
 #### 4.2.2.4. Infrastructure Layer
 Utiliza un repositorio JPA para almacenar la configuración y estado de los dispositivos IoT.
+### Repositories Implementations
+
+| Class Name           | Purpose                                                       | Methods                                                                                              |
+|----------------------|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| DeviceRepositoryImpl | Implementación concreta de DeviceRepository para acceder a datos persistidos. | `findById(deviceId: String): Device`, `save(device: Device): void`, `delete(deviceId: String): void`   |
+
+### Messaging Systems
+
+| Class Name            | Purpose                                        | Methods                                  |
+|-----------------------|------------------------------------------------|------------------------------------------|
+| DeviceEventPublisher  | Publica eventos relacionados con dispositivos. | `publish(event: DeviceEvent): void`      |
+
+### External Services
+
+| Class Name              | Purpose                                                    | Methods                                                                                     |
+|-------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| ExternalDeviceService    | Servicio para interactuar con APIs externas relacionadas con dispositivos. | `getDeviceStatusFromExternalApi(deviceId: String): DeviceStatus`, `sendCommandToDevice(deviceId: String, command: String): void` |
 
 #### 4.2.2.6. Bounded Context Software Architecture Component Level Diagrams
 En el siguiente diagrama se desplieguen los componentes que implican este bounded en el API Application:
