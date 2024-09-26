@@ -205,7 +205,7 @@ Los proveedores de riego, como Ernesto, enfrentan problemas críticos relacionad
 
 ----------------
 
-**1. Métodos de Riego:**
+**Métodos de Riego:**
 
 - **Riego por Gravedad:** Método tradicional donde el agua fluye a través de canales por acción de la gravedad.
 - **Riego por Aspersión:** Simula la lluvia mediante aspersores para distribuir el agua de manera uniforme.
