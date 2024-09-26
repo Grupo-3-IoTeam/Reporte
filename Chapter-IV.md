@@ -219,7 +219,6 @@ Se identificó que la única clase central en el negocio es la clase **Device Pu
 | :- | :- | :- |
 |DataEventConsumer |Escucha y procesa eventos relacionados con datos. |consumeDataEvent(event: DataEvent): void |
 
-![Shape]** 
 #### 4.2.1.3. Application Layer
 **Command Handlers** 
 
@@ -253,7 +252,6 @@ Se identificó que la única clase central en el negocio es la clase **Device Pu
 |**Class Name** |**Purpose** |**Methods** |
 | :- | :- | :- |
 |ExternalAnalysisService |Servicio para interactuar con APIs externas para análisis avanzado. |performExternalAnalysis(data: List<DataRecord>): AnalysisReport, getExternalData(deviceId: String): List<DataRecord> |
-**
 
 #### 4.2.1.6. Bounded Context Software Architecture Component Level Diagrams
 ![](assets4/structurizr-91625-inventory_context_component_diagram.png)
