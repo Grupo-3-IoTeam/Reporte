@@ -394,15 +394,89 @@ El diagrama de diseño de la base de datos gestiona las tablas necesarias para l
 ### 4.2.3. Bounded Context: User Management
 #### 4.2.3.1. Domain Layer
 El contexto de **User Management** gestiona los usuarios, sus perfiles y roles dentro de la plataforma, proporcionando autenticación y autorización.
+### Entities
+
+| Class Name  | Purpose                                | Attributes                                                                                           | Methods                                                                                                  |
+|-------------|----------------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| User        | Representa a un usuario de la plataforma. | `userId: String`, `name: String`, `email: String`, `passwordHash: String`, `role: UserRole`           | `authenticate(password: String): Boolean`, `updateProfile(name: String, email: String): void`             |
+| UserProfile | Contiene detalles adicionales sobre el perfil del usuario. | `profileId: String`, `userId: String`, `address: String`, `phoneNumber: String`                      | `updateAddress(address: String): void`, `updatePhoneNumber(phoneNumber: String): void`                    |
+
+### Value Objects
+
+| Class Name | Purpose                                | Attributes                     | Methods                                        |
+|------------|----------------------------------------|---------------------------------|------------------------------------------------|
+| UserRole   | Define el rol del usuario en la plataforma. | `roleName: String`              | `isAdmin(): Boolean`, `isRegularUser(): Boolean` |
+
+### Aggregates
+
+| Class Name     | Purpose                                         | Root Entity | Methods                                                                                                 |
+|----------------|-------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------|
+| UserAggregate  | Agrega User y UserProfile para operaciones coherentes. | User        | `getUserProfile(userId: String): UserProfile`, `updateUserProfile(userId: String, profile: UserProfile): void` |
+
+### Domain Services
+
+| Class Name  | Purpose                                | Methods                                                                                                  |
+|-------------|----------------------------------------|----------------------------------------------------------------------------------------------------------|
+| UserService | Proporciona lógica de negocio para la gestión de usuarios. | `registerUser(user: User): void`, `changePassword(userId: String, newPassword: String): void`, `getUserDetails(userId: String): User` |
+
+### Repositories
+
+| Class Name     | Purpose                                | Methods                                                                                                  |
+|----------------|----------------------------------------|----------------------------------------------------------------------------------------------------------|
+| UserRepository | Interfaz para acceder a datos persistidos de usuarios. | `findById(userId: String): User`, `save(user: User): void`, `delete(userId: String): void`                 |
 
 #### 4.2.3.2. Interface Layer
 Existen interfaces API para manejar la autenticación de usuarios, la creación de perfiles y la asignación de roles.
+### Controllers
+
+| Class Name     | Purpose                                      | Methods                                                                                                                                  |
+|----------------|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| UserController | Maneja las solicitudes relacionadas con usuarios. | `registerUser(request: RegisterUserRequest): Response`, `updateUserProfile(request: UpdateUserProfileRequest): Response`, `authenticateUser(request: AuthenticateUserRequest): Response` |
+
+### Consumers
+
+| Class Name        | Purpose                                      | Methods                                                |
+|-------------------|----------------------------------------------|--------------------------------------------------------|
+| UserEventConsumer | Escucha y procesa eventos relacionados con usuarios. | `consumeUserEvent(event: UserEvent): void`              |
 
 #### 4.2.3.3. Application Layer
 Incluye servicios como **User Service** y **Authentication Service**, responsables de la gestión de usuarios y la validación de autenticaciones.
 
+### Command Handlers
+
+| Class Name               | Purpose                                             | Methods                                                |
+|--------------------------|-----------------------------------------------------|--------------------------------------------------------|
+| RegisterUserHandler       | Maneja el comando para registrar un nuevo usuario.  | `handle(command: RegisterUserCommand): void`            |
+| UpdateUserProfileHandler  | Maneja el comando para actualizar el perfil del usuario. | `handle(command: UpdateUserProfileCommand): void`       |
+| AuthenticateUserHandler   | Maneja el comando para autenticar un usuario.       | `handle(command: AuthenticateUserCommand): void`        |
+
+### Event Handlers
+
+| Class Name                       | Purpose                                                     | Methods                                                |
+|----------------------------------|-------------------------------------------------------------|--------------------------------------------------------|
+| UserProfileUpdatedEventHandler   | Maneja eventos relacionados con la actualización del perfil de usuario. | `handle(event: UserProfileUpdatedEvent): void`         |
+
+
 #### 4.2.3.4. Infrastructure Layer
 Los repositorios JPA permiten el almacenamiento de la información de los usuarios y sus perfiles.
+
+### Repositories Implementations
+
+| Class Name           | Purpose                                                       | Methods                                                                                              |
+|----------------------|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| UserRepositoryImpl    | Implementación concreta de UserRepository para acceder a datos persistidos. | `findById(userId: String): User`, `save(user: User): void`, `delete(userId: String): void`             |
+
+### Messaging Systems
+
+| Class Name          | Purpose                                        | Methods                                  |
+|---------------------|------------------------------------------------|------------------------------------------|
+| UserEventPublisher  | Publica eventos relacionados con usuarios.      | `publish(event: UserEvent): void`        |
+
+### External Services
+
+| Class Name              | Purpose                                                    | Methods                                                                                                     |
+|-------------------------|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| ExternalUserService      | Servicio para interactuar con APIs externas relacionadas con usuarios. | `verifyUserIdentity(userId: String): Boolean`, `sendEmailNotification(userId: String, message: String): void` |
 
 #### 4.2.3.6. Bounded Context Software Architecture Component Level Diagrams
 A continuación se presentan los diagrama de componentes que abarcan la gestión de usuarios, esto se gestiona en el API Application, aunque se reciben datos de los contenedores del web app y el mobile app.
