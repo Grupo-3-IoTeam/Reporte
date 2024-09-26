@@ -97,7 +97,7 @@ El diagrama de contenedores detalla los subsistemas clave del sistema Thirsty Se
 
 #### 4.1.3.4. Software Architecture Deployment Diagrams
 Este diagrama de despliegue muestra cómo los diferentes componentes y contenedores del sistema Thirsty Seed se implementan en entornos físicos y virtuales, como servidores de borde, dispositivos IoT y servidores en la nube. Ilustra la estructura de despliegue necesaria para su operación.
-![](assets4/despliegue.png)
+![](assets4/desployment.png)
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
