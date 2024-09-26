@@ -234,8 +234,6 @@ Se identificó que la única clase central en el negocio es la clase **Device Pu
 | :- | :- | :- |
 |DataRecordSavedEventHandler |Maneja eventos relacionados con la creación de registros de datos. |handle(event: DataRecordSavedEvent): void |
 
-![Shape]** 
-
 #### 4.2.1.4. Infrastructure Layer
 **Repositories Implementations** 
 
@@ -272,6 +270,44 @@ El diseño de la base de datos para este contexto gestiona las tablas necesarias
 ### 4.2.2. Bounded Context: Device Management
 #### 4.2.2.1. Domain Layer
 El dominio de **Device Management** se encarga de la configuración y monitoreo de los dispositivos IoT, incluyendo sensores y actuadores.
+### Entities
+
+| Class Name         | Purpose                                                       | Attributes                                                                                                     | Methods                                                                                                  |
+|--------------------|---------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Device             | Representa un dispositivo IoT en la plataforma.               | `deviceId: String`, `type: String`, `status: String`, `configuration: Map<String, String>`                     | `activate(): void`, `deactivate(): void`, `updateConfiguration(config: Map<String, String>): void`       |
+| Sensor             | Especialización de Device para sensores que miden datos como la humedad. | `lastMeasurement: Float`, `measurementUnit: String`                                                            | `measure(): Float`, `updateLastMeasurement(value: Float): void`                                          |
+| Actuator           | Especialización de Device para actuadores que controlan el riego. | `lastAction: String`                                                                                           | `executeAction(action: String): void`, `updateLastAction(action: String): void`                          |
+| IrrigationSchedule | Representa un horario o plan de riego para una parcela específica. | `scheduleId: String`, `parcelId: String`, `startTime: DateTime`, `endTime: DateTime`, `frequency: String`       | `updateSchedule(startTime: DateTime, endTime: DateTime, frequency: String): void`, `getScheduleDetails(): String` |
+| IrrigationCommand  | Representa un comando de riego emitido por el sistema.        | `commandId: String`, `deviceId: String`, `commandType: String`, `timestamp: DateTime`                          | `executeCommand(): void`, `getCommandDetails(): String`                                                   |
+
+### Value Objects
+
+| Class Name           | Purpose                                        | Attributes                               | Methods                                 |
+|----------------------|------------------------------------------------|------------------------------------------|-----------------------------------------|
+| DeviceConfiguration  | Representa la configuración de un dispositivo. | `parameter: String`, `value: String`     | `toMap(): Map<String, String>`          |
+| IrrigationParameters | Define los parámetros para realizar un riego específico. | `duration: Int`, `intensity: Float`      | `toMap(): Map<String, Any>`             |
+
+### Aggregates
+
+| Class Name           | Purpose                                                            | Root Entity         | Methods                                                                                                  |
+|----------------------|--------------------------------------------------------------------|---------------------|----------------------------------------------------------------------------------------------------------|
+| DeviceAggregate       | Agrega Device, Sensor, y Actuator para operaciones coherentes.      | Device              | `getDeviceStatus(deviceId: String): String`, `performMeasurement(deviceId: String): Float`, `controlActuator(deviceId: String, action: String): void` |
+| IrrigationAggregate   | Agrega IrrigationSchedule e IrrigationCommand para operaciones coherentes. | IrrigationSchedule  | `getScheduleByParcel(parcelId: String): IrrigationSchedule`, `createIrrigationCommand(schedule: IrrigationSchedule, parameters: IrrigationParameters): IrrigationCommand` |
+
+### Domain Services
+
+| Class Name         | Purpose                                                            | Methods                                                                                                  |
+|--------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| DeviceService      | Proporciona lógica de negocio para la gestión de dispositivos.      | `registerDevice(device: Device): void`, `unregisterDevice(deviceId: String): void`, `getDeviceDetails(deviceId: String): Device` |
+| IrrigationService  | Proporciona lógica de negocio para la gestión de horarios de riego y comandos. | `getCurrentSchedule(parcelId: String): IrrigationSchedule`, `executeIrrigationCommand(deviceId: String): void` |
+
+### Repositories
+
+| Class Name                    | Purpose                                                       | Methods                                                                                                  |
+|-------------------------------|---------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| DeviceRepository               | Interfaz para acceder a datos persistidos de dispositivos.     | `findById(deviceId: String): Device`, `save(device: Device): void`, `delete(deviceId: String): void`      |
+| IrrigationScheduleRepositoryImpl | Implementación concreta de IrrigationScheduleRepository para acceder a horarios de riego persistidos. | `findByParcel(parcelId: String): IrrigationSchedule`, `save(schedule: IrrigationSchedule): void`, `delete(scheduleId: String): void` |
+| IrrigationCommandRepositoryImpl | Implementación concreta de IrrigationCommandRepository para acceder a comandos de riego persistidos.  | `findById(commandId: String): IrrigationCommand`, `save(command: IrrigationCommand): void`                 |
 
 #### 4.2.2.2. Interface Layer
 Expone interfaces API para configurar dispositivos IoT, recolectar datos de sensores y controlar los actuadores de riego.
