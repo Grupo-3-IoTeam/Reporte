@@ -39,7 +39,7 @@ El sector agrícola en Perú enfrenta desafíos crecientes en la calidad de rieg
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
-Los productores agrícolas enfrentan dificultades significativas para gestionar el riego de forrajes en épocas de escasez de agua o sequía. Esta falta de control y planificación precisa resulta en una disminución de la calidad de los forrajes y genera pérdidas económicas considerables debido a la necesidad de renovaciones frecuentes.
+Los productores agrícolas carecen de herramientas efectivas para gestionar de manera eficiente el riego de forrajes, especialmente durante épocas de escasez de agua o sequía. Esta falta de control en la planificación y monitoreo del riego provoca un uso ineficiente de los recursos hídricos, disminuye la calidad de los forrajes y genera pérdidas económicas significativas debido a la necesidad de renovaciones frecuentes y el aumento de costos operativos. Existe una oportunidad clara de optimizar el uso del agua y mejorar la rentabilidad mediante soluciones tecnológicas que ofrezcan monitoreo en tiempo real y automatización del riego.
 #### 1.2.2.2. Lean UX Assumptions 
 
 1. **Business Assumption**   
