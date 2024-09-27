@@ -1,9 +1,207 @@
 # **CAPÍTULO VI: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT**
 ## 6.1. Software Configuration Management
 ### 6.1.1. Software Development Environment Configuration
+
+### Software Development Environment Configuration
+
+En nuestro proyecto utilizamos diversas herramientas y tecnologías para abarcar todas las fases del ciclo de vida de desarrollo de software. A continuación, se describen las principales herramientas utilizadas y su propósito:
+
+**Project Management**
+- **Trello**: Herramienta para gestionar proyectos de forma ágil, organizando tareas y sprints para facilitar el seguimiento de cada fase del desarrollo.  
+  **Propósito**: Gestión de tareas y asignaciones.  
+  **Ruta**: [https://trello.com](https://trello.com)
+
+### Requirements Management
+
+Para la gestion de requisitos usamos el **product backlog** y las **historias de usuario (HU)** de manera colaborativa dentro de un documento compartido, el cual es actualizado regularmente durante las sesiones de planificación de sprint. Este documento nos permite organizar, priorizar y refinar las **historias de usuario**, proporcionando una estructura clara para el seguimiento y cumplimiento de los objetivos del sprint.
+
+**Product UX/UI Design**
+- **Figma**: Herramienta colaborativa de diseño para la creación de interfaces, prototipos, wireframes, y mockups.  
+  **Propósito**: Diseño de interfaces y prototipos.  
+  **Ruta**: [https://www.figma.com](https://www.figma.com)
+
+- **Miro**: Herramienta para colaborar en mapas de ideas, diagramas de flujo y arquitectura de la información.  
+  **Propósito**: Diagramación de flujos de navegación y arquitectura.  
+  **Ruta**: [https://miro.com](https://miro.com)
+
+**Software Development**
+Frontend:
+- **Vue.js**: Framework progresivo de JavaScript para la construcción de interfaces de usuario y aplicaciones web SPA (Single Page Application).  
+  **Propósito**: Desarrollo del frontend de la aplicación web.  
+  **Ruta**: [https://vuejs.org/](https://vuejs.org/)
+
+Backend:
+- **Spring Boot**: Framework para la creación de aplicaciones basadas en Java, permitiendo desarrollo rápido con arquitectura RESTful.  
+  **Propósito**: Desarrollo del backend de la aplicación web.  
+  **Ruta**: [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
+
+Mobile:
+- **Flutter**: Framework de desarrollo de aplicaciones móviles basado en Dart para crear interfaces nativas en iOS y Android.  
+  **Propósito**: Desarrollo de la aplicación móvil.  
+  **Ruta**: [https://flutter.dev/](https://flutter.dev/)
+
+IoT:
+- **Arduino IDE**: Entorno de desarrollo para programar microcontroladores **Arduino** con **C++**. Permite escribir, compilar y cargar código directamente en los dispositivos.  
+  **Propósito**: Programación de los dispositivos IoT y microcontroladores.  
+  **Ruta**: [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
+
+- **C++**: Lenguaje de programación de alto rendimiento usado para programar los microcontroladores Arduino, manejando el hardware directamente y optimizando los recursos del dispositivo.  
+  **Propósito**: Programación de controladores de hardware.  
+  **Ruta**: [https://isocpp.org/](https://isocpp.org/)
+
+**Software Testing**
+- **Cucumber**: Herramienta para pruebas automatizadas usando Gherkin, que permite realizar pruebas de aceptación a partir de descripciones funcionales.  
+  **Propósito**: Automatización de pruebas para las aplicaciones desarrolladas.  
+  **Ruta**: [https://cucumber.io/](https://cucumber.io/)
+
+**Software Deployment**
+- **Docker**: Plataforma de contenedores para la implementación de software de manera aislada y eficiente, permitiendo empaquetar la aplicación junto con todas sus dependencias.  
+  **Propósito**: Contenerización y despliegue del software.  
+  **Ruta**: [https://www.docker.com/](https://www.docker.com/)
+
+**Software Documentation**
+- **Markdown**: Usamos Markdown para documentar el proyecto de manera clara y concisa.  
+  **Propósito**: Documentación colaborativa y legible en diferentes plataformas.  
+  **Ruta**: [https://www.markdownguide.org/](https://www.markdownguide.org/)
+
+Estas herramientas garantizan un flujo de trabajo ágil, eficiente y colaborativo, permitiendo que todos los miembros del equipo contribuyan en las distintas etapas del desarrollo del proyecto IoT.
+
 ### 6.1.2. Source Code Management
+**Repositorios**
+
+GitHub Organization: [Enlace](https://github.com/Grupo-3-IoTeam)
+
+Landing Page Repository: [Enlace](https://github.com/Grupo-3-IoTeam/ThirstySeed-Landing)
+
+Web Application Repository: [Enlace](https://github.com/Grupo-3-IoTeam/ThirstySeedWebApplication)
+
+**Cuentas del equipo del proyecto**
+
+| Nombre                 | Usuario de GitHub   |
+|------------------------|---------------------|
+| Giakomo Causso Mariano  | GiaKode             |
+| Kurt Puican Salas       | KurtPuican          |
+| Rafael Luyo             | RafaelLuyo          |
+| Shayla Choque           | ShaylaChoque        |
+| Alexis Vargas           | VrgasQ              |
+
+**Evidencia de repositorios**:
+
+![Source Code Management](./assets/source-code-management.png)
+
+**GitFlow Workflow**
+
+Para el control de versiones y la gestión de código, implementaremos el modelo **GitFlow** descrito por Vincent Driessen. Este modelo estructurará las ramas de nuestro repositorio de la siguiente forma:
+
+- **Main branch** (`main`): Contiene el código listo para producción.
+- **Develop branch** (`develop`): Rama en la que se integrarán todas las funcionalidades nuevas, y que posteriormente se fusionará con la `main` branch.
+- **Feature branches** (`feature/<nombre>`): Se crearán para cada nueva funcionalidad que se desarrolle. Las convenciones para el nombre de las ramas de feature seguirán el patrón `feature/<nombre-feature>`, por ejemplo: `feature/registro-usuario`.
+- **Release branches** (`release/<versión>`): Para preparar un nuevo release y hacer pruebas finales.
+- **Hotfix branches** (`hotfix/<versión>`): Se utilizarán para corregir bugs críticos encontrados en producción.
+
+Para nombrar nuestras versiones seguiremos **Semantic Versioning 2.0.0**, aplicando etiquetas como `v1.0.0`, `v1.0.1`, etc.
+
+**Convenciones de Commits**
+
+Adoptaremos la convención **Conventional Commits** para estructurar los mensajes de nuestros commits. Cada commit deberá seguir la estructura:
+
+Donde el `tipo` puede ser:
+- `feat`: Para introducir nuevas funcionalidades.
+- `fix`: Para corregir bugs.
+- `refactor`: Para cambios que mejoran el código sin cambiar su funcionalidad.
+- `style`: Para cambios en formato, espacios, punto y coma, etc.
+
+**Versionado Semántico**
+
+Utilizaremos **Semantic Versioning 2.0.0** para nombrar nuestras versiones de forma consistente y clara. El formato que usaremos será `v<major>.<minor>.<patch>`, donde:
+- **Major** (`<major>`): Incrementa cuando se introducen cambios incompatibles.
+- **Minor** (`<minor>`): Incrementa cuando se agregan nuevas funcionalidades sin romper la compatibilidad.
+- **Patch** (`<patch>`): Incrementa cuando se hacen correcciones menores o fixes.
+
 ### 6.1.3. Source Code Style Guide & Conventions
+
+En nuestro proyecto utilizamos **Vue.js** para el desarrollo del **Web Application**, **Spring Boot** para el **API Application** y **Flutter** para la **Mobile Application**. A continuación se detallan las convenciones y guías de estilo adoptadas para cada tecnología:
+
+**Vue.js (Frontend)**
+Para el desarrollo de la **Web App** en Vue.js, seguimos las guías oficiales de estilo de Vue:
+
+- **Nombres de componentes**: 
+  Los nombres de los componentes deben ser en **PascalCase** o **kebab-case**. Ejemplo: `MyComponent.vue` o `my-component.vue`.
+
+- **Propiedades**: 
+  Las propiedades (props) deben seguir **camelCase** en JavaScript y **kebab-case** en las plantillas de Vue. Ejemplo:
+  ```javascript
+  props: {
+    myProperty: String
+  }
+  ```
+  En la plantilla:
+  ```html
+  <my-component my-property="value"></my-component>
+  ```
+
+- **Nombres de métodos y eventos**:
+  - Métodos en **camelCase**. Ejemplo: `handleUserClick`.
+  - Eventos en **kebab-case**. Ejemplo: `@user-click="handleUserClick"`.
+
+Referencias:  
+- [Vue.js Style Guide](https://vuejs.org/style-guide/)
+
+**Spring Boot (Backend)**
+Para el **backend** en **Spring Boot**, seguimos las convenciones de Java:
+
+- **Nombres de clases y paquetes**: 
+  - Clases en **PascalCase**.
+  - Paquetes en **minúsculas** y separados por puntos. Ejemplo: `com.example.projectname.service`.
+
+- **Métodos y variables**: 
+  - Los nombres de métodos y variables deben seguir la convención **camelCase**. Ejemplo: `getUserName()`.
+
+- **Anotaciones**:
+  Se siguen buenas prácticas con anotaciones como `@Service`, `@Controller`, `@Autowired`.
+
+Referencias:
+- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+
+**Flutter (Mobile App)**
+Para la **App Móvil** en **Flutter** usando **Dart**, seguimos las siguientes convenciones:
+
+- **Nombres de clases y métodos**:
+  - Las clases deben usar **PascalCase** y los métodos **camelCase**.
+  - Ejemplo de clase: `UserProfile`.
+
+- **Uso de const**:
+  Se recomienda el uso del modificador `const` siempre que sea posible:
+  ```dart
+  const Text('Hello World');
+  ```
+
+- **Nombres de widgets personalizados**:
+  Los widgets deben seguir la convención **PascalCase**. Ejemplo: `CustomButton`.
+
+Referencias:  
+- [Dart Language Style Guide](https://dart.dev/guides/language/effective-dart/style)
+
+**Commits convencionales y Versionado semántico**
+Se utilizarán **Conventional Commits** y **Semantic Versioning** para garantizar consistencia.
+
+- **Ejemplos de commits**:
+  - `feat: add user authentication`
+  - `fix: correct login bug`
+  - `refactor: optimize database queries`
+
+- **Versionado Semántico**:
+  Se utilizará el esquema de versionado: `MAJOR.MINOR.PATCH`.
+
+Referencias:  
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)  
+- [Semantic Versioning](https://semver.org/)
+
+Las convenciones descritas permiten mantener un código limpio, comprensible y alineado con las mejores prácticas de desarrollo para cada una de las tecnologías utilizadas en el proyecto: **Vue.js**, **Spring Boot** y **Flutter**.
+
 ### 6.1.4. Software Deployment Configuration
+
+
 ## 6.2. Landing Page, Services & Applications Implementation
 Esta sección resume el proceso de implementación, pruebas, documentación y despliegue del Landing Page, Web Services y las Aplicaciones Web y Móviles de ThirstySeed. Durante cada Sprint, se siguieron las mejores prácticas de desarrollo para garantizar la funcionalidad y calidad del producto.
 ### 6.2.1. Sprint 1
@@ -251,3 +449,5 @@ En este Sprint, nos enfocamos en el despliegue del producto ThirstySeed a travé
 </table>
 
 <img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
+
+[def]: image.png
