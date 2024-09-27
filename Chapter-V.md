@@ -186,6 +186,24 @@ La aplicación adaptará funcionalidades para dos plataformas principales: Windo
 
 - **`<title>`**: Define el título de la página que aparecerá en la pestaña del navegador y en los resultados de búsqueda. Debe ser corto pero descriptivo para captar la atención del usuario.
 ### 5.2.4. Searching Systems
+<p style="text-align: justify;">
+La interfaz de la aplicación ofrece herramientas intuitivas para facilitar la búsqueda de información y la visualización de datos relevantes. A través de una barra de búsqueda sencilla y filtros bien definidos, los usuarios pueden acceder rápidamente a la información que necesitan, tanto en la versión web como en la móvil. La estructura de los reportes, gráficos y datos organizados asegura una experiencia fluida, permitiendo a los usuarios interactuar con la información de manera eficiente, sin sentirse abrumados por el volumen de datos. Esto garantiza que, sin importar el dispositivo, los usuarios puedan navegar y buscar datos con facilidad.
+</p>
+
+<table border="1" style="width: 100%; text-align: center;">
+    <tr>
+        <th colspan="2" style="font-weight: bold; text-align: center;">BÚSQUEDA DE DATOS</th>
+    </tr>
+    <tr>
+        <th style="font-weight: bold; text-align: center;">VERSIÓN WEB</th>
+        <th style="font-weight: bold; text-align: center;">VERSIÓN MÓVIL</th>
+    </tr>
+    <tr>
+        <td><img src="assets/Searching-web.png" alt="Searching Web" style="width: 100%; height: auto;"></td>
+        <td><img src="assets/Searching-movil.png" alt="Searching Mobile" style="width: 100%; height: auto;"></td>
+    </tr>
+
+</table>
 
 ### 5.2.5. Navigation Systems
 Para poder navegar dentro de la aplicación, se va a añadir las siguientes secciones:
