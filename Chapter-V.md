@@ -164,8 +164,56 @@ La aplicación adaptará funcionalidades para dos plataformas principales: Windo
 </p>
 
 ## 5.2. Information Architecture
+
 ### 5.2.1. Organization Systems
+
 ### 5.2.2. Labeling Systems
+Esta sección se enfoca en las etiquetas utilizadas para guiar a los posibles usuarios de las plataformas asociadas a nuestro producto, ThirstySeed.
+
+## **Landing Page**  
+En el encabezado de la página de la Landing Page de **ThirstySeed**, se encuentran las siguientes opciones. Cada una redirige a una sección específica, lo que permite al usuario navegar fácilmente por el contenido:
+
+- **Home:** Redirecciona al banner principal de la página, donde los usuarios podrán visualizar una introducción breve y atractiva sobre **ThirstySeed**. Aquí, el objetivo es captar rápidamente la atención de los usuarios mediante una imagen relevante y un mensaje conciso sobre la solución que ofrece el producto.
+
+- **Plans:** Redirecciona a la sección donde se presentan los diferentes planes de suscripción que ofrece **ThirstySeed** (Premium y Plus), detallando los precios y las características de cada plan. Esta sección permite a los usuarios evaluar las opciones disponibles y elegir la que más se adapte a sus necesidades.
+
+- **Team:** Redirecciona a la sección del equipo, donde se describe a los miembros clave del proyecto, permitiendo a los usuarios conocer mejor a las personas detrás de **ThirstySeed**.
+
+- **Testimonials:** Redirecciona a la sección de testimonios de usuarios, donde se muestran opiniones y experiencias de clientes satisfechos con **ThirstySeed**.
+
+- **Gallery:** Redirige a la sección de galería, donde se muestran imágenes del sistema de riego en acción y otros aspectos relacionados con el producto.
+
+- **Contact Us:** Redirige a la sección de contacto, donde los usuarios pueden enviar mensajes al equipo de soporte de **ThirstySeed** para resolver dudas o solicitar asistencia.
+
+## **Web Application**  
+En el menú lateral de la aplicación web de **ThirstySeed**, los usuarios tienen acceso a las siguientes secciones:
+
+- **Manage Parcels:** Esta sección permite a los usuarios gestionar sus parcelas registradas, proporcionando opciones para registrar nuevas parcelas o editar las existentes.
+
+- **View Parcel Status:** En esta sección, los usuarios pueden revisar el estado actual de sus parcelas, incluyendo datos clave como humedad, ubicación y otros parámetros importantes.
+
+- **Scheduled Irrigations:** Permite visualizar y gestionar las irrigaciones programadas para cada parcela, lo cual es clave para el control eficiente del riego.
+
+- **Irrigation Reports:** En esta sección, se generan reportes detallados sobre el uso del agua y el desempeño del sistema de riego, permitiendo a los usuarios evaluar la efectividad del sistema.
+
+- **Notifications:** Aquí se pueden ver las notificaciones relevantes, como alertas de riego o fallas en los sistemas conectados.
+
+- **Account:** Sección relacionada con los datos del perfil del usuario y su edición.
+
+
+
+## **Mobile Application**  
+En el menú inferior de la aplicación móvil de **ThirstySeed**, se encuentran las siguientes secciones:
+
+- **Home:** Muestra un resumen de los datos recolectados por los sensores de riego en las parcelas, permitiendo al usuario verificar el estado de sus tierras en tiempo real.
+
+- **Reminders:** Esta sección permite configurar recordatorios automáticos para el inicio o finalización del riego, asegurando que el usuario no olvide sus tareas de gestión agrícola.
+
+- **Irrigation Reports:** En esta sección, el usuario puede acceder a los reportes de irrigación directamente desde su dispositivo móvil, incluyendo gráficos sobre el uso del agua y el rendimiento del sistema.
+
+- **Notifications:** Muestra las notificaciones y alertas relevantes sobre los sistemas de riego conectados.
+
+- **Profile:** Es la sección relacionada con los datos del perfil del usuario, donde pueden actualizar su información personal o preferencias de uso.
 
 ### 5.2.3. SEO Tags and Meta Tags
 <img src="assets/5.2.3.png" alt="Web-Mobile_y_IoT" style="width:100%"/>
