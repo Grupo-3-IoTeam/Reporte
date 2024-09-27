@@ -1,6 +1,27 @@
 # **CAPÍTULO IV: SOLUTION SOFTWARE DESIGN**
 ## 4.1. Strategic-Level Domain-Driven Design
 ### 4.1.1. EventStorming
+<<<<<<< HEAD
+![](assets/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.001.png)
+
+![](assets/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.002.png)
+
+![](assets/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.003.png)
+
+![](assets/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.004.png)
+
+![](assets/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.005.png)
+
+![](assets/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.006.png)
+
+![](assets/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.007.png)
+
+![](assets/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.008.png)
+
+![](assets/b9.png)
+
+![](assets/b10.png)
+=======
 **Domain Events:** Detecta los sucesos más relevantes que ocurren en el sistema y que generan un impacto significativo en el negocio. Estos eventos reflejan cambios clave en el dominio.
 
 ![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.001.png)
@@ -40,84 +61,85 @@
 **Bounded context:** Define los límites que separan diferentes áreas del dominio, agrupando eventos, comandos y agregados que tienen sentido en un contexto específico para mantener la cohesión y modularidad del sistema.
 
 ![](assets4/b10.png)
+>>>>>>> c752030066e3d47e73837fdda467f8a98c746f21
 
 #### 4.1.1.1 Candidate Context Discovery
 #### 4.1.1.2 Domain Message Flows Modeling
 
 Escenario: Inicio de sesión (Móvil)
 
-![](assets4/1.png)
+![](assets/1.png)
 
 Escenario: Inicio de sesión (Web)
 
-![](assets4/2.png)
+![](assets/2.png)
 
 Escenario: Registro de usuario (Móvil)
 
-![](assets4/3.png)
+![](assets/3.png)
 
 Escenario: Registro de usuario (Web)
-![](assets4/4.png)
+![](assets/4.png)
 
 
 Escenario: Monitoreo de humedad del suelo y ajuste del riego
 
-![](assets4/5.png)
+![](assets/5.png)
 
 Escenario: Visualización de Reportes de Humedad y Temperatura
 
-![](assets4/6.png)
+![](assets/6.png)
 
 Escenario: Recepción de Alertas de Condiciones Críticas
 
-![](assets4/7.png)
+![](assets/7.png)
 
 Escenario: Actualización de Configuraciones del Sistema de Riego
 
-![](assets4/8.png)
+![](assets/8.png)
 
 
 #### 4.1.1.3 Bounded Context Canvases
 
 User:
 
-![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.009.png)
+![](assets/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.009.png)
 
 Inventory:
 
-![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.010.png)
+![](assets/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.010.png)
 
 Device:
 
-![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.011.png)
+![](assets/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.011.png)
 
 Notifications:
 
-![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.012.png)
+![](assets/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.012.png)
 
 Data Management:
 
-![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.013.png)
+![](assets/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.013.png)
 
 
 ### 4.1.2. Context Mapping
-![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.014.png)
+![](assets/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.014.png)
 ### 4.1.3. Software Architecture
 #### 4.1.3.1. Software Architecture System Landscape Diagram
 El diagrama de System Landscape muestra el ecosistema completo del sistema Thirsty Seed, incluyendo los actores externos y los sistemas con los que interactúa. Este diagrama ofrece una visión general de las relaciones clave entre los diferentes elementos de la plataforma.
-![](assets4/structurizr-91625-SystemLandscape.png)
+![](assets/structurizr-91625-SystemLandscape.png)
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams
 Este diagrama contextualiza el sistema Thirsty Seed dentro de su entorno operativo, mostrando cómo interactúa con los actores principales, como el Productor Agrícola, el Proveedor de Riego, y el Técnico IoT, además de destacar los contenedores involucrados.
-![](assets4/structurizr-91625-SystemContext-001.png)
+![](assets/structurizr-91625-SystemContext-001.png)
 
 #### 4.1.3.3. Software Architecture Container Level Diagrams
 El diagrama de contenedores detalla los subsistemas clave del sistema Thirsty Seed, como la API, el servidor embebido, la aplicación web y la aplicación móvil. Muestra cómo se conectan e interactúan entre sí y con las bases de datos, proporcionando una visión técnica de la arquitectura del sistema.
-![](assets4/structurizr-91625-Containers.png)
+![](assets/structurizr-91625-Containers.png)
 
 #### 4.1.3.4. Software Architecture Deployment Diagrams
 Este diagrama de despliegue muestra cómo los diferentes componentes y contenedores del sistema Thirsty Seed se implementan en entornos físicos y virtuales, como servidores de borde, dispositivos IoT y servidores en la nube. Ilustra la estructura de despliegue necesaria para su operación.
-![](assets4/deployment.png)
+![](assets/deployment.png)
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
@@ -274,15 +296,16 @@ Se identificó que la única clase central en el negocio es la clase **Device Pu
 |ExternalAnalysisService |Servicio para interactuar con APIs externas para análisis avanzado. |performExternalAnalysis(data: List<DataRecord>): AnalysisReport, getExternalData(deviceId: String): List<DataRecord> |
 
 #### 4.2.1.6. Bounded Context Software Architecture Component Level Diagrams
-![](assets4/structurizr-91625-inventory_context_component_diagram.png)
+![](assets/structurizr-91625-inventory_context_component_diagram.png)
 
 #### 4.2.1.7. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.1.7.1. Bounded Context Domain Layer Class Diagrams
 Representa las clases y entidades que permiten la gestión de la asignación de dispositivos dentro del contexto de **Inventory**.
+<img src="assets/4.2.1.7.1.png" alt="Imagen" style="width:100%">
 
 ##### 4.2.1.7.2. Bounded Context Database Design Diagram
 El diseño de la base de datos para este contexto gestiona las tablas necesarias para almacenar el estado del inventario y la información de los dispositivos asignados a los productores.
-![](assets4/9.png)
+![](assets/9.png)
 
 
 ### 4.2.2. Bounded Context: Device Management
@@ -397,19 +420,21 @@ Utiliza un repositorio JPA para almacenar la configuración y estado de los disp
 
 #### 4.2.2.6. Bounded Context Software Architecture Component Level Diagrams
 En el siguiente diagrama se desplieguen los componentes que implican este bounded en el API Application:
-![](assets4/structurizr-91625-device_management_context_component_diagram.png)
+![](assets/structurizr-91625-device_management_context_component_diagram.png)
 
 Asimismo, se incluye el diagrama de componentes que comprende la configuración del Embedded Application:
-![](assets4/structurizr-91625-embedded_application_component_diagram.png.png)
+![](assets/structurizr-91625-embedded_application_component_diagram.png.png)
 
 #### 4.2.2.7. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.2.7.1. Bounded Context Domain Layer Class Diagrams
 Representa las clases que manejan la configuración y el estado de los dispositivos IoT en el sistema.
 
+<img src="assets/Class Diagrams_Inven.png" alt="Imagen" style="width:100%">
+
 ##### 4.2.2.7.2. Bounded Context Database Design Diagram
 El diagrama de diseño de la base de datos gestiona las tablas necesarias para la configuración y monitoreo de los dispositivos IoT.
 
-![](assets4/10.png)
+![](assets/10.png)
 
 ### 4.2.3. Bounded Context: User Management
 #### 4.2.3.1. Domain Layer
@@ -500,16 +525,17 @@ Los repositorios JPA permiten el almacenamiento de la información de los usuari
 
 #### 4.2.3.6. Bounded Context Software Architecture Component Level Diagrams
 A continuación se presentan los diagrama de componentes que abarcan la gestión de usuarios, esto se gestiona en el API Application, aunque se reciben datos de los contenedores del web app y el mobile app.
-![](assets4/structurizr-91625-user_context_component_diagram.png)
+![](assets/structurizr-91625-user_context_component_diagram.png)
 
 #### 4.2.3.7. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.3.7.1. Bounded Context Domain Layer Class Diagrams
 Representa las clases que gestionan los perfiles de usuarios, autenticación y autorización.
+<img src="assets/Class Diagrams_Device.png" alt="Imagen" style="width:100%">
 
 ##### 4.2.3.7.2. Bounded Context Database Design Diagram
 Este diseño gestiona las tablas que contienen los usuarios, sus roles y la información relacionada con su autenticación.
 
-![](assets4/11.png)
+![](assets/11.png)
 
 ### 4.2.4. Bounded Context: Data Management
 #### 4.2.4.1. Domain Layer
@@ -603,25 +629,26 @@ Los repositorios JPA permiten el almacenamiento y consulta de grandes volúmenes
 
 #### 4.2.4.6. Bounded Context Software Architecture Component Level Diagrams
 Para el gestión de datos se han establecido los siguientes componentes, estos parten con el API Application:
-![](assets4/structurizr-91625-data_management_context_component_diagram.png)
+![](assets/structurizr-91625-data_management_context_component_diagram.png)
 
 Una para la gestion de datos desde el edge server:
-![](assets4/structurizr-91625-edge_server_component_diagram.png)
+![](assets/structurizr-91625-edge_server_component_diagram.png)
 
 Por otro lado, para la presentación de estos datos se tiene lo siguiente de los componentes de la aplicación web:
-![](assets4/structurizr-91625-web_application_component_diagram.png)
+![](assets/structurizr-91625-web_application_component_diagram.png)
 
 Y el siguiente para la aplicación movil:
-![](assets4/structurizr-91625-mobile_application_component_diagram.png)
+![](assets/structurizr-91625-mobile_application_component_diagram.png)
 
 #### 4.2.4.7. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.4.7.1. Bounded Context Domain Layer Class Diagrams
 Representa las clases encargadas de almacenar, analizar y generar reportes basados en los datos de riego.
+<img src="assets/Class Diagrams_Notifications.png" alt="Imagen" style="width:100%">
 
 ##### 4.2.4.7.2. Bounded Context Database Design Diagram
 Este diseño de la base de datos gestiona las tablas de datos históricos de riego y análisis.
 
-![](assets4/12.png)
+![](assets/12.png)
 
 ### 4.2.5. Bounded Context: Notification Management
 #### 4.2.5.1. Domain Layer
@@ -709,14 +736,15 @@ Utiliza repositorios JPA para almacenar el historial de notificaciones.
 | ExternalNotificationService     | Servicio para interactuar con APIs externas para el envío de notificaciones. | `sendNotificationToExternalService(notification: Notification): void`, `retrieveNotificationStatus(notificationId: String): String` |
 
 #### 4.2.5.6. Bounded Context Software Architecture Component Level Diagrams
-![](assets4/structurizr-91625-notification_management_context_component_diagram.png)
+![](assets/structurizr-91625-notification_management_context_component_diagram.png)
 
 
 #### 4.2.5.7. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.5.7.1. Bounded Context Domain Layer Class Diagrams
 Representa las clases que gestionan la lógica de generación y envío de notificaciones.
+<img src="assets/Class Diagrams_Data Managment.png" alt="Imagen" style="width:100%">
 
 ##### 4.2.5.7.2. Bounded Context Database Design Diagram
 El diseño de la base de datos gestiona las tablas necesarias para almacenar el historial de notificaciones y los eventos que las generan.
 
-![](assets4/13.png)
+![](assets/13.png)
