@@ -36,6 +36,8 @@ Como parte del equipo de Thirsty Seed, hemos desarrollado una serie de estrategi
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+Para realizar un mejor control de informacion sobe nuestros segmentos objetios hemos realizado esta propuesta de peguntas para hacerlas a nuestros entrevistados
+
 | **SEGMENTO PRODUCTORES AGRÍCOLAS** | **SEGMENTO PROVEEDORES** | 
 | ---------------------------------- | ------------------------ | 
 | 1. ¿Cuáles son los principales problemas al cuidar de sus forrajes? | 1. ¿Qué tipo de sistemas de riego ofrecen actualmente a sus clientes Productores Agrícolas? | 
@@ -138,6 +140,7 @@ Los proveedores de riego, como Ernesto, enfrentan problemas críticos relacionad
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 
+Luego de realiza las diversas entrevista somos capaces de poder realizar un user persona de cada segmento que nos permite conocer mas con quienes trabajamos
 
 |**PRODUCTORES AGRICOLAS**|
 |-------------------------|
@@ -148,6 +151,8 @@ Los proveedores de riego, como Ernesto, enfrentan problemas críticos relacionad
 
 
 ### 2.3.2. User Task Matrix
+
+Gracias a las entevistas podemos conocer que es lo que nuestros usuarios nececitan de primera mano a la hora de una solucion
 
 <table><tr><th rowspan="2" valign="top">Task</th><th colspan="2" valign="top">Productores Agrícolas</th><th colspan="2" valign="top">Proveedores de Agua de Riego</th></tr>
 <tr><td valign="top">Frecuencia	</td><td valign="top">Importancia	</td><td valign="top">Frecuencia	</td><td valign="top">Importancia</td></tr>
@@ -197,6 +202,8 @@ Los proveedores de riego, como Ernesto, enfrentan problemas críticos relacionad
 
 
 ## 2.4. Ubiquitous Language
+
+Los ubiquitous language ayudan a usuarios que no esten tan metidos en el negocio a que puedan entender de igual manera lo que es nuestro negocio
 
 - **Productor Agrícola:** Usuario encargado del cultivo de forrajes y de la gestión del riego y la humedad del suelo.
 - **Forraje:** Plantas cultivadas para alimentar animales, como alfalfa, raigrás y cebada. La calidad del forraje depende de un riego adecuado y de la humedad del suelo.
