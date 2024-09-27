@@ -1,7 +1,7 @@
 # **CAPÍTULO IV: SOLUTION SOFTWARE DESIGN**
 ## 4.1. Strategic-Level Domain-Driven Design
 ### 4.1.1. EventStorming
-<<<<<<< HEAD
+
 ![](assets/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.001.png)
 
 ![](assets/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.002.png)
