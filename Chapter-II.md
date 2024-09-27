@@ -144,10 +144,10 @@ Luego de realiza las diversas entrevista somos capaces de poder realizar un user
 
 |**PRODUCTORES AGRICOLAS**|
 |-------------------------|
-|<img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.009.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.009.png" alt="BARRA SEPARADORA">|
 |<img src="assets2/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">|
 |**PROVEEDORES DE AGUA**|
-|<img src="assets2\Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.010.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets2\Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.010.png" alt="BARRA SEPARADORA">|
 
 
 ### 2.3.2. User Task Matrix
