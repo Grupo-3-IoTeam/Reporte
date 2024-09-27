@@ -166,9 +166,58 @@ La aplicación adaptará funcionalidades para dos plataformas principales: Windo
 ## 5.2. Information Architecture
 ### 5.2.1. Organization Systems
 ### 5.2.2. Labeling Systems
+
 ### 5.2.3. SEO Tags and Meta Tags
+<img src="assets/5.2.3.png" alt="Web-Mobile_y_IoT" style="width:100%"/>
+
+### **Explicación:**
+
+- **`<meta charset="UTF-8">`**: Define la codificación de caracteres del documento, asegurando que se puedan mostrar caracteres especiales correctamente (como tildes y símbolos). El estándar **UTF-8** es ampliamente utilizado en la web.
+  
+- **`<meta name="viewport" content="width=device-width, initial-scale=1.0">`**: Este meta tag garantiza que la página sea **responsive**, lo que significa que se ajustará correctamente a diferentes tamaños de pantalla, como dispositivos móviles o tablets. Define la escala inicial y asegura que el ancho del contenido se ajuste al ancho del dispositivo.
+
+- **`<meta name="description" content="...">`**: Proporciona un resumen del contenido de la página. Esta descripción es la que aparece en los resultados de búsqueda debajo del título de la página, por lo que debe ser clara y atractiva. Esto ayuda a aumentar la tasa de clics en los motores de búsqueda.
+
+- **`<meta name="keywords" content="...">`**: Incluye una lista de palabras clave relevantes para el contenido de la página. Aunque algunos motores de búsqueda modernos no dan tanto peso a esta etiqueta, sigue siendo útil para mejorar el SEO y proporcionar contexto.
+
+- **`<meta name="author" content="ThirstySeed Team">`**: Indica el autor o el equipo responsable de la creación de la página. Esto puede ser útil para proporcionar créditos y también puede ser utilizado por algunos navegadores y herramientas de análisis.
+
+- **`<meta name="robots" content="index, follow">`**: Indica a los motores de búsqueda que deben indexar esta página (incluirla en sus resultados) y seguir los enlaces que contiene. Es esencial para asegurar que la página sea visible en los resultados de búsqueda.
+
+- **`<title>`**: Define el título de la página que aparecerá en la pestaña del navegador y en los resultados de búsqueda. Debe ser corto pero descriptivo para captar la atención del usuario.
 ### 5.2.4. Searching Systems
+
 ### 5.2.5. Navigation Systems
+Para poder navegar dentro de la aplicación, se va a añadir las siguientes secciones:
+<table border="1" style="width: 100%; text-align: center;">
+    <tr>
+        <th colspan="2" style="font-weight: bold; text-align: center;">LANDING PAGE</th>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <p align="center">
+                <img src="assets/Navigation-landing.png" alt="Web-Mobile_y_IoT" style="width:100%"/>
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <th style="font-weight: bold; text-align: center;">WEB</th>
+        <th style="font-weight: bold; text-align: center;">MOBILE</th>
+    </tr>
+    <tr>
+        <td>
+            <p align="center">
+                <img src="assets/Navigation-web.png" alt="Web-Mobile_y_IoT" style="width:100%"/>
+            </p>
+        </td>
+        <td>
+            <p align="center">
+                <img src="assets/Navigation-mobile.png" alt="Web-Mobile_y_IoT" style="width:100%"/>
+            </p>
+        </td>
+    </tr>
+</table>
+
 ## 5.3. Landing Page UI Design
 Las landing pages se utilizan para convertir a los visitantes en clientes potenciales mediante mensajes persuasivos y la presentación de información relevante sobre el producto, entre otras estrategias. Por ello, decidimos emplear esta herramienta y desarrollar una versión preliminar tanto para dispositivos móviles como para computadoras.
 ### 5.3.1. Landing Page Wireframe
