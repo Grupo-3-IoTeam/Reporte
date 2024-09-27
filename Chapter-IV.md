@@ -4,30 +4,39 @@
 **Domain Events:** Detecta los sucesos más relevantes que ocurren en el sistema y que generan un impacto significativo en el negocio. Estos eventos reflejan cambios clave en el dominio.
 
 ![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.001.png)
+
 **Correction-Alternative Escenarios:** Considera casos donde el flujo del sistema puede desviarse o tener excepciones, y ajusta estos escenarios para alinearlos con los requerimientos del negocio.
 
 ![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.002.png)
+
 **Paint Points:** Identifica las áreas problemáticas o ineficiencias dentro del proceso, como puntos de fricción o obstáculos que dificultan el correcto funcionamiento del sistema.
 
 ![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.003.png)
+
 **Pivotal Points:** Localiza los momentos más críticos o decisivos que marcan un cambio importante en el flujo del sistema, ya que estos eventos influyen directamente en la dirección del proceso.
 
 ![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.004.png)
+
 **Commands:** Determina las acciones o instrucciones que los actores del sistema (como usuarios o servicios) ejecutan para iniciar los eventos dentro del proceso.
 
 ![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.005.png)
+
 **Policies:** Establece las directrices o reglas de negocio que controlan cuándo y cómo deben activarse los comandos o eventos en función de las condiciones establecidas.
 
 ![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.006.png)
+
 **Read Models:** Define las vistas o consultas que los usuarios necesitan para obtener información sobre el estado actual del sistema, basándose en los eventos registrados.
 
 ![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.007.png)
+
 **External Systems:**  Identifica las interacciones con otros sistemas que no pertenecen directamente al dominio, pero que influyen en el flujo de trabajo o en los eventos del sistema.
 
 ![](assets4/Aspose.Words.150ae8a6-bea6-4cd0-9a55-07688df6b288.008.png)
+
 **Aggregates:** Agrupa eventos y comandos bajo una entidad clave que garantiza la consistencia de las reglas del dominio y el control de las operaciones asociadas a esa entidad.
 
 ![](assets4/b9.png)
+
 **Bounded context:** Define los límites que separan diferentes áreas del dominio, agrupando eventos, comandos y agregados que tienen sentido en un contexto específico para mantener la cohesión y modularidad del sistema.
 
 ![](assets4/b10.png)
