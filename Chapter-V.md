@@ -164,8 +164,18 @@ La aplicación adaptará funcionalidades para dos plataformas principales: Windo
 </p>
 
 ## 5.2. Information Architecture
+En esta sección se definen las decisiones clave sobre cómo se organizará el contenido en las plataformas de ThirstySeed, como la **Landing Page**, la **Aplicación Web** y la **Aplicación Móvil**. Estas decisiones están enfocadas en asegurar que los usuarios puedan navegar fácilmente, encontrar información sin esfuerzo y adaptarse rápidamente a las funcionalidades de cada plataforma. Se aborda la organización del contenido, la navegación, el etiquetado y los sistemas de búsqueda.
 
 ### 5.2.1. Organization Systems
+## Landing Page:
+
+- En la Landing Page, se aplicaría una organización jerárquica en la estructura visual, donde los elementos más importantes (como el título, descripción breve del producto, y el botón de registro) se destacan en la parte superior, capturando la atención del usuario. Además, las secciones como Home, Plans, Team, Testimonials, Gallery, y Contact Us están organizadas por tópicos para que el usuario pueda navegar fácilmente según sus intereses.
+## Web Application:
+
+- En la Web Application, la información podría estar organizada de manera secuencial en ciertas secciones, como la gestión de parcelas o el estado de riego. El usuario sigue una serie de pasos para completar una tarea, como registrar una parcela o programar el riego. También podrías utilizar una organización por grupos de usuarios para diferenciar las funciones entre administradores y usuarios básicos.
+## Mobile Application:
+
+- La Mobile Application podría implementar tanto organización jerárquica (los datos más relevantes del riego se presentan primero) como organización cronológica en secciones como el historial de riego, donde los eventos se muestran en función de su fecha de ejecución.
 
 ### 5.2.2. Labeling Systems
 Esta sección se enfoca en las etiquetas utilizadas para guiar a los posibles usuarios de las plataformas asociadas a nuestro producto, ThirstySeed.
