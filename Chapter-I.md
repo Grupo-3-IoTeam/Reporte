@@ -156,9 +156,11 @@ Se asume que los usuarios objetivos, como los productores agrícolas y proveedor
 **Logrará** que los usuarios optimicen el uso del agua y ajusten sus estrategias de riego basándose en datos históricos,   
 **Sabremos que esto es cierto** cuando veamos que los usuarios revisan los reportes mensuales y reportan una mejora en la planificación y la eficiencia del riego. 
 #### 1.2.2.4. Lean UX Canvas
-<img src="assets/Aspose.Words.8a01a8f8-badf-4fdf-9e18-c4b679daf7ec.005.jpeg" alt="BARRA SEPARADORA" style="width:100%">
+El Lean UX Canvas es una herramienta que combina principios de Lean Startup y diseño centrado en el usuario. Su objetivo es alinear equipos multidisciplinarios en la creación de productos, enfocándose en aprender de los usuarios y validar suposiciones a través de experimentos
 
-**Link del Lean UX Canvas:** <https://miro.com/welcomeonboard/QTdaaFFZemNJVjN0SmdJTnM2QjZDS2VRUzc1QTc0dmo2d3dXblhKQlN0QUNBUVQyUTBEZFdPejEwY01wdklPSnwzMDc0NDU3MzQ4Mjg5MTQwMTczfDI=?share_link_id=470334668716> 
+<img src="assets/LeanUXCanvas.jpg" alt="BARRA SEPARADORA" style="width:100%">
+
+**Link del Lean UX Canvas:** <https://miro.com/app/board/uXjVLadmwMI=/?share_link_id=178475508080> 
 
 ## 1.3. Segmentos objetivo
 A continuación se describirán los sectores objetivos de nuestro negocio
