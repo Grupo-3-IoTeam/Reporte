@@ -477,14 +477,23 @@ Para el Sprint 1 se realizaron las diferentes HU, completándolas al 100% y otro
 **Link de la página desplegada:** [https://thirstyseed.netlify.app](https://thirstyseed.netlify.app)
 
 - **Cuenta:** El usuario visualiza su perfil de usuario
+  ![Cuenta](./assets/cuenta.png)
 - **Registrar parcela:** El usuario registra una parcela
+  ![Registrar Parcela](./assets/registrar parcela.png)
 - **Registrar Nodo:** El usuario registra un nodo
+  ![Registrar Nodo](./assets/registrar nodo.png)
 - **Parcelas Registradas:** El usuario visualiza sus parcelas previamente registradas
+  ![Parcelas Registradas](./assets/parcelas registradas.png)
 - **Estado de Parcela:** El usuario visualiza el estado de su parcela especificada
+  ![Estado de Parcela](./assets/Estado de parcela.png)
 - **Calendario de Irrigación:** El usuario visualiza el calendario de Irrigación de sus parcelas
+  ![Calendario](./assets/calendario de irrigacion.png)
 - **Agregar/modificar el calendario de riego de parcela:** El usuario es capaz de agregar o modificar el calendario de riego de sus parcelas registradas
+  ![Agregar/modificar](./assets/agregar calendario de riego.png)
 - **Activación de Nodos de Riego:** El usuario es capaz de activar los nodos de riego referente a una parcela específica
+  ![Activacion de nodos](./assets/activacion de nodos.png)
 - **Notificación:** El usuario visualiza una notificación acerca de la irrigación completada
+  ![Notificacion](./assets/notificacion.png)
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
 
