@@ -326,8 +326,8 @@ Kurt Matthews Puican Salas - U202016643
     <tr>
         <td style="text-align: center;">
             <strong>Rafael Arturo Luyo Ramirez</strong><br>
-            <strong>TB1:</strong> XXXXXXXXXX<br>
-            <strong>TP:</strong> XXXXXXXXXXX
+            <strong>TB1:</strong> Participe en colaboracion de todo mi equipo de trabajo mediante documentos compartidos, siempre mantuvimos una comunicación directa ya sea presencialmente o virtual mediante Discord.<br>
+            <strong>TP:</strong> Cumpli con todos los requerimientos especificados para el presente sprint, ademas de que mantuvimos una constante mejoria mediante el entorno de desarollo de WebStorm, por ultimo participé en la lluvia de ideas acerca de nuestro proyecto.
         </td>
     </tr>
     <tr>
