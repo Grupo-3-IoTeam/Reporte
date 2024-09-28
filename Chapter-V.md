@@ -344,11 +344,10 @@ Este diseño está optimizado para guiar a los usuarios hacia la conversión med
 ## 5.4. Applications UX/UI Design
 ### 5.4.1. Applications Wireframes
 #### Web Application Wireframes
-#### Mobile Application Wireframes
+![uf-view-plots](assets/wf.jpg)
 
-### 5.4.2. Applications Wireflow Diagrams
-#### Web Application Wireflows
-#### Mobile Application Wireflows
+#### Mobile Application Wireframes
+![uf-view-plots](assets/mf.jpg)
 
 ### 5.4.3. Applications Mock-ups
 #### Web Application Mock-ups
@@ -411,6 +410,8 @@ Cada uno de los siguientes mock-ups destaca puntos clave de interacción con el 
    *Formulario de contacto que permite a los usuarios ponerse en contacto para obtener asistencia. Está diseñado para ser sencillo, con campos desplegables y cajas de texto para enviar consultas detalladas.*
 
 #### Mobile Application Mock-ups
+
+![uf-view-plots](assets/mm.jpg)
 
 ### 5.4.4. Applications User Flow Diagrams
 #### Web Application User Flow
