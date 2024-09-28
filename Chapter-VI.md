@@ -200,7 +200,33 @@ Referencias:
 Las convenciones descritas permiten mantener un código limpio, comprensible y alineado con las mejores prácticas de desarrollo para cada una de las tecnologías utilizadas en el proyecto: **Vue.js**, **Spring Boot** y **Flutter**.
 
 ### 6.1.4. Software Deployment Configuration
+En este punto, se dara a conocer el proceso de despliegue de las aplicaciones, así como la configuración de los servidores y la infraestructura necesaria para su correcto funcionamiento.
 
+Landing Page: Para desplegar la Landing Page, se utilizó GitHub Pages, una plataforma gratuita que permite alojar sitios web estáticos directamente desde un repositorio de GitHub. El proceso de despliegue fue el siguiente:
+
+1. Crear un repositorio en GitHub con el código de la Landing Page.
+2. Acceder a la configuración del repositorio y habilitar GitHub Pages.
+
+![Source Code Management](./assets/pages.jpg)
+
+3.Seleccionar la rama y la carpeta de origen del sitio web.
+4.Guardar la configuración y obtener la URL del sitio web desplegado.
+5.Finalmente, acceder a la URL del sitio web para verificar que se haya desplegado correctamente.
+
+![Source Code Management](./assets/landin.jpg)
+
+Enlace de la Landing Page desplegada: https://grupo-3-ioteam.github.io/ThirstySeed-Landing/ 
+
+FrontEnd: Para el despliegue de la aplicacion se ha usado los servicios que ofrecen netlify una plataforma de alojamiento web que ofrece integración continua y despliegue automático desde repositorios de Git. El proceso de despliegue fue el siguiente:
+
+Preparación del Repositorio: Asegúrarse que la página web esté almacenada en un repositorio Git, como GitHub, GitLab.
+Crear una Cuenta en Netlify: Regístrarse en la plataforma.
+Conectar el Repositorio: Inicia sesión en Netlify y ve al panel de control. Hacer clic en el botón "New site from Git" (Nuevo sitio desde Git). Selecciona tu proveedor de servicios de alojamiento de Git (por ejemplo, GitHub) y autoriza la conexión con tu cuenta. Seleccionar el repositorio que contiene la página web.
+
+Configurar las Opciones de Despliegue: Netlify detectará automáticamente la configuración de tu proyecto. Si necesitas ajustes adicionales, como la configuración del directorio de compilación, puedes establecerlos en la sección de configuración de tu sitio.
+
+Despliegue Automático: Activa la opción de "Deploy site" (Desplegar sitio) para habilitar el despliegue automático cada vez que realices cambios en tu repositorio.
+Verificar el Despliegue: Una vez que se complete el despliegue, Netlify te proporcionará una URL única para acceder a tu página web.
 
 ## 6.2. Landing Page, Services & Applications Implementation
 Esta sección resume el proceso de implementación, pruebas, documentación y despliegue del Landing Page, Web Services y las Aplicaciones Web y Móviles de ThirstySeed. Durante cada Sprint, se siguieron las mejores prácticas de desarrollo para garantizar la funcionalidad y calidad del producto.
@@ -257,6 +283,57 @@ Durante el Sprint 1, se avanzó en la implementación de las funcionalidades pla
   </tr>
 </table>
 
+### FRONTEND
+
+<table border="1" style="width:100%; text-align: center;">
+  <tr>
+    <th colspan="4" style="text-align: center;"><strong>WEB APP</strong></th>
+  </tr>
+  <tr>
+    <th colspan="2" style="text-align: center;"><strong>Sprint #</strong></th>
+    <th colspan="2" style="text-align: center;"><strong>Sprint 1</strong></th>
+  </tr>
+  <tr>
+    <th colspan="4" style="text-align: center;"><strong>Sprint Planning Background</strong></th>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td colspan="3">2024/09/07</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td colspan="3">15:00</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td colspan="3">Lima, Peru - Meeting held via Discord</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared By</strong></td>
+    <td colspan="3">Kurt Matthews Puican Salas</td>
+  </tr>
+  <tr>
+    <td><strong>Attendees (to planning meeting)</strong></td>
+    <td colspan="3">
+      Giakomo Rodolfo Causso Mariano<br>Vargas Quispe, Manuel Alexis <br>Rafael Arturo Luyo Ramirez<br>Shayla Lussiné Choque Puma
+    </td>
+  </tr>
+  <tr>
+    <th colspan="4" style="text-align: center;"><strong>Sprint Goal & User Stories</strong></th>
+  </tr>
+  <tr>
+    <td><strong>Sprint Goal</strong></td>
+    <td colspan="3">Development and deployment of ThirstySeed's Web App</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint Velocity</strong></td>
+    <td colspan="3">11</td>
+  </tr>
+  <tr>
+    <td><strong>Sum of Story Points</strong></td>
+    <td colspan="3">11 story points</td>
+  </tr>
+</table>
 
 
 
