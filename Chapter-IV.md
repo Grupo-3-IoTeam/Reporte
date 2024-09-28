@@ -283,7 +283,8 @@ Representa las clases y entidades que permiten la gestión de la asignación de 
 <img src="assets/4.2.1.7.1.png" alt="Imagen" style="width:100%">
 
 ##### 4.2.1.7.2. Bounded Context Database Design Diagram
-El diseño de la base de datos para este contexto gestiona las tablas necesarias para almacenar el estado del inventario y la información de los dispositivos asignados a los productores.
+El contexto de inventario muestra cómo se estructuran y relacionan las entidades clave dentro de la base de datos. Este diagrama detalla las entidades DevicePurchase, UserId, Product, Catalog, y History, con sus respectivos atributos y las relaciones entre ellos, como claves primarias (PK) y claves foráneas (FK). Cada entidad representa un aspecto crucial del proceso de compra y gestión de productos, facilitando la comprensión de las interacciones y dependencias dentro del sistema. Este diseño ayuda a asegurar la integridad, el acceso eficiente y la gestión adecuada de los datos en el sistema de inventario.
+
 ![](assets/9.png)
 
 
@@ -411,7 +412,8 @@ Representa las clases que manejan la configuración y el estado de los dispositi
 <img src="assets/Class Diagrams_Inven.png" alt="Imagen" style="width:100%">
 
 ##### 4.2.2.7.2. Bounded Context Database Design Diagram
-El diagrama de diseño de la base de datos gestiona las tablas necesarias para la configuración y monitoreo de los dispositivos IoT.
+El presente diagrama refleja el diseño de la base de datos para el contexto delimitado de gestión de dispositivos IoT (Device Management). En este modelo, se detallan las entidades principales que componen el sistema, sus relaciones y cómo se manejan en la base de datos. Las entidades incluyen Device, Sensor, Actuator, IrrigationSchedule, IrrigationCommand, y otras relacionadas con la configuración de dispositivos y la ejecución de comandos de riego.
+
 
 ![](assets/10.png)
 
@@ -512,7 +514,7 @@ Representa las clases que gestionan los perfiles de usuarios, autenticación y a
 <img src="assets/Class Diagrams_Device.png" alt="Imagen" style="width:100%">
 
 ##### 4.2.3.7.2. Bounded Context Database Design Diagram
-Este diseño gestiona las tablas que contienen los usuarios, sus roles y la información relacionada con su autenticación.
+El siguiente diagrama muestra el diseño de la base de datos para la gestión de usuarios dentro de la plataforma. Se incluyen tres entidades principales: User, UserProfile, y UserRole.
 
 ![](assets/11.png)
 
@@ -625,7 +627,7 @@ Representa las clases encargadas de almacenar, analizar y generar reportes basad
 <img src="assets/Class Diagrams_Notifications.png" alt="Imagen" style="width:100%">
 
 ##### 4.2.4.7.2. Bounded Context Database Design Diagram
-Este diseño de la base de datos gestiona las tablas de datos históricos de riego y análisis.
+El siguiente diagrama muestra el diseño de la base de datos para el contexto delimitado de gestión de datos y análisis dentro de la plataforma. El modelo incluye las entidades clave relacionadas con los registros de datos de humedad y riego, así como la generación de reportes de análisis.
 
 ![](assets/12.png)
 
@@ -724,6 +726,6 @@ Representa las clases que gestionan la lógica de generación y envío de notifi
 <img src="assets/Class Diagrams_Data Managment.png" alt="Imagen" style="width:100%">
 
 ##### 4.2.5.7.2. Bounded Context Database Design Diagram
-El diseño de la base de datos gestiona las tablas necesarias para almacenar el historial de notificaciones y los eventos que las generan.
+Este diagrama presenta el diseño de la base de datos para la gestión de notificaciones, donde cada notificación se asocia a un usuario. La tabla Notification almacena detalles del mensaje, estado y marca de tiempo, mientras que NotificationMessage define el contenido, contexto y formato. Esto facilita la gestión eficiente y el almacenamiento claro de las notificaciones y sus respectivos mensajes.
 
 ![](assets/13.png)
