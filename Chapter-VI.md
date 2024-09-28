@@ -338,6 +338,9 @@ Durante el Sprint 1, se avanzó en la implementación de las funcionalidades pla
 
 
 #### 6.2.1.2. Sprint Backlog 1
+Para este sprint, tuvimos como objetivo implementar el diseño de nuestra aplicación web asi como la creacion del langind page mediante el uso de HTML, CSS y JavaScript. A continuación, se presentan las historias de usuario y sus respectivos puntos de historia:
+
+![Source Code Management](./assets/back.jpg)
 
 #### 6.2.1.3. Development Evidence for Sprint Review
 <table border="1" cellspacing="0" cellpadding="5" style="width:100%; text-align: center; border-collapse: collapse;">
