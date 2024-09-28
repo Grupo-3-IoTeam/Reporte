@@ -47,35 +47,35 @@
 
 Escenario: Inicio de sesión (Móvil)
 
-![](assets/1.png)
+![](assets/inimo.jpg)
 
 Escenario: Inicio de sesión (Web)
 
-![](assets/2.png)
+![](assets/iniweb.jpg)
 
 Escenario: Registro de usuario (Móvil)
 
-![](assets/3.png)
+![](assets/regimo.jpg)
 
 Escenario: Registro de usuario (Web)
-![](assets/4.png)
+![](assets/regiwe.jpg)
 
 
 Escenario: Monitoreo de humedad del suelo y ajuste del riego
 
-![](assets/5.png)
+![](assets/monito.jpg)
 
 Escenario: Visualización de Reportes de Humedad y Temperatura
 
-![](assets/6.png)
+![](assets/visuali.jpg)
 
 Escenario: Recepción de Alertas de Condiciones Críticas
 
-![](assets/7.png)
+![](assets/recepcion.jpg)
 
 Escenario: Actualización de Configuraciones del Sistema de Riego
 
-![](assets/8.png)
+![](assets/actu.jpg)
 
 
 #### 4.1.1.3 Bounded Context Canvases
