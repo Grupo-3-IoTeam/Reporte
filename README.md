@@ -260,11 +260,11 @@ Kurt Matthews Puican Salas - U202016643
         </td>
         <td style="text-align: center;">
             <strong>Giakomo Rodolfo Causso Mariano</strong><br>
-            <strong>TB1:</strong> XXXXXXXXXX<br>
-            <strong>TP:</strong> XXXXXXXXXXX
+            <strong>TB1:</strong> Me propuse concluir bien este curso y aprender para poder realizar eficazmente este trabajo, apoyando en todo lo posible con todos mis conocimientos adquiridos de los ciclos anteriores.   <br>
+            <strong>TP:</strong> Organicé reuniones periódicas con los integrantes del equipo, asegurándome de que cada uno pudiera compartir sus avances y desafíos. Esto fomentó una comunicación más efectiva entre todos y permitió mantener un trabajo más organizado y colaborativo, lo que ayudó a tomar decisiones conjuntas de manera más eficiente.
         </td>
         <td rowspan="5" style="text-align: justify;">
-            XXXXXXXXXX
+            TB1: El equipo demostró buena capacidad para organizarse y distribuir responsabilidades, aprovechando las fortalezas individuales de cada miembro. La colaboración fluida y el apoyo mutuo en la resolución de problemas permitieron enfrentar eficazmente los desafíos, consolidando un liderazgo conjunto orientado a alcanzar los objetivos establecidos.<br><br>TP: El liderazgo colaborativo permitió que el equipo funcionara de manera eficiente, ya que se promovió una comunicación abierta y se resolvieron los problemas de forma conjunta. Este enfoque mejoró la organización y el trabajo en equipo, asegurando que todos estuvieran alineados con los objetivos y contribuyeran activamente al avance del proyecto.
         </td>
     </tr>
     <tr>
@@ -301,11 +301,12 @@ Kurt Matthews Puican Salas - U202016643
         </td>
         <td style="text-align: center;">
             <strong>Giakomo Rodolfo Causso Mariano</strong><br>
-            <strong>TB1:</strong> XXXXXXXXXX<br>
-            <strong>TP:</strong> XXXXXXXXXXX
+            <strong>TB1:</strong> Me encargué de facilitar la resolución de problemas dentro del equipo. Cuando surgieron dudas o desafíos en el desarrollo de las User Stories, el To-Be Scenario Mapping y Bounded Context Database Design Diagram, apoyé con ideas y sugerencias que permitieron avanzar en los puntos más complicados.
+<br>
+            <strong>TP:</strong> Fomenté un ambiente de inclusión y colaboración donde cada miembro del equipo se sintiera valorado y escuchado. Establecimos metas claras y realistas en conjunto, lo que facilitó la planificación de tareas. Me aseguré de que todos tuvieran roles definidos y supervisé el progreso para garantizar que los objetivos fueran cumplidos en los plazos establecidos, impulsando la cooperación entre los miembros.
         </td>
         <td rowspan="5" style="text-align: justify;">
-            XXXXXXXXXX
+            TB1: Se logró establecer un entorno colaborativo en el que cada integrante participó activamente en la planificación y ejecución de tareas. El enfoque inclusivo permitió que todas las ideas fueran valoradas, y la organización clara de las actividades facilitó el cumplimiento de los objetivos propuestos, en especial en el diseño arquitectónico y análisis del sistema.<br><br>TP: El ambiente de colaboración e inclusión, junto con la planificación clara de las tareas, resultó en el cumplimiento exitoso de los objetivos. El equipo trabajó de manera cohesionada, respetando los plazos y manteniendo un enfoque organizado que facilitó la cooperación y el progreso constante hacia las metas establecidas.
         </td>
     </tr>
     <tr>
