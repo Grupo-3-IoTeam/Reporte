@@ -270,8 +270,8 @@ Kurt Matthews Puican Salas - U202016643
     <tr>
         <td style="text-align: center;">
             <strong>Kurt Matthews Puican Salas</strong><br>
-            <strong>TB1:</strong> XXXXXXXXXX<br>
-            <strong>TP:</strong> XXXXXXXXXXX
+            <strong>TB1:</strong>Aporte mis conocimientos con mis compañeros para poder realizar una correcta entrega del trabajo empleando reuniones grupales con el equipo para poder cordinar de mejor manera <br>
+            <strong>TP:</strong> Realice reuniones e estuve preguntando a todos los integrantes sobre su avance para que haya una comunicacion mas efectiva asi como tambien un trabaj mas ordenado
         </td>
     </tr>
     <tr>
@@ -311,8 +311,8 @@ Kurt Matthews Puican Salas - U202016643
     <tr>
         <td style="text-align: center;">
             <strong>Kurt Matthews Puican Salas</strong><br>
-            <strong>TB1:</strong> XXXXXXXXXX<br>
-            <strong>TP:</strong> XXXXXXXXXXX
+            <strong>TB1:</strong> Me postule para realizar diversas actividades en el informe cumpliendo a tiempo todas las actividades que se me indicaron empleando conocimientos previos<br>
+            <strong>TP:</strong> Realice las actividades correspondientes de la entrega asi como tambien una mejora continua junto con el equipo para mejorar errores previos juntos con las mejoras de la nueva entrega
         </td>
     </tr>
     <tr>
