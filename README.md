@@ -54,7 +54,7 @@ Kurt Matthews Puican Salas - U202016643
             <strong>Shayla Lussiné Choque Puma</strong>
         </td>
         <td style="text-align: justify;">
-            XXXX
+            Correcciones en Software Architecture(Landscape, context, container and deployment diagrams), Ubiquitous language, Software Configuration, diseño de web app y mobile.
         </td>
     </tr>
     <tr>
