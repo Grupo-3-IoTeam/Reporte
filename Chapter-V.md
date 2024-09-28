@@ -521,7 +521,7 @@ La arquitectura de la información permite un acceso rápido a todas las funcion
 #### Web Application Prototyping
 **Simulación de interacción y navegación**
 
-<video controls src="web-prototyping.mp4" title="Web Application Proptotyping"></video>
+<video controls src="assets/web-prototyping.mp4" title="Web Application Proptotyping"></video>
 
 El video demuestra los flujos de interacción clave de la aplicación:
 - Inicio de sesión y registro de nuevos usuarios.
