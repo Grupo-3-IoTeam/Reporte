@@ -284,8 +284,8 @@ Kurt Matthews Puican Salas - U202016643
     <tr>
         <td style="text-align: center;">
             <strong>Rafael Arturo Luyo Ramirez</strong><br>
-            <strong>TB1:</strong> XXXXXXXXXX<br>
-            <strong>TP:</strong> XXXXXXXXXXX
+            <strong>TB1:</strong> Aporte acerca de Lean UX Canvas, los 10 puntos del eventstorming y la continua comunicación con el equipo<br>
+            <strong>TP:</strong> Aporte acerca de las pantallas de Calendario de Irrigación, Estado de Parcela, en cuanto las mejoras continuas mejore el LeanUXCanvas y las descripciones de todos los puntos del eventstorming, por ultimo realicé el deployment en Netlify.
         </td>
     </tr>
     <tr>
