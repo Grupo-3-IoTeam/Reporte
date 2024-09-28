@@ -353,6 +353,19 @@ Durante el Sprint 1, se avanzó en la implementación de las funcionalidades pla
 </table>
 
 
+En la siguiente tabla se mostrarán algunos de los commits más importantes realizados por cada developer del Sprint 1.
+
+| Repository                       | Branch                       | Commit Id                             | Commit Message                     | Commit Message Body                          | Commited on (Date) |
+|----------------------------------|------------------------------|---------------------------------------|-------------------------------------|-----------------------------------------------|---------------------|
+| Shayla/ThirstySeedWebApplication | feature/side-navigation-bar   | 83cbbaa3caeee697d3b62d12cf7f90e059dec03d | feat (side-navigation-bar)          | implement sidenav                             |                     |
+| Shayla/ThirstySeedWebApplication | feature/set-irrigation-mode   | d86d83f9b575a97451d71c126b0fa8787e024ec8 | feat(set-irrigation-mode)          | implement set irrigation mode                 |                     |
+| Alexis/ThirstySeedWebApplication  | feature/section-activate-nodes | e590cab599bc4a3bea4d988bd538f9f6e499f858 | feat (section-activate-nodes)      | add router activate-nodes                     |                     |
+| Giakomo/ThirstySeedWebApplication | feature/section-plot-registered | 0956347c43edff4bf66ca76b352fef9b35172a76 | feat (section-plot-registered)     | registeredView                                |                     |
+| Giakomo/ThirstySeedWebApplication | feature/section-plot-registered | da6b2b7517b8e31162155f8b84dc1106d0d272aa | feat (section-plot-registered)     | viewPlot                                     |                     |
+| Kurt/ThirstySeedWebApplication    | feature/section-register-node   | 097a35d477726c8a3d72f79160a52459d0b87b4c | feat (section-register-node)       | service and component added                   |                     |
+| Kurt/ThirstySeedWebApplication    | feature/section-register         | 85851af4ed03d6862750130369ab2d345a5e6632 | feat (section-register)            | add component                                 |                     |
+| Rafael/ThirstySeedWebApplication   | feature/section-irrigation-schedule | d309e872799790e7d9b9bbb7b797545843cc0811 | feat (section-irrigation-schedule) | Irrigation Schedule added                      |                     |
+| Rafael/ThirstySeedWebApplication   | feature/section-plot-status      | 904efa00f8ffb361df38c0f9581d249a43ebb78c | feat (section-plot-status)        | Plot Status View Added                        |                     |
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review
 Aquí se proporcionara información sobre las pruebas realizadas durante el sprint.Se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada.
 
@@ -366,6 +379,7 @@ Aquí se proporcionara información sobre las pruebas realizadas durante el spri
         https://pagespeed.web.dev/analysis/https-grupo-3-ioteam-github-io-ThirstySeed-Landing/foaeucaur9?hl=es-ES&form_factor=desktop
     </a>
 </p>
+Por otro lado, no se ha llevado a cabo la prueba de la suite de testing para la web app esta entrega debido a que aún no disponemos de la primera versión del backend. Posteriormente, implementaremos pruebas utilizando una herramienta de automatización para pruebas de aceptación y comportamiento.
 
 #### 6.2.1.5. Execution Evidence for Sprint Review
 Esta sección se centrará en la ejecución de la aplicación durante el sprint. Se visualizará la navegación del Landing Page como la de la página web, de esta manera se destacaran las características y funcionalidades implementadas en la aplicación.
@@ -377,6 +391,20 @@ Esta sección se centrará en la ejecución de la aplicación durante el sprint.
         https://grupo-3-ioteam.github.io/ThirstySeed-Landing/
     </a>
 </p>
+
+Para el Sprint 1 se realizaron las diferentes HU, completándolas al 100% y otros al 80%. Compartimos imágenes para mostrar cómo quedó el avance de la primera versión del servicio web. Cada uno con su ruta respectiva.
+
+**Link de la página desplegada:** [https://thirstyseed.netlify.app](https://thirstyseed.netlify.app)
+
+- **Cuenta:** El usuario visualiza su perfil de usuario
+- **Registrar parcela:** El usuario registra una parcela
+- **Registrar Nodo:** El usuario registra un nodo
+- **Parcelas Registradas:** El usuario visualiza sus parcelas previamente registradas
+- **Estado de Parcela:** El usuario visualiza el estado de su parcela especificada
+- **Calendario de Irrigación:** El usuario visualiza el calendario de Irrigación de sus parcelas
+- **Agregar/modificar el calendario de riego de parcela:** El usuario es capaz de agregar o modificar el calendario de riego de sus parcelas registradas
+- **Activación de Nodos de Riego:** El usuario es capaz de activar los nodos de riego referente a una parcela específica
+- **Notificación:** El usuario visualiza una notificación acerca de la irrigación completada
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
 
