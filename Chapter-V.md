@@ -506,6 +506,28 @@ Cada uno de los siguientes mock-ups destaca puntos clave de interacción con el 
 #### Mobile Application User Flow
 
 ## 5.5. Applications Prototyping
-#### Web Application User Flow
+La interfaz de usuario de **Thirsty Seed** fue diseñada para facilitar la navegación y la interacción en **web** y **dispositivos móviles**, asegurando que las funciones clave de la plataforma sean accesibles de manera intuitiva. Se tomó en cuenta una estructura clara y eficiente, donde cada acción del usuario sigue una secuencia lógica y fluida.
 
-#### Mobile Application User Flow
+El sistema de navegación permite a los usuarios moverse fácilmente entre las distintas secciones, como la **gestión de parcelas**, **riego programado**, **visualización de reportes**, y **contacto con soporte**. Este enfoque simplifica la experiencia de usuario y minimiza los pasos necesarios para completar tareas críticas.
+
+**Criterios de interacción**
+- **Navegación visible**: El menú lateral mantiene accesibles todas las funciones principales, mejorando la experiencia de usuario tanto en pantallas grandes como pequeñas.
+- **Interacciones claras**: Se utilizaron colores específicos para diferenciar acciones principales (*verde* para confirmar, *rojo* para alertas), permitiendo que el usuario identifique rápidamente sus opciones.
+- **Adaptabilidad**: Se asegura que la experiencia sea consistente entre las versiones de escritorio y móvil, adaptando la interfaz para que las funciones se mantengan completas en ambos dispositivos.
+
+**Relación con la arquitectura de información**
+La arquitectura de la información permite un acceso rápido a todas las funciones importantes a través del menú de navegación lateral. Los usuarios pueden gestionar sus parcelas y programar riegos sin complicaciones, lo que mejora la eficiencia y la experiencia general en la plataforma.
+
+#### Web Application Prototyping
+**Simulación de interacción y navegación**
+
+<video controls src="web-prototyping.mp4" title="Web Application Proptotyping"></video>
+
+El video demuestra los flujos de interacción clave de la aplicación:
+- Inicio de sesión y registro de nuevos usuarios.
+- Navegación hacia la sección de **gestión de parcelas**, donde se pueden agregar nuevas parcelas y nodos de riego.
+- Programación de riegos, ya sea manual o automático, en función de los parámetros configurados por el usuario.
+- Visualización de reportes de riego, tanto actuales como históricos.
+- Opción de contactar al soporte técnico cuando se detectan problemas en los nodos de riego.
+
+#### Mobile Application Prototype
