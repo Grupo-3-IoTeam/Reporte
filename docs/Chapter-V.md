@@ -425,10 +425,10 @@ En esta sección, se presenta la propuesta de diseño UI del Landing Page, enfoc
 ## 5.4. Applications UX/UI Design
 ### 5.4.1. Applications Wireframes
 #### Web Application Wireframes
-![uf-view-plots](assets/wf.jpg)
+![uf-view-plots](../assets/wf.jpg)
 
 #### Mobile Application Wireframes
-![uf-view-plots](assets/mf.jpg)
+![uf-view-plots](../assets/mf.jpg)
 
 ### 5.4.3. Applications Mock-ups
 #### Web Application Mock-ups
