@@ -435,70 +435,70 @@ En esta sección, se presenta la propuesta de diseño UI del Landing Page, enfoc
 Cada uno de los siguientes mock-ups destaca puntos clave de interacción con el usuario y elementos del diseño de la interfaz, haciendo énfasis en el diseño inclusivo y la arquitectura de la información. El sistema de diseño se ha aplicado de manera consistente en todas las pantallas para ofrecer una experiencia de usuario cohesiva.
 
 **Pantalla de Login**
-   ![assets/login.png](assets/login.png)
+   ![assets/login.png](../assets/login.png)
    *Pantalla de inicio de sesión simple y clara, con un formulario prominente y etiquetas accesibles. Los usuarios también pueden restablecer su contraseña fácilmente.*
 
 **Pantalla de Registro**
-   ![assets/sign-up.png](assets/sign-up.png)
+   ![assets/sign-up.png](../assets/sign-up.png)
    *Formulario de registro minimalista que captura los datos clave. Los botones en verde indican acciones y se utiliza espacio en blanco para mejorar la legibilidad.*
 
 **Pantalla de Recuperación de Contraseña**
-   ![assets/rec-password.png](assets/rec-password.png)
+   ![assets/rec-password.png](../assets/rec-password.png)
    *Formulario sencillo para que los usuarios puedan restablecer su contraseña ingresando su correo electrónico. El diseño sigue los estándares de accesibilidad.*
 
 **Pantalla de Cuenta**
-   ![assets/account.png](assets/account.png)
+   ![assets/account.png](../assets/account.png)
    *Muestra la información de la cuenta del usuario con botones bien distribuidos para editar el perfil y gestionar parcelas. Incluye indicadores visuales para tareas importantes.*
 
 **Visualización de Parcelas**
-   ![assets/view-plots.png](assets/view-plots.png)
+   ![assets/view-plots.png](../assets/view-plots.png)
    *Permite a los usuarios ver sus parcelas registradas en un diseño de cuadrícula, presentando detalles clave con botones de acción para gestionar el riego o ver el estado.*
 
 **Registro de Parcela**
-   ![assets/plot-register.png](assets/plot-register.png)
+   ![assets/plot-register.png](../assets/plot-register.png)
    *Formulario para registrar nuevas parcelas. La interfaz está diseñada para una rápida entrada de datos, con botones prominentes y campos bien etiquetados.*
 
 **Registro de Nodo**
-   ![assets/node-register.png](assets/node-register.png)
+   ![assets/node-register.png](../assets/node-register.png)
    *Pantalla de registro de nodos IoT para monitorear la humedad. Diseñada con íconos claros y texto sencillo para facilitar el uso.*
 
 **Estado de Parcela**
-   ![assets/view-plot-status.png](assets/view-plot-status.png)
+   ![assets/view-plot-status.png](../assets/view-plot-status.png)
    *Muestra niveles de humedad en tiempo real y el estado del riego de parcelas, con controles de programación y visualización de indicadores clave de salud del cultivo.*
 
 **Programación de Riego Automático**
-   ![assets/schedule-automatic-irrigation.png](assets/schedule-automatic-irrigation.png)
+   ![assets/schedule-automatic-irrigation.png](../assets/schedule-automatic-irrigation.png)
    *Permite a los usuarios programar el riego automático. Los botones de alternancia son de fácil acceso, y se proporcionan instrucciones claras para establecer horarios.*
 
 **Activación Manual de Riego**
-   ![assets/activate-manual-nodes.png](assets/activate-manual-nodes.png)
+   ![assets/activate-manual-nodes.png](../assets/activate-manual-nodes.png)
    *Facilita la activación manual de nodos de riego. Las etiquetas muestran claramente el estado del nodo, permitiendo un control en tiempo real por parte del usuario.*
 
 **Finalización de Tarea de Riego**
-   ![assets/completed-irrigation-node.png](assets/completed-irrigation-node.png)
+   ![assets/completed-irrigation-node.png](../assets/completed-irrigation-node.png)
    *Muestra el estado de finalización de las tareas de riego, proporcionando información detallada sobre el rendimiento del nodo durante los ciclos de riego.*
 
 **Informes de Riego**
-   ![assets/current-report.png](assets/current-report.png)
+   ![assets/current-report.png](../assets/current-report.png)
    *Presenta un informe detallado de las actividades de riego. Los elementos visuales como gráficos y resúmenes de rendimiento proporcionan una visión clara del uso de agua.*
 
 **Informes Mensuales**
-   ![assets/monthly-report.png](assets/monthly-report.png)
+   ![assets/monthly-report.png](../assets/monthly-report.png)
    *Los informes mensuales muestran datos a lo largo del tiempo, permitiendo a los usuarios realizar un seguimiento del rendimiento y hacer ajustes basados en patrones históricos de riego.*
 
 **Soporte**
-   ![assets/support.png](assets/support.png)
+   ![assets/support.png](../assets/support.png)
    *Formulario de contacto que permite a los usuarios ponerse en contacto para obtener asistencia. Está diseñado para ser sencillo, con campos desplegables y cajas de texto para enviar consultas detalladas.*
 
 #### Mobile Application Mock-ups
 
-![uf-view-plots](assets/mm.jpg)
+![uf-view-plots](../assets/mm.jpg)
 
 ### 5.4.4. Applications User Flow Diagrams
 #### Web Application User Flow
 
 **User Goal**: Iniciar sesión en la aplicación  
-![uf-login](assets/uf-login.png)
+![uf-login](../assets/uf-login.png)
 
 **Flujo:**  
 1. El usuario abre la aplicación e ingresa sus credenciales (correo electrónico y contraseña).  
@@ -508,7 +508,7 @@ Cada uno de los siguientes mock-ups destaca puntos clave de interacción con el 
 ---  
 
 **User Goal**: Registrarse en la aplicación  
-![uf-signup](assets/uf-signup.png)
+![uf-signup](../assets/uf-signup.png)
 
 **Flujo:**  
 1. El usuario que no tiene cuenta selecciona *Sign Up*.  
@@ -518,7 +518,7 @@ Cada uno de los siguientes mock-ups destaca puntos clave de interacción con el 
 ---  
 
 **User Goal**: Registrar una parcela y sus nodos  
-![uf-register-plot-node](assets/uf-register-plot-node.png)
+![uf-register-plot-node](../assets/uf-register-plot-node.png)
 
 **Flujo:**  
 1. El usuario selecciona *Manage Parcels* y agrega una nueva parcela.  
@@ -528,7 +528,7 @@ Cada uno de los siguientes mock-ups destaca puntos clave de interacción con el 
 ---  
 
 **User Goal**: Visualizar parcelas registradas  
-![uf-view-plots](assets/uf-view-plots.png)
+![uf-view-plots](../assets/uf-view-plots.png)
 
 **Flujo:**  
 1. El usuario visualiza sus parcelas registradas en el sistema.  
@@ -538,7 +538,7 @@ Cada uno de los siguientes mock-ups destaca puntos clave de interacción con el 
 ---  
 
 **User Goal**: Visualizar el estado de los nodos en una parcela  
-![uf-node-status-in-plot](assets/uf-node-status-in-plot.png)
+![uf-node-status-in-plot](../assets/uf-node-status-in-plot.png)
 
 **Flujo:**  
 1. El usuario accede al estado de la parcela y visualiza los nodos.  
@@ -548,7 +548,7 @@ Cada uno de los siguientes mock-ups destaca puntos clave de interacción con el 
 ---  
 
 **User Goal**: Programar riego automático o manual  
-![uf-schedule-mode-irrigation](assets/uf-schedule-mode-irrigation.png)
+![uf-schedule-mode-irrigation](../assets/uf-schedule-mode-irrigation.png)
 
 **Flujo:**  
 1. El usuario selecciona una parcela y planifica el riego.  
@@ -558,7 +558,7 @@ Cada uno de los siguientes mock-ups destaca puntos clave de interacción con el 
 ---  
 
 **User Goal**: Activar riego manual  
-![uf-activate-manual-irrigation](assets/uf-activate-manual-irrigation.png)
+![uf-activate-manual-irrigation](../assets/uf-activate-manual-irrigation.png)
 
 **Flujo:**  
 1. El usuario selecciona el riego manual para una parcela.  
@@ -568,7 +568,7 @@ Cada uno de los siguientes mock-ups destaca puntos clave de interacción con el 
 ---  
 
 **User Goal**: Visualizar reportes de riego  
-![uf-view-reports](assets/uf-view-reports.png)
+![uf-view-reports](../assets/uf-view-reports.png)
 
 **Flujo:**  
 1. El usuario visualiza el reporte del riego actual para una parcela específica.  
@@ -578,7 +578,7 @@ Cada uno de los siguientes mock-ups destaca puntos clave de interacción con el 
 ---  
 
 **User Goal**: Contactar soporte  
-![uf-contact-support](assets/uf-contact-support.png)
+![uf-contact-support](../assets/uf-contact-support.png)
 
 **Flujo:**  
 1. El usuario visualiza el estado de los nodos en la parcela.  
