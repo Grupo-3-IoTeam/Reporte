@@ -625,14 +625,18 @@ En este Sprint, nos enfocamos en el despliegue del producto ThirstySeed a travé
 **Productor Agrícultor**
 
 Nombre: Karla Choque
+
 Locacion: Santo Domingo, Acopia, Acomayo, Cusco
+
 Edad: 18
+
 Sistema Operativo: Android
+
 Captura: ![image](https://github.com/user-attachments/assets/57fac985-5a80-4b49-8440-60d53fdd1e1c)
 
 Resumen:
 
-Karla tiene 18 años y dedica parte de su tiempo a la producción de forrajes. Con respecto a la aplicacion, menciona que le gustó mucho las funcionalidades que ofrece. También, considera que todo ello facilitara el modo de riego de sus forrajes, destaca que sobre todo, la aplicacion permitira que ese tiempo de planificacion, traslado al terreno y la preparacion de los aspersores, se veran disminuidos y podra goazar de mas tiempo para hacer otras actividades. Menciona que si le brindan todo el equipo para el nodo (aspersores y sensores(aplicacion embebida)) estaria dispuesta a pagar un inicial de $ 150 dolares por 4 nodos. Y pagar mensualmente por el mantemiento y el resto de las funcionaladesde hasta 7$. Lo que mas le gusto de la aplicacion es el registro de terreno, nodos y la planificacion del riego. Considera que la funcionalidad que usaria seria la plainificacion de riego. Menciona que la fncionalidad que debe mejorarse seria una mejor precision de la humedad cuando la planificacion del riego sea automatica. Por ello, cree que esta funcionalidad debe refinarse.
+Karla tiene 18 años y dedica parte de su tiempo a la producción de forrajes. Con respecto a la aplicacion, menciona que le gustó mucho las funcionalidades que ofrece. También, considera que todo ello facilitara el modo de riego de sus forrajes, destaca que sobre todo, la aplicacion permitira que ese tiempo de planificacion, traslado al terreno y la preparacion de los aspersores, se veran disminuidos y podra goazar de mas tiempo para hacer otras actividades. Menciona que si le brindan todo el equipo para el nodo (aspersores y sensores(aplicacion embebida)) estaria dispuesta a pagar un inicial de $ 150 dolares por 4 nodos. Y pagar mensualmente por el mantemiento y el resto de las funcionaladesde hasta 7$. Lo que mas le gusto de la aplicacion es el registro de terreno, nodos y la planificacion del riego. Considera que la funcionalidad que usaria seria la plainificacion de riego. Menciona que la fncionalidad que debe mejorarse seria una mejor precision de la humedad cuando la planificacion del riego sea automatica y el tiempo en función en ello. Por ello, cree que esta funcionalidad debe refinarse.
 
 ### 6.3.3. Evaluaciones según heurísticas.
 ## 6.4. Video About-the-Product.
