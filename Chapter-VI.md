@@ -625,13 +625,9 @@ En este Sprint, nos enfocamos en el despliegue del producto ThirstySeed a travé
 **Productor Agrícultor**
 
 Nombre: Karla Choque
-
 Locacion: Santo Domingo, Acopia, Acomayo, Cusco
-
 Edad: 18
-
 Sistema Operativo: Android
-
 Captura: ![image](https://github.com/user-attachments/assets/57fac985-5a80-4b49-8440-60d53fdd1e1c)
 
 Resumen:
