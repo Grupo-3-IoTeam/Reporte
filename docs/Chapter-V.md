@@ -429,6 +429,56 @@ En esta sección, se presenta la propuesta de diseño UI del Landing Page, enfoc
 
 #### Mobile Application Wireframes
 ![uf-view-plots](../assets/mf.jpg)
+### 5.4.2. Applications Wireflow Diagrams
+# Web Fireflow
+
+![Login](../assets/Aspose.Words.eb244254-29e5-4ad8-b980-13e2dcaeac6f.001.png)
+Empieza en la vista login. Al hacer clic en las opciones "Login", "Sign In" y "Forgot Password" se dirigen a sus respectivas vistas.
+
+![Login Options](../assets/Aspose.Words.eb244254-29e5-4ad8-b980-13e2dcaeac6f.002.png)
+
+Cuando los usuarios se loguean, estarán en la vista de perfil. Desde ahí, al hacer clic en "Manage Plots" se les dirigirá a la vista correspondiente, donde tendrán la opción de registrar nodos, lo cual los llevará a su respectiva vista al seleccionarlo.
+
+![Manage Plots](../assets/Aspose.Words.eb244254-29e5-4ad8-b980-13e2dcaeac6f.003.png)
+
+En "Register Plots" se mostrarán las parcelas registradas hasta el momento. Si están en funcionamiento se mostrarán, de lo contrario aparecerán en rojo.
+
+![Plots View](../assets/Aspose.Words.eb244254-29e5-4ad8-b980-13e2dcaeac6f.004.png)
+
+![Parcel Status](../assets/Aspose.Words.eb244254-29e5-4ad8-b980-13e2dcaeac6f.005.png)
+Al seleccionar "Ver estado de la parcela", se mostrará la información de esta, así como también la posibilidad de programar los riegos.
+
+En la opción de activar el riego se da la posibilidad de activar el riego manual para comenzar a regar las parcelas.
+
+![Irrigation Activation](../assets/Aspose.Words.eb244254-29e5-4ad8-b980-13e2dcaeac6f.006.png)
+
+Se muestra una notificación de que se está regando. Cuando se hace clic en "Irrigation Reports" se muestran las vistas respectivas de los reportes, así como también la opción de mostrar los riegos actuales o mensuales.
+
+# Mobile Wireflow
+
+![Mobile Login](../assets/Aspose.Words.eb244254-29e5-4ad8-b980-13e2dcaeac6f.007.png)
+
+Empieza en la vista login. Al hacer clic en las opciones "Login", "Sign In" y "Forgot Password" se dirigen a sus respectivas vistas.
+
+![Mobile Profile](../assets/Aspose.Words.eb244254-29e5-4ad8-b980-13e2dcaeac6f.008.png)
+
+Cuando los usuarios se loguean, estarán en la vista de perfil, donde se muestra la información de la cuenta y las parcelas registradas.
+
+![Register Parcel](../assets/Aspose.Words.eb244254-29e5-4ad8-b980-13e2dcaeac6f.009.png)
+
+Al seleccionar "Registrar Parcela" se muestra la información para registrar una parcela, así como también la opción de registrar un nodo. Al hacer clic en "Administrar Parcelas" se muestran todas las parcelas registradas hasta el momento.
+
+![Scheduled Irrigation](../assets/Aspose.Words.eb244254-29e5-4ad8-b980-13e2dcaeac6f.010.png)
+
+Al hacer clic en el botón "Riego Programado" se muestran las parcelas. Al seleccionar alguna, aparece el botón "Programar Riego", el cual lleva a las vistas de riego.
+
+![Irrigation Programming](../assets/Aspose.Words.eb244254-29e5-4ad8-b980-13e2dcaeac6f.011.png)
+
+Al hacer clic en "Programar Riego" se da la opción de seleccionar riego manual o automático, con sus respectivas opciones, además de poder activar los aspersores manualmente.
+
+![Irrigation Reports](../assets/Aspose.Words.eb244254-29e5-4ad8-b980-13e2dcaeac6f.012.png)
+
+Cuando se selecciona "Reportes de Riego" se muestran los reportes de cada parcela, así como también la opción de ver reportes de un solo riego o un reporte mensual completo.
 
 ### 5.4.3. Applications Mock-ups
 #### Web Application Mock-ups
