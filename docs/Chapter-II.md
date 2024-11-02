@@ -6,10 +6,10 @@ En este apartado veremos los principales competidores que tenemos en comparació
 <tr><td rowspan="2" valign="top"><p>¿Por qué llevar a </p><p>cabo este análisis?</p></td><td colspan="5" valign="top"><p>Escriba en el recuadro la pregunta que busca responder o el objetivo de </p><p>este análisis.</p></td></tr>
 <tr><td colspan="5" valign="top">¿Cómo se posiciona "Thirsty Seed" en comparación con los líderes del mercado en soluciones de riego inteligente y tecnologías IoT aplicadas a la agricultura?</td></tr>
 <tr><td colspan="2" valign="top"></td>
-  <td valign="top"><img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.001.png" alt="Image 1"></td>
-  <td valign="top"><img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.002.png" alt="Image 2"></td>
-  <td valign="top"><img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.003.png" alt="Image 3"></td>
-  <td valign="top"><img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.004.png" alt="Image 4"></td></tr>
+  <td valign="top"><img src="assets/Logo.jpg" alt="Image 1"></td>
+  <td valign="top"><img src="assets/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.002.png" alt="Image 2"></td>
+  <td valign="top"><img src="assets/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.003.png" alt="Image 3"></td>
+  <td valign="top"><img src="assets/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.004.png" alt="Image 4"></td></tr>
 <tr><td rowspan="2" valign="top">Perfil</td><td valign="top">Overview </td><td valign="top">Thirsty Seed es una solución innovadora desarrollada por IoTeam, enfocada en la optimización del riego para productores agricolas. A través de la tecnología IoT, la aplicación permite el monitoreo en tiempo real de la humedad del suelo y el control automatizado del riego. Esto ayuda a los productores agrícolas a mejorar la eficiencia del uso del agua, reducir costos operativos, y aumentar la calidad de sus forrajes. </td><td valign="top">Netafim es líder global en tecnologías de riego por goteo y microirrigación, ofreciendo soluciones que incluyen sistemas automatizados y tecnologías de IoT para mejorar la eficiencia hídrica y la productividad agrícola. Con presencia en más de 110 países, Netafim es conocida por su innovación continua y su enfoque en la sostenibilidad agrícola.</td><td valign="top">Valley Irrigation, una división de Valmont Industries, se especializa en sistemas de riego por pivote central y tecnologías de riego inteligente. Sus soluciones están diseñadas para grandes explotaciones agrícolas y se destacan por integrar tecnologías IoT que permiten el monitoreo y control remoto del riego.</td><td valign="top">Hortau es una empresa innovadora en el ámbito del riego inteligente, centrada en la agricultura de precisión. Utilizan sensores de humedad del suelo y tecnologías IoT para ofrecer a los agricultores datos en tiempo real y control automático del riego, ayudando a optimizar el uso del agua y mejorar la salud de los cultivos.</td></tr>
 <tr><td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes? </td><td valign="top">Thirsty Seed ofrece a los agricultores un control preciso y automatizado del riego, maximizando el uso eficiente del agua y reduciendo significativamente el desperdicio. La integración de sensores IoT proporciona datos en tiempo real sobre las condiciones del suelo, lo que permite tomar decisiones informadas y mejorar la productividad de los forrajes. Además, la accesibilidad y facilidad de uso del sistema lo hacen ideal para pequeños agricultores que buscan modernizar sus prácticas sin grandes inversiones iniciales​</td><td valign="top">Netafim ofrece a los clientes una combinación de tecnología avanzada, conocimiento profundo del mercado agrícola, y soluciones personalizadas que maximizan la eficiencia del uso del agua. Su experiencia y capacidad para proporcionar soluciones completas desde el diseño hasta la implementación, respaldadas por una fuerte red de soporte, son grandes diferenciadores.</td><td valign="top">Valley Irrigation ofrece soluciones robustas y fiables que combinan ingeniería avanzada con tecnologías de control de precisión, permitiendo a los agricultores optimizar el uso del agua en grandes áreas de cultivo. Su plataforma Valley 365 proporciona una gestión centralizada y eficiente de las operaciones agrícolas, lo que es un valor clave para clientes que operan a gran escala.</td><td valign="top"><p>Hortau se destaca por su enfoque en el monitoreo en tiempo real de la humedad del suelo y la capacidad de ajustar automáticamente los sistemas de riego en función de las necesidades específicas del cultivo. Esto proporciona a los agricultores una forma más eficiente y sostenible de gestionar el riego, reduciendo el desperdicio de agua y mejorando la producción agrícola.</p><p></p></td></tr>
 <tr><td rowspan="2" valign="top">Perfil de Marketing</td><td valign="top">Mercado objetivo </td><td valign="top">El mercado objetivo de Thirsty Seed son productores agrícolas que cultivan forrajes para la ganadería en áreas rurales de Perú. También se enfoca en proveedores de sistemas de riego que buscan mejorar la eficiencia hídrica en sus operaciones. La solución es especialmente valiosa para agricultores en regiones donde la escasez de agua y la variabilidad climática son desafíos críticos​</td><td valign="top">Netafim se dirige principalmente a grandes explotaciones agrícolas, corporaciones agrícolas, y gobiernos que buscan implementar soluciones sostenibles de riego a gran escala. Su mercado objetivo incluye a agricultores que cultivan productos de alto valor como frutas, vegetales, y viñedos, así como aquellos que necesitan sistemas de riego eficientes en regiones con escasez de agua.</td><td valign="top">Valley Irrigation se enfoca en agricultores de grandes explotaciones agrícolas, especialmente en zonas rurales de Estados Unidos, América Latina, y otros mercados emergentes donde el riego por pivote es común. Su objetivo principal son los productores de cultivos como maíz, trigo, soja, y algodón, que requieren soluciones eficientes de riego para cubrir grandes extensiones de tierra.</td><td valign="top">Hortau se dirige a agricultores y productores que buscan implementar la agricultura de precisión, especialmente aquellos interesados en el riego sostenible y la optimización del uso del agua. Su mercado objetivo incluye cultivos de frutas, vegetales, viñedos, y otros productos que requieren un monitoreo cuidadoso del suelo y la humedad.</td></tr>
@@ -58,12 +58,12 @@ Para realizar un mejor control de informacion sobe nuestros segmentos objetios h
 |Nombre completo|Norma Puma Mamani|
 |Edad|46 años|
 |Distrito|Acopia|
-|Screenshot de video|<img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.005.png" alt="Usuario" style="width:100%;">|
+|Screenshot de video|<img src="assets/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.005.png" alt="Usuario" style="width:100%;">|
 |URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c144_upc_edu_pe/Ea2xJKlb2aFIoLsfuCf_e0UBrpp8mk1lr5II-YbDrcO7vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bWyNeE)|
 |Entrevista entre los minutos|00:00 - 10:32|
 |Resumen de la entrevista|Norma, una productora agrícola de 46 años del distrito de Acopia en Cusco, se especializa en la producción de forrajes para alimentar a sus animales, incluyendo vacunos, ovinos y cuyes. Uno de los principales desafíos que enfrenta es el riego durante la época de sequía, que va de junio a octubre. Durante esta temporada, el riego se realiza de 1 a 2 veces al mes, dependiendo de la disponibilidad de recursos en su comunidad y cómo se organizan. La variabilidad climática, especialmente las heladas, puede dañar gravemente los forrajes al quemarlos, y esto puede destruir una parcela completa. Aunque sigue regando para mantener las raíces vivas hasta la llegada de la lluvia, las heladas a menudo anulan los beneficios del riego. Ella produce tres tipos de forraje: alfalfa, raigrás y cebada. De estos, la cebada es la más resistente a las heladas. Utiliza principalmente riego por gravedad o inundación y, en menor medida, riego por aspersión. Para el riego por aspersión, ella misma proporciona los aspersores. Ha observado que el sistema de riego actual resulta en grandes pérdidas de agua debido a tiempos de riego excesivos. Por ello, considera que incrementar el número de hidrantes y promover el uso de riego por aspersión podría ser una solución efectiva. Actualmente, no utiliza herramientas tecnológicas para monitorear la humedad del suelo. Menciona que está interesada en una herramienta tecnológica que le indique cuándo regar, especialmente para la cebada, para evitar problemas de sobreirrigación que también pueden dañar la producción. Ella estaría dispuesta a pagar un costo adicional inicial por una solución que permita monitorear la humedad del suelo y automatizar el riego, ya que esto le ahorraría tiempo y mejoraría la gestión de sus forrajes.|
 
-<img src="assets2/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
+<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
 
 
 |***Entrevista - Segmento Productores Agrícolas***|***2***|
@@ -71,12 +71,12 @@ Para realizar un mejor control de informacion sobe nuestros segmentos objetios h
 |Nombre completo|Bacilio Choque Ccasa|
 |Edad|53 años|
 |Distrito|Acopia|
-|Screenshot de video|<img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.006.png" alt="Usuario" style="width:100%;">|
+|Screenshot de video|<img src="assets/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.006.png" alt="Usuario" style="width:100%;">|
 |URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c144_upc_edu_pe/Ea2xJKlb2aFIoLsfuCf_e0UBrpp8mk1lr5II-YbDrcO7vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bWyNeE)|
 |Entrevista entre los minutos|10:32 - 23:00|
 |Resumen de la entrevista|Bacilio, de 53 años y originario del distrito de Acopia en Cusco, es productor de forrajes para la alimentación de cuyes. Enfrenta desafíos significativos durante la época de sequía, que va de junio a octubre, debido a la escasez de agua para el riego de sus parcelas. Durante esta temporada, el riego se realiza semanal o quincenalmente, dependiendo del tipo de suelo. La helada también afecta gravemente, dañando o incluso matando las plantas. Para mitigar estos problemas, utiliza riego por aspersión y por gravedad, ajustando la frecuencia de riego según la observación. Sin embargo, el costo del riego no siempre se justifica por el rendimiento de los forrajes. A pesar de estos desafíos, el forraje de cebada muestra una mayor resistencia a las duras condiciones. Considera que sería muy útil contar con una herramienta para monitorear el nivel de humedad del suelo y automatizar el riego por aspersión, lo que podría ahorrar tiempo y costos. Además, le interesa tener una herramienta que le recomiende medidas para contrarrestar los efectos de la helada en los forrajes. Está dispuesto a asumir un costo adicional inicial para implementar estas soluciones.|
 
-<img src="assets2/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
+<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
 
 
 |***Entrevista - Segmento Productores Agrícolas***|***3***|
@@ -84,7 +84,7 @@ Para realizar un mejor control de informacion sobe nuestros segmentos objetios h
 |Nombre completo|Ronaldo Quispe|
 |Edad|53 años|
 |Distrito|Santiago de surco|
-|Screenshot de video|<img src="assets2/Entrevsita - Ronaldo Quispe.png" alt="Usuario" style="width:100%;">|
+|Screenshot de video|<img src="assets/Entrevsita - Ronaldo Quispe.png" alt="Usuario" style="width:100%;">|
 |URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c144_upc_edu_pe/Ea2xJKlb2aFIoLsfuCf_e0UBrpp8mk1lr5II-YbDrcO7vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bWyNeE)|
 |Entrevista entre los minutos|23:05 - 29:51|
 |Resumen de la entrevista|Ronaldo Quispe, productor agrícola de 43 años que vive en Santiago de Surco, menciona que los principales problemas en el cuidado de sus forrajes son asegurar que reciban suficiente agua, especialmente en épocas secas, y controlar plagas y enfermedades. Durante los periodos de escasez de lluvia, realiza el riego cada dos o tres días para mantener sus cultivos saludables. La variabilidad climática afecta sus prácticas de riego, obligando a hacer ajustes constantes que incrementan los costos y la complejidad del manejo de sus forrajes.Para enfrentar la falta de lluvias, ha mejorado su sistema de riego y busca conservar el agua, lo cual ha sido en gran medida efectivo, aunque no siempre suficiente. Raúl considera que la automatización del riego es crucial para aumentar la eficiencia y garantizar que el agua se use de manera óptima sin desperdiciar. Actualmente, utiliza un sistema de riego por goteo y un sensor básico de humedad, pero está interesado en actualizar su tecnología.Ha sufrido pérdidas de forraje por una mala gestión del riego en el pasado, pero ha ajustado su estrategia y aplicado fertilizantes para recuperar lo perdido. En cuanto al costo del riego, aunque puede ser elevado, lo considera justificado siempre que el forraje crezca adecuadamente y el rendimiento sea positivo. Está dispuesto a adoptar soluciones tecnológicas que optimicen el riego, siempre que el costo inicial tenga un retorno claro en términos de eficiencia y calidad. Raúl espera que la inversión en un sistema automatizado se traduzca en menos desperdicio de agua y mejor rendimiento en la producción de forrajes como la alfalfa y el trébol, destinados a la alimentación de ganado.
@@ -96,25 +96,25 @@ Para realizar un mejor control de informacion sobe nuestros segmentos objetios h
 |Nombre completo|Ernesto Condori Aroni|
 |Edad|49 años|
 |Distrito|Tactabamba|
-|Screenshot de video|<img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.007.png" alt="Usuario" style="width:100%;">|
+|Screenshot de video|<img src="assets/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.007.png" alt="Usuario" style="width:100%;">|
 |URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c144_upc_edu_pe/Ea2xJKlb2aFIoLsfuCf_e0UBrpp8mk1lr5II-YbDrcO7vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bWyNeE)|
 |Entrevista entre los minutos|29:55 - 40:50|
 |Resumen de la entrevista|Ernesto, de 49 años, es productor agrícola y miembro del comité de riego por gravedad de su comunidad. Enfrenta problemas debido a la alta demanda de agua durante la temporada de sequía, cuando la escasez es más crítica. Los comuneros compran agua por horas para regar sus forrajes, y el comité vende agua semanalmente, enfocándose en uno o dos sectores a la vez. Después de la venta de agua, Ernesto observa varios problemas: algunos usuarios no riegan a tiempo, otros exceden el tiempo asignado, y el agua se desperdicia debido a un riego inadecuado. También ocurre desperdicio cuando un regante compra agua en una parcela lejana a la anterior, ya que el transporte y la habilitación de los canales contribuyen a la pérdida de tiempo y agua. Los principales reclamos de los usuarios incluyen falta de tiempo suficiente, cantidad de agua insuficiente, o el uso inadecuado del agua, que provoca desperdicio. Para el riego, se habilitan válvulas para cada tipo de riego, tanto por aspersión como por gravedad, después de recoger el agua en el reservorio. Los aspersores son proporcionados por los usuarios, y el servicio comunitario se basa en la implementación de hidrantes. Ernesto recomienda que la mayoría de los usuarios adopten el riego por aspersión, ya que gestiona mejor el agua. Actualmente, no se utiliza tecnología moderna para monitorear y controlar la actividad de riego. Sin embargo, está muy interesado en alguna herramienta que le permita mejorar la prestación de este servicio y optimizar el modo de riego de su comunidad.|
 
-<img src="assets2/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
+<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
 
 |***Entrevista - Segmento Proveedores de agua***|***2***|
 |---------|----------|
 |Nombre completo|Isabel Valle|
 |Edad|65 años|
 |Distrito|Arequipa|
-|Screenshot de video|<img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.008.png" alt="Usuario" style="width:100%;">|
+|Screenshot de video|<img src="assets/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.008.png" alt="Usuario" style="width:100%;">|
 |URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c144_upc_edu_pe/Ea2xJKlb2aFIoLsfuCf_e0UBrpp8mk1lr5II-YbDrcO7vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bWyNeE)|
 |Entrevista entre los minutos|40:51 - 49:01|
 |Resumen de la entrevista|Isabel, de 65 años, es proveedor de agua para sistemas de riego y enfrenta desafíos durante la temporada de sequía debido a la alta demanda y la escasez de recursos. Ofrece sistemas de riego por gravedad, aspersión y goteo, pero ha notado un creciente interés de los productores en modernizar sus métodos para mejorar la eficiencia del agua. Luis menciona la necesidad de una mejor infraestructura y de adoptar tecnologías como IoT y sensores de humedad, aunque la adopción es baja debido al desconocimiento. Sus clientes reclaman por la eficiencia de los sistemas y por la falta de suministro constante. Luis recomienda riego por goteo y está interesado en soluciones que optimicen el uso del agua y mejoren el riego en las comunidades agrícolas.
 |
 
-<img src="assets2/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
+<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
 
 
 |***Entrevista - Segmento Proveedores de agua***|***3***|
@@ -122,7 +122,7 @@ Para realizar un mejor control de informacion sobe nuestros segmentos objetios h
 |Nombre completo|Raúl Erasmo|
 |Edad|47 años|
 |Distrito|Chorrillos|
-|Screenshot de video|<img src="assets2/Entrevsita - Raúl Quispe.png" alt="Usuario" style="width:100%;">|
+|Screenshot de video|<img src="assets/Entrevsita - Raúl Quispe.png" alt="Usuario" style="width:100%;">|
 |URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c144_upc_edu_pe/Ea2xJKlb2aFIoLsfuCf_e0UBrpp8mk1lr5II-YbDrcO7vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bWyNeE)|
 |Entrevista entre los minutos|49:03 - 55:23|
 |Resumen de la entrevista|En la entrevista con Raúl, se explicó que ofrecen sistemas de riego como goteo, aspersión y pivote central, adaptados a distintos cultivos y terrenos. Raúl mencionó que los clientes frecuentemente buscan modernizar sus sistemas para mejorar la eficiencia del uso del agua y reducir costos operativos. Los principales desafíos incluyen la disponibilidad de agua y los costos asociados a la infraestructura. Las tecnologías más efectivas son los sensores de humedad del suelo y los sistemas automatizados con software de control.Los criterios para recomendar un sistema incluyen el tipo de cultivo, el terreno, la disponibilidad de agua, el presupuesto y las condiciones climáticas. La demanda de tecnologías avanzadas ha crecido, con un interés en sistemas que proporcionan mejor control y análisis de datos. La retroalimentación de los clientes ha sido positiva en cuanto a la eficiencia y reducción del consumo de agua. Para manejar las fluctuaciones en la disponibilidad de agua, se utilizan planificación y almacenamiento. Raúl indicó que están incorporando tecnologías de IoT para monitoreo remoto y control automatizado, lo cual ha sido bien recibido. Para diferenciarse, planean ofrecer soluciones integrales que combinen sistemas avanzados con análisis de datos y soporte técnico continuo, además de desarrollar sistemas más sostenibles y adaptables.|
@@ -144,10 +144,10 @@ Luego de realiza las diversas entrevista somos capaces de poder realizar un user
 
 |**PRODUCTORES AGRICOLAS**|
 |-------------------------|
-|<img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.009.png" alt="BARRA SEPARADORA">|
-|<img src="assets2/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.009.png" alt="Usuario" style="width:100%;">|
+|<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">|
 |**PROVEEDORES DE AGUA**|
-|<img src="assets2\Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.010.png" alt="BARRA SEPARADORA">|
+|<img src="assets/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.010.png" alt="Usuario" style="width:100%;">|
 
 
 ### 2.3.2. User Task Matrix
@@ -181,17 +181,17 @@ Gracias a las entevistas podemos conocer que es lo que nuestros usuarios nececit
 ### 2.3.3. User Journey Mapping
 |**PRODUCTORES AGRICOLAS**|
 |-------------------------|
-|<img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.011.png" alt="BARRA SEPARADORA" style="width:100%">|
-|<img src="assets2/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.011.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">|
 |**PROVEEDORES DE AGUA**|
-|<img src="assets2/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.012.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/Aspose.Words.c1876ed7-94e1-4522-90c5-dec8ce7bfd93.012.png" alt="BARRA SEPARADORA" style="width:100%">|
 
 ### 2.3.4. Empathy Mapping
 |**PRODUCTORES AGRICOLAS**|
 |-------------------------|
-|<img src="assets2/upc-pre-202401-Thirsty Seed-si729-WV71-keynote-tb1.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/upc-pre-202401-Thirsty Seed-si729-WV71-keynote-tb1.png" alt="BARRA SEPARADORA" style="width:100%">|
 |**PROVEEDORES DE AGUA**|
-|<img src="assets2/upc-pre-202401-Thirsty Seed-si729-WV71-keynote-tb1 (1).png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/upc-pre-202401-Thirsty Seed-si729-WV71-keynote-tb1 (1).png" alt="BARRA SEPARADORA" style="width:100%">|
 
 ### 2.3.5. As-is Scenario Mapping
 | Fases                               | Configuración de la cuenta                            | Monitoreo de la humedad del suelo                     | Ajuste de parámetros de riego                         | Revisión de reportes y análisis                       |
