@@ -624,19 +624,18 @@ En este Sprint, nos enfocamos en el despliegue del producto ThirstySeed a travé
 
 **Productor Agrícultor**
 
-Nombre: Karla Choque
+**ENTREVISTA 3**
 
-Locacion: Santo Domingo, Acopia, Acomayo, Cusco
+**Nombre:** Karla Choque  
+**Locación:** Santo Domingo, Acopia, Acomayo, Cusco  
+**Edad:** 18  
+**Sistema Operativo:** Android  
+**Enlace:** [Entrevista - Karla](https://upcedupe-my.sharepoint.com/personal/u20201c144_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201c144%5Fupc%5Fedu%5Fpe%2FDocuments%2FUniversidad%2FCICLO%20IX%2FDesarrollo%20de%20Soluciones%20IoT%2FFinal%20Project%2FTB2%2FEntrevistas%2FEntrevistas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9a43b4d1%2D4915%2D47db%2D9013%2De537173495c0)  
+**Comienza en minuto:** 14:36  
+**Captura:** ![image](https://github.com/user-attachments/assets/57fac985-5a80-4b49-8440-60d53fdd1e1c)
 
-Edad: 18
-
-Sistema Operativo: Android
-
-Captura: ![image](https://github.com/user-attachments/assets/57fac985-5a80-4b49-8440-60d53fdd1e1c)
-
-Resumen:
-
-Karla tiene 18 años y dedica parte de su tiempo a la producción de forrajes. Con respecto a la aplicacion, menciona que le gustó mucho las funcionalidades que ofrece. También, considera que todo ello facilitara el modo de riego de sus forrajes, destaca que sobre todo, la aplicacion permitira que ese tiempo de planificacion, traslado al terreno y la preparacion de los aspersores, se veran disminuidos y podra goazar de mas tiempo para hacer otras actividades. Menciona que si le brindan todo el equipo para el nodo (aspersores y sensores(aplicacion embebida)) estaria dispuesta a pagar un inicial de $ 150 dolares por 4 nodos. Y pagar mensualmente por el mantemiento y el resto de las funcionaladesde hasta 7$. Lo que mas le gusto de la aplicacion es el registro de terreno, nodos y la planificacion del riego. Considera que la funcionalidad que usaria seria la plainificacion de riego. Menciona que la fncionalidad que debe mejorarse seria una mejor precision de la humedad cuando la planificacion del riego sea automatica y el tiempo en función en ello. Por ello, cree que esta funcionalidad debe refinarse.
+**Resumen:**  
+Karla tiene 18 años y dedica parte de su tiempo a la producción de forrajes. Con respecto a la aplicacion, menciona que le gustó mucho las funcionalidades que ofrece. También, considera que todo ello facilitara el modo de riego de sus forrajes, destaca que sobre todo, la aplicacion permitira que ese tiempo de planificacion, traslado al terreno y la preparacion de los aspersores, se veran disminuidos y podra goazar de mas tiempo para hacer otras actividades. Menciona que si le brindan todo el equipo para el nodo (aspersores y sensores) estaria dispuesta a pagar un inicial de 150 dolares por 4 nodos. Y pagar mensualmente por el mantemiento y el resto de las funcionaladesde hasta 7 dólares. Lo que mas le gusto de la aplicacion es el registro de terreno, nodos y la planificacion del riego. Considera que la funcionalidad que usaria seria la plainificacion de riego. Menciona que la fncionalidad que debe mejorarse seria una mejor precision de la humedad cuando la planificacion del riego sea automatica y el tiempo en función en ello. Por ello, cree que esta funcionalidad debe refinarse.
 
 ### 6.3.3. Evaluaciones según heurísticas.
 ## 6.4. Video About-the-Product.
