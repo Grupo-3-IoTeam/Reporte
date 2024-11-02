@@ -687,7 +687,6 @@ Para la planificación y monitoreo de tareas durante el presente sprint, utiliza
 
 ![Sprint Backlog 2](assets/trello-sp2.png)
 
-
 <table border="1">
   <thead>
     <tr>
@@ -711,89 +710,65 @@ Para la planificación y monitoreo de tareas durante el presente sprint, utiliza
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4">US001</td>
-      <td rowspan="4">Monitoreo de Humedad en Parcela</td>
+      <td rowspan="2">US001</td>
+      <td rowspan="2">Monitoreo de Humedad en Parcela</td>
       <td>1</td>
       <td>Realizar configuración del dispositivo IoT</td>
-      <td>Configurar dispositivo para monitoreo de humedad</td>
+      <td>Configurar dispositivo para monitoreo de humedad (Embedded Application)</td>
       <td>8</td>
-      <td>Kurt Puican, Rafael Luyo</td>
+      <td>Kurt Puican, Alexis Vargas</td>
       <td>To-do</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Realizar integración con sensores de humedad</td>
-      <td>Integrar sensores con la aplicación móvil</td>
-      <td>10</td>
-      <td>Kurt Puican, Rafael Luyo</td>
-      <td>In-Process</td>
-    </tr>
-    <tr>
-      <td>3</td>
       <td>Realizar funcionalidad detección de humedad</td>
-      <td>Funcionalidad para detectar humedad con sensores</td>
-      <td>5</td>
-      <td>Kurt Puican, Rafael Luyo</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Implementar endpoints para plot y node</td>
-      <td>Endpoints para obtener datos de humedad de la parcela</td>
+      <td>Implementar funcionalidad para detectar la humedad con sensores IoT (Embedded Application)</td>
       <td>6</td>
-      <td>Rafael Luyo, Kurt Puican</td>
+      <td>Kurt Puican, Rafael Luyo</td>
       <td>Done</td>
     </tr>
     <tr>
       <td rowspan="2">US002</td>
       <td rowspan="2">Generación de Reporte de Humedad</td>
-      <td>5</td>
+      <td>3</td>
       <td>Realizar reporte de riego mensual</td>
-      <td>Generar reporte mensual basado en datos de humedad</td>
+      <td>Generar reporte mensual basado en datos de humedad (Web Application)</td>
       <td>7</td>
       <td>Giakomo Causso</td>
       <td>In-Process</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>Visualizar reportes generados</td>
-      <td>Interfaz para mostrar reportes de riego</td>
+      <td>Interfaz para mostrar reportes de riego (Web Application)</td>
       <td>4</td>
       <td>Shayla Choque</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td rowspan="3">US003</td>
-      <td rowspan="3">Configuración de Métodos de Riego</td>
-      <td>7</td>
+      <td rowspan="2">US003</td>
+      <td rowspan="2">Configuración de Métodos de Riego</td>
+      <td>5</td>
       <td>Realizar modo de riego</td>
-      <td>Implementar diferentes modos de riego (manual, automático)</td>
+      <td>Implementar diferentes modos de riego (manual, automático) (Web Application)</td>
       <td>5</td>
       <td>Shayla Choque</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>Implementar planificación de riego</td>
-      <td>Planificación basada en datos meteorológicos</td>
+      <td>Planificación basada en datos meteorológicos (Web Application)</td>
       <td>6</td>
       <td>Shayla Choque</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>Implementar vista de programación de riego</td>
-      <td>Vista para configurar el horario de riego</td>
-      <td>4</td>
-      <td>Shayla Choque</td>
-      <td>To-Fix</td>
-    </tr>
-    <tr>
       <td>US004</td>
       <td>Selección de modalidad de riego</td>
-      <td>10</td>
+      <td>7</td>
       <td>Realizar funcionalidad para activar aspersor</td>
-      <td>Funcionalidad para activar el aspersor manualmente</td>
+      <td>Funcionalidad para activar el aspersor manualmente (Web Application)</td>
       <td>4</td>
       <td>Alexis Vargas</td>
       <td>Done</td>
@@ -801,17 +776,17 @@ Para la planificación y monitoreo de tareas durante el presente sprint, utiliza
     <tr>
       <td rowspan="2">US005</td>
       <td rowspan="2">Suscripción a Planes Personalizados</td>
-      <td>11</td>
+      <td>8</td>
       <td>Realizar bounded context suscription</td>
-      <td>Definir contexto de bounded context para suscripciones</td>
+      <td>Definir contexto de bounded context para suscripciones (Web Application)</td>
       <td>6</td>
       <td>Shayla Choque, Giakomo Causso, Alexis Vargas, Kurt Puican, Rafael Luyo</td>
       <td>To-do</td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>9</td>
       <td>Visualizar suscripciones de usuarios</td>
-      <td>Mostrar las suscripciones de los usuarios en la aplicación</td>
+      <td>Mostrar las suscripciones de los usuarios en la aplicación (Web Application)</td>
       <td>5</td>
       <td>Shayla Choque</td>
       <td>Done</td>
@@ -819,21 +794,67 @@ Para la planificación y monitoreo de tareas durante el presente sprint, utiliza
     <tr>
       <td>US006</td>
       <td>Notificación de Estado de Parcela</td>
-      <td>13</td>
+      <td>10</td>
       <td>Realizar bounded context notifications</td>
-      <td>Definir contexto de notificaciones</td>
+      <td>Definir contexto de notificaciones (Web Application)</td>
       <td>5</td>
       <td>Shayla Choque, Giakomo Causso, Alexis Vargas, Kurt Puican, Rafael Luyo</td>
       <td>To-do</td>
     </tr>
     <tr>
-      <td>US007</td>
-      <td>Landing Page Informativa</td>
-      <td>14</td>
-      <td>Realizar cambios a la landing page estática</td>
-      <td>Actualizar información y diseño de la página de inicio</td>
+      <td>US008</td>
+      <td>Integración con Sensores de Humedad</td>
+      <td>12</td>
+      <td>Integrar sensores de humedad con sistema IoT</td>
+      <td>Implementar la integración de sensores para la recolección de datos (Embedded Application)</td>
+      <td>8</td>
+      <td>Kurt Puican, Rafael Luyo</td>
+      <td>In-Process</td>
+    </tr>
+    <tr>
+      <td>US009</td>
+      <td>API RESTful para Reportes</td>
+      <td>13</td>
+      <td>Cors configuration for API Application</td>
+      <td>Configurar CORS para permitir el acceso desde distintas aplicaciones (API Service)</td>
       <td>3</td>
-      <td>Alexis Vargas</td>
+      <td>Shayla Choque</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US010</td>
+      <td rowspan="2">Personalización de Notificaciones</td>
+      <td>14</td>
+      <td>Realizar funcionalidad detección de humedad</td>
+      <td>Implementar funcionalidad para detectar humedad en el sistema embebido (Embedded Application)</td>
+      <td>5</td>
+      <td>Kurt Puican, Rafael Luyo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Realiza funcionalidad detección de temperatura</td>
+      <td>Implementar funcionalidad para detectar la temperatura en el sistema embebido (Embedded Application)</td>
+      <td>5</td>
+      <td>Kurt Puican, Rafael Luyo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US011</td>
+      <td rowspan="2">Despliegue de Servicios</td>
+      <td>16</td>
+      <td>Despliegue del database</td>
+      <td>Realizar el despliegue del servicio de base de datos (Deployment)</td>
+      <td>4</td>
+      <td>Rafael Luyo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Despliegue de API Service</td>
+      <td>Realizar el despliegue del servicio de API (Deployment)</td>
+      <td>4</td>
+      <td>Rafael Luyo</td>
       <td>Done</td>
     </tr>
   </tbody>
