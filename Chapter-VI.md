@@ -599,7 +599,6 @@ En este Sprint, nos enfocamos en el despliegue del producto ThirstySeed a travé
 ### 6.2.2. Sprint 2
 #### 6.2.2.1.Sprint Planning 2
 
-
 <table border="1" style="width:100%; text-align: center;">
   <tr>
     <th colspan="2" style="text-align: center;"><strong>Sprint #</strong></th>
@@ -682,6 +681,163 @@ En este Sprint, nos enfocamos en el despliegue del producto ThirstySeed a travé
 </table>
 
 #### 6.2.2.2.Sprint Backlog 2
+Para la planificación y monitoreo de tareas durante el presente sprint, utilizamos Trello como herramienta de gestión de proyectos para organizar, priorizar y hacer seguimiento del avance de cada actividad. Puedes acceder al Sprint Backlog en el siguiente enlace:
+
+[Trello - Sprint Backlog 2](https://trello.com/b/fFjl9Pyt/sprint-backlog-2)
+
+![Sprint Backlog 2](assets/trello-sp2.png)
+
+
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">Sprint #</th>
+      <th colspan="6">Sprint n</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do / In-Process / To-Review / Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4">US001</td>
+      <td rowspan="4">Monitoreo de Humedad en Parcela</td>
+      <td>1</td>
+      <td>Realizar configuración del dispositivo IoT</td>
+      <td>Configurar dispositivo para monitoreo de humedad</td>
+      <td>8</td>
+      <td>Kurt Puican, Rafael Luyo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Realizar integración con sensores de humedad</td>
+      <td>Integrar sensores con la aplicación móvil</td>
+      <td>10</td>
+      <td>Kurt Puican, Rafael Luyo</td>
+      <td>In-Process</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Realizar funcionalidad detección de humedad</td>
+      <td>Funcionalidad para detectar humedad con sensores</td>
+      <td>5</td>
+      <td>Kurt Puican, Rafael Luyo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Implementar endpoints para plot y node</td>
+      <td>Endpoints para obtener datos de humedad de la parcela</td>
+      <td>6</td>
+      <td>Rafael Luyo, Kurt Puican</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US002</td>
+      <td rowspan="2">Generación de Reporte de Humedad</td>
+      <td>5</td>
+      <td>Realizar reporte de riego mensual</td>
+      <td>Generar reporte mensual basado en datos de humedad</td>
+      <td>7</td>
+      <td>Giakomo Causso</td>
+      <td>In-Process</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Visualizar reportes generados</td>
+      <td>Interfaz para mostrar reportes de riego</td>
+      <td>4</td>
+      <td>Shayla Choque</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US003</td>
+      <td rowspan="3">Configuración de Métodos de Riego</td>
+      <td>7</td>
+      <td>Realizar modo de riego</td>
+      <td>Implementar diferentes modos de riego (manual, automático)</td>
+      <td>5</td>
+      <td>Shayla Choque</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Implementar planificación de riego</td>
+      <td>Planificación basada en datos meteorológicos</td>
+      <td>6</td>
+      <td>Shayla Choque</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Implementar vista de programación de riego</td>
+      <td>Vista para configurar el horario de riego</td>
+      <td>4</td>
+      <td>Shayla Choque</td>
+      <td>To-Fix</td>
+    </tr>
+    <tr>
+      <td>US004</td>
+      <td>Selección de modalidad de riego</td>
+      <td>10</td>
+      <td>Realizar funcionalidad para activar aspersor</td>
+      <td>Funcionalidad para activar el aspersor manualmente</td>
+      <td>4</td>
+      <td>Alexis Vargas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US005</td>
+      <td rowspan="2">Suscripción a Planes Personalizados</td>
+      <td>11</td>
+      <td>Realizar bounded context suscription</td>
+      <td>Definir contexto de bounded context para suscripciones</td>
+      <td>6</td>
+      <td>Shayla Choque, Giakomo Causso, Alexis Vargas, Kurt Puican, Rafael Luyo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Visualizar suscripciones de usuarios</td>
+      <td>Mostrar las suscripciones de los usuarios en la aplicación</td>
+      <td>5</td>
+      <td>Shayla Choque</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US006</td>
+      <td>Notificación de Estado de Parcela</td>
+      <td>13</td>
+      <td>Realizar bounded context notifications</td>
+      <td>Definir contexto de notificaciones</td>
+      <td>5</td>
+      <td>Shayla Choque, Giakomo Causso, Alexis Vargas, Kurt Puican, Rafael Luyo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>US007</td>
+      <td>Landing Page Informativa</td>
+      <td>14</td>
+      <td>Realizar cambios a la landing page estática</td>
+      <td>Actualizar información y diseño de la página de inicio</td>
+      <td>3</td>
+      <td>Alexis Vargas</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 6.2.2.3.Development Evidence for Sprint Review.
 #### 6.2.2.4.Testing Suite Evidence for Sprint Review.
