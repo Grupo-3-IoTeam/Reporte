@@ -233,6 +233,9 @@ Esta sección resume el proceso de implementación, pruebas, documentación y de
 ### 6.2.1. Sprint 1
 Durante el Sprint 1, se avanzó en la implementación de las funcionalidades planificadas, el equipo colaboró en la integración de los servicios y aplicaciones, realizando pruebas y documentando cada fase. Se incluyeron tareas como la planificación del sprint, la ejecución del desarrollo, la revisión de los avances y el ajuste de los entregables para asegurar un despliegue exitoso.
 #### 6.2.1.1. Sprint Planning 1
+
+##### LANDING PAGE
+
 <table border="1" style="width:100%; text-align: center;">
   <tr>
     <th colspan="4" style="text-align: center;"><strong>LANDING PAGE</strong></th>
@@ -283,7 +286,7 @@ Durante el Sprint 1, se avanzó en la implementación de las funcionalidades pla
   </tr>
 </table>
 
-### FRONTEND
+##### FRONTEND
 
 <table border="1" style="width:100%; text-align: center;">
   <tr>
@@ -449,7 +452,7 @@ En la siguiente tabla se mostrarán algunos de los commits más importantes real
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review
 Aquí se proporcionara información sobre las pruebas realizadas durante el sprint.Se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada.
 
-## Landing Page
+##### Landing Page
 <p align="center">
     <img src="assets/Testing-Landing.png" alt="Imagen" style="width:100%"/>
 </p>
@@ -463,7 +466,7 @@ Por otro lado, no se ha llevado a cabo la prueba de la suite de testing para la 
 
 #### 6.2.1.5. Execution Evidence for Sprint Review
 Esta sección se centrará en la ejecución de la aplicación durante el sprint. Se visualizará la navegación del Landing Page como la de la página web, de esta manera se destacaran las características y funcionalidades implementadas en la aplicación.
-## Landing Page
+##### Landing Page
 <td><img src="assets/Evidence-Landing.png" alt="Imagen" style="width:100%"></td>
 <p align="center">
     <strong>Landing Page Desplegado:</strong>
@@ -494,8 +497,6 @@ Para el Sprint 1 se realizaron las diferentes HU, completándolas al 100% y otro
   ![Activacion de nodos](./assets/activacion de nodos.png)
 - **Notificación:** El usuario visualiza una notificación acerca de la irrigación completada
   ![Notificacion](./assets/notificacion.png)
-
-#### 6.2.1.6. Services Documentation Evidence for Sprint Review
 
 
 ### 6.2.1.6. Services Documentation Evidence for Sprint Review
@@ -596,31 +597,116 @@ En este Sprint, nos enfocamos en el despliegue del producto ThirstySeed a travé
 [def]: image.png
 
 ### 6.2.2. Sprint 2
-#### 6.2.2.1.Sprint Planning 2.
-#### 6.2.2.2.Sprint Backlog 2.
+#### 6.2.2.1.Sprint Planning 2
+
+
+<table border="1" style="width:100%; text-align: center;">
+  <tr>
+    <th colspan="2" style="text-align: center;"><strong>Sprint #</strong></th>
+    <th colspan="2" style="text-align: center;"><strong>Sprint 2</strong></th>
+  </tr>
+  <tr>
+    <th colspan="4" style="text-align: center;"><strong>Sprint Planning Background</strong></th>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td colspan="3">08/10/2024</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td colspan="3">07:00 AM</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td colspan="3">Lima, Peru - Meeting held via Discord</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared By</strong></td>
+    <td colspan="3">Choque Puma, Shayla Lussiné</td>
+  </tr>
+  <tr>
+    <td><strong>Attendees (to planning meeting)</strong></td>
+    <td colspan="3">
+      Giakomo Rodolfo Causso Mariano<br>Kurt Matthews Puican Salas<br>Rafael Arturo Luyo Ramirez<br>Manuel Alexis Vargas Quispe
+    </td>
+  </tr>
+    <tr>
+    <td><strong>Sprint 1 - Review Summary</strong></td>
+    <td colspan="3">
+      Durante el Sprint 1, se implementaron la landing page y la aplicación web, incluyendo la gestión de parcelas, nodos y la planificación de riego dentro del bounded context de irrigation. El equipo destacó el avance logrado, mencionando desafíos en la integración de la planificación de riego. El Product Owner sugirió continuar con el desarrollo de los demás bounded contexts de la plataforma y agregar el cambio de idioma en la aplicación web.
+    </td>
+  </tr>
+    </tr>
+    <tr>
+    <td><strong>Sprint 1 - Retrospective Summary</strong></td>
+    <td colspan="3">
+      Durante el Sprint 1, destacamos la buena comunicación y el equilibrio en el trabajo en equipo, donde todos contribuimos con nuestras fortalezas. GitHub fue la herramienta clave para el manejo de versiones y la revisión de avances. Como oportunidad de mejora, identificamos la necesidad de organizar mejor nuestro tiempo personal y definir más claramente las tareas. El mayor desafío fue el margen casi nulo para finalizar los archivos antes de la entrega, lo cual evidenció cierta descoordinación. Aunque la carga de trabajo fue adecuada, consideramos que podríamos equilibrarla mejor con una organización y definición más detallada de las tareas.
+    </td>
+  </tr>
+  <tr>
+    <th colspan="4" style="text-align: center;"><strong>Sprint Goal & User Stories</strong></th>
+  </tr>
+  <tr>
+    <td><strong>Sprint Goal</strong></td>
+    <td colspan="3">
+      Nuestro foco está en establecer la base de la conexión entre la API Rest, la aplicación móvil y la aplicación embebida en Wokwi, para permitir el monitoreo y control de riego en tiempo real.
+      Creemos que esto aportará una estructura sólida para la integración de todas las aplicaciones, facilitando una gestión centralizada del sistema de riego para los usuarios.
+      Esto se confirmará cuando logremos que la comunicación entre el backend, la aplicación móvil y la aplicación embebida funcione de manera sincronizada en un entorno de desarrollo.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Sprint Velocity</strong></td>
+    <td colspan="3"> 
+      Aplicacion Movil: 24 <br>
+      - Plot Management (5)<br>
+      - Node Management (5)<br>
+      - Schedule Management (8) <br>
+      - (View) Profile (3) <br>
+      - (View) Sign In - SignUp (3) <br>
+      API Services: 15 <br>
+      - Plot Management (5)<br>
+      - Node Management (5) <br>
+      - Schedule Management (5) <br>
+      Wokwi: 8 <br>
+      Edge Service: 8 <br>
+      - Node Management (8)<br>
+      Web Application Deployment: 3 <br>
+      Database Deployment: 3 <br>
+      API Service Deployment: 3 <br>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Sum of Story Points</strong></td>
+    <td colspan="3">64 story points</td>
+  </tr>
+</table>
+
+#### 6.2.2.2.Sprint Backlog 2
+
 #### 6.2.2.3.Development Evidence for Sprint Review.
 #### 6.2.2.4.Testing Suite Evidence for Sprint Review.
 #### 6.2.2.5.Execution Evidence for Sprint Review.
 #### 6.2.2.6.Services Documentation Evidence for Sprint Review.
 #### 6.2.2.7.Software Deployment Evidence for Sprint Review.
 #### 6.2.2.8.Team Collaboration Insights during Sprint.
+
 ## 6.3. Validation Interviews.
 ### 6.3.1. Diseño de Entrevistas
 
 **Preguntas generales**
-1. ?Cual es tu nombre completo?
-2. ?De donde eres?
-3. Cuantos anios tenies?
-4. Cual el sistema operativo de tu smartphone?
+1. ¿Cuál es tu nombre completo?
+2. ¿De donde eres?
+3. ¿Cuántos anios tenies?
+4. ¿Cuál el sistema operativo de tu smartphone?
 
 **Preguntas especificas**
-1. Que te parecio la aplicacion?
-2. Consideras que sera util en tu trabajo?
-3. Cuantos estas dispuesto a pagar por este servicio?
-4. Que es lo que mas te gusto?
-5. Que crees que podemos mejorar?
+1. ¿Qué te parecio la aplicacion?
+2. ¿Consideras que sera util en tu trabajo?
+3. ¿Cuántos estas dispuesto a pagar por este servicio?
+4. ¿Qué es lo que mas te gusto?
+5. ¿Qué crees que podemos mejorar?
 
-### 6.3.2. Registro de Entrevistas.
+### 6.3.2. Registro de Entrevistas
 
 **Productor Agrícultor**
 
@@ -636,6 +722,5 @@ En este Sprint, nos enfocamos en el despliegue del producto ThirstySeed a travé
 
 **Resumen:**  
 Karla tiene 18 años y dedica parte de su tiempo a la producción de forrajes. Con respecto a la aplicacion, menciona que le gustó mucho las funcionalidades que ofrece. También, considera que todo ello facilitara el modo de riego de sus forrajes, destaca que sobre todo, la aplicacion permitira que ese tiempo de planificacion, traslado al terreno y la preparacion de los aspersores, se veran disminuidos y podra goazar de mas tiempo para hacer otras actividades. Menciona que si le brindan todo el equipo para el nodo (aspersores y sensores) estaria dispuesta a pagar un inicial de 150 dolares por 4 nodos. Y pagar mensualmente por el mantemiento y el resto de las funcionaladesde hasta 7 dólares. Lo que mas le gusto de la aplicacion es el registro de terreno, nodos y la planificacion del riego. Considera que la funcionalidad que usaria seria la plainificacion de riego. Menciona que la fncionalidad que debe mejorarse seria una mejor precision de la humedad cuando la planificacion del riego sea automatica y el tiempo en función en ello. Por ello, cree que esta funcionalidad debe refinarse.
-
-### 6.3.3. Evaluaciones según heurísticas.
-## 6.4. Video About-the-Product.
+### 6.3.3. Evaluaciones según heurísticas
+## 6.4. Video About-the-Product
