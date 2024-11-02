@@ -25,7 +25,7 @@ Aquí se encuentran todos los assets necesarios, como fuentes y otros recursos g
         El nombre de nuestra aplicación es Thirsty Seed (Semilla Sedienta). <strong>"Thirsty"</strong> (Sedienta - Traducido al español) hace referencia a la necesidad constante de agua para que las plantas crezcan saludables, y <strong>"Seed"</strong> (Semilla - Traducido al español) simboliza el inicio del crecimiento de los cultivos. Con esta combinación, buscamos representar la importancia de un riego eficiente y oportuno para maximizar el rendimiento agrícola, asegurando que cada gota de agua sea utilizada de manera óptima.
       </td>
       <td style="text-align: center;">
-        <img src="../assets/Logo.jpg" alt="IMAGEN" style="display: block; margin: 0 auto; max-width: 100px; height: auto;">
+        <img src="../assets/Logo1.jpg" alt="IMAGEN" style="display: block; margin: 0 auto; max-width: 100px; height: auto;">
       </td>
     </tr>
     <tr>
@@ -46,7 +46,7 @@ Aquí se encuentran todos los assets necesarios, como fuentes y otros recursos g
     </tr>
   </tbody>
 </table>
-<img src="../assets/Barra-Separadora.png" alt="Imagen" style="width:100%"/>
+<img src="../assets/BarraSeparadora.png" alt="Imagen" style="width:100%"/>
 <table border="1" style="width: 100%;">
   <thead>
     <tr>
@@ -100,7 +100,7 @@ Aquí se encuentran todos los assets necesarios, como fuentes y otros recursos g
   </tbody>
 </table>
 
-<img src="../assets/Barra-Separadora.png" alt="Imagen" style="width:100%"/>
+<img src="../assets/BarraSeparadora.png" alt="Imagen" style="width:100%"/>
 
 <table border="1" style="width: 100%;">
   <thead>
@@ -154,7 +154,7 @@ Aquí se encuentran todos los assets necesarios, como fuentes y otros recursos g
     </tr>
   </tbody>
 </table>
-<img src="../assets/Barra-Separadora.png" alt="Imagen" style="width:100%"/>
+<img src="../assets/BarraSeparadora.png" alt="Imagen" style="width:100%"/>
 <table border="1" style="width: 100%;">
   <thead>
 
@@ -664,4 +664,3 @@ El video demuestra los flujos de interacción clave de la aplicación:
 - Visualización de reportes de riego, tanto actuales como históricos.
 - Opción de contactar al soporte técnico cuando se detectan problemas en los nodos de riego.
 
-#### Mobile Application Prototype
