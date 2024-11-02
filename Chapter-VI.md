@@ -638,4 +638,106 @@ En este Sprint, nos enfocamos en el despliegue del producto ThirstySeed a travé
 Karla tiene 18 años y dedica parte de su tiempo a la producción de forrajes. Con respecto a la aplicacion, menciona que le gustó mucho las funcionalidades que ofrece. También, considera que todo ello facilitara el modo de riego de sus forrajes, destaca que sobre todo, la aplicacion permitira que ese tiempo de planificacion, traslado al terreno y la preparacion de los aspersores, se veran disminuidos y podra goazar de mas tiempo para hacer otras actividades. Menciona que si le brindan todo el equipo para el nodo (aspersores y sensores) estaria dispuesta a pagar un inicial de 150 dolares por 4 nodos. Y pagar mensualmente por el mantemiento y el resto de las funcionaladesde hasta 7 dólares. Lo que mas le gusto de la aplicacion es el registro de terreno, nodos y la planificacion del riego. Considera que la funcionalidad que usaria seria la plainificacion de riego. Menciona que la fncionalidad que debe mejorarse seria una mejor precision de la humedad cuando la planificacion del riego sea automatica y el tiempo en función en ello. Por ello, cree que esta funcionalidad debe refinarse.
 
 ### 6.3.3. Evaluaciones según heurísticas.
+# UX Heuristics & Principles Evaluation
+**Usability – Inclusive Design – Information Architecture**  
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Desarrollo de Soluciones IoT  
+**SECCIÓN:** WV71  
+**PROFESORES:** Angel Augusto Velasquez Nuñez  
+**AUDITOR:** Nombre del Grupo que ejecuta la Sesión de evaluación  
+**CLIENTE(S):** IOTEAM  
+
+## SITE o APP A EVALUAR:
+**ThirstySeed**
+
+## TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Registro de un usuario nuevo
+2. Logueo de un usuario
+3. Registro de una parcela
+4. Registro de un nodo
+5. Pago del plan
+6. Vista de las parcelas registradas
+7. Vista de los nodos registrados
+8. Activación de aspersores
+9. Editar perfil
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Validación del plan del usuario
+2. Reportes de irrigación
+3. Cambio de idioma
+4. Atención al cliente
+
+## ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción                                                                                                                                      |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado de inmediato.    |
+| 2     | Problema menor: ocurre con mayor frecuencia o es algo más difícil de superar para el usuario. Debería tener una prioridad baja para el próximo release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante corregirlo y debe tener una prioridad alta.     |
+| 4     | Problema muy grave: error de gran impacto que impide al usuario continuar usando la herramienta. Debe ser corregido antes del lanzamiento.      |
+
+## TABLA RESUMEN:
+
+| #  | Problema                                     | Escala de severidad | Heurística/Principio violado            |
+|----|----------------------------------------------|----------------------|-----------------------------------------|
+| 1  | No hay una opción para editar una parcela    | 3                    | Libertad y control del usuario          |
+| 2  | No hay una opción para borrar una parcela    | 3                    | Libertad y control del usuario          |
+| 3  | No hay una opción para editar un nodo        | 3                    | Libertad y control del usuario          |
+| 4  | No hay una opción para borrar un nodo        | 3                    | Libertad y control del usuario          |
+| 5  | No hay una función para editar perfil        | 3                    | Visibilidad del estado del sistema      |
+
+---
+
+## DESCRIPCIÓN DE PROBLEMAS:
+
+### PROBLEMA #1: No hay una opción para editar una parcela
+**Severidad:** 3  
+**Heurística violada:** Libertad y control del usuario  
+**Descripción:**  
+La aplicación no proporciona una opción para editar la información de las parcelas registradas. Esto limita el control del usuario sobre los datos que ha ingresado, dificultando la actualización o corrección de información.  
+**Recomendación:**  
+Agregar un botón de “Editar” en la vista de parcelas registradas, permitiendo modificar la información existente de una parcela.
+
+---
+
+### PROBLEMA #2: No hay una opción para borrar una parcela
+**Severidad:** 3  
+**Heurística violada:** Libertad y control del usuario  
+**Descripción:**  
+Actualmente, los usuarios no tienen una opción para eliminar una parcela registrada, lo cual puede resultar en desorden y dificultad para gestionar los registros de parcelas, especialmente si alguna parcela ya no es relevante.  
+**Recomendación:**  
+Incluir un botón de “Eliminar” en cada parcela registrada, permitiendo a los usuarios borrar parcelas innecesarias o incorrectas con una confirmación de acción.
+
+---
+
+### PROBLEMA #3: No hay una opción para editar un nodo
+**Severidad:** 3  
+**Heurística violada:** Libertad y control del usuario  
+**Descripción:**  
+No existe la posibilidad de editar los nodos después de haberlos registrado. Esto limita la flexibilidad del usuario para actualizar o corregir datos en los nodos, especialmente si hay cambios en la configuración.  
+**Recomendación:**  
+Añadir una función de “Editar” en la vista de nodos registrados para que el usuario pueda modificar fácilmente la información de cada nodo.
+
+---
+
+### PROBLEMA #4: No hay una opción para borrar un nodo
+**Severidad:** 3  
+**Heurística violada:** Libertad y control del usuario  
+**Descripción:**  
+La aplicación no permite a los usuarios eliminar un nodo una vez que ha sido registrado, lo cual puede complicar la gestión de nodos activos y generar confusión si hay nodos obsoletos.  
+**Recomendación:**  
+Incorporar una opción de “Eliminar” en cada nodo registrado, con una confirmación para evitar eliminaciones accidentales.
+
+---
+
+### PROBLEMA #5: No hay una función para editar perfil
+**Severidad:** 3  
+**Heurística violada:** Visibilidad del estado del sistema  
+**Descripción:**  
+Falta una función para que los usuarios editen su perfil, lo cual limita la capacidad de actualizar datos personales y puede afectar la precisión de la información registrada.  
+**Recomendación:**  
+Agregar una opción de “Editar perfil” en la configuración o en el menú de perfil, proporcionando un feedback visual cuando los cambios se guarden correctamente.
+
 ## 6.4. Video About-the-Product.
