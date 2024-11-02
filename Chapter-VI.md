@@ -608,34 +608,56 @@ En este Sprint, nos enfocamos en el despliegue del producto ThirstySeed a travé
 ### 6.3.1. Diseño de Entrevistas
 
 **Preguntas generales**
-1. ?Cual es tu nombre completo?
-2. ?De donde eres?
-3. Cuantos anios tenies?
-4. Cual el sistema operativo de tu smartphone?
+1. ¿Cuál es tu nombre completo?
+2. ¿De dónde eres?
+3. ¿Cuántos anios tienes?
+4. ¿Cuál el sistema operativo de tu smartphone?
 
 **Preguntas especificas**
-1. Que te parecio la aplicacion?
-2. Consideras que sera util en tu trabajo?
-3. Cuantos estas dispuesto a pagar por este servicio?
-4. Que es lo que mas te gusto?
-5. Que crees que podemos mejorar?
+1. ¿Qué te parecio la aplicación?
+2. ¿Consideras que sera útil en tu trabajo?
+3. ¿Cuántos estas dispuesto a pagar por este servicio?
+4. ¿Qué es lo que mas te gusto?
+5. ¿Qué crees que podemos mejorar?
 
 ### 6.3.2. Registro de Entrevistas.
+|***Entrevista - Segmento XXXXXXXXXXXXX***|***1***|
+|---------|----------|
+|Nombre completo||
+|Edad||
+|Distrito||
+|Sistema Operativo||
+|Entrevista entre los minutos|0:00 - 6:08|
+|Screenshot de video|<img src="assets/EntrevistaK.png" alt="Usuario" style="width:100%;">|
+|URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/personal/u20201c144_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201c144%5Fupc%5Fedu%5Fpe%2FDocuments%2FUniversidad%2FCICLO%20IX%2FDesarrollo%20de%20Soluciones%20IoT%2FFinal%20Project%2FTB2%2FEntrevistas%2FEntrevistas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9a43b4d1%2D4915%2D47db%2D9013%2De537173495c0)|
+|Resumen de entrevista||
 
-**Productor Agrícultor**
+<img src="assets/BARRA-SEPARADORA.png" alt="Usuario" style="width:100%;">
 
-**ENTREVISTA 3**
+|***Entrevista - Segmento Proveedores de agua***|***2***|
+|---------|----------|
+|Nombre completo|Raúl Erasmo|
+|Edad|47 años|
+|Distrito|Chorrillos|
+|Sistema Operativo|Android, HarmonyOS|
+|Entrevista entre los minutos|6:10 - 14:34|
+|Screenshot de video|<img src="assets/EntrevistaR.png" alt="Usuario" style="width:100%;">|
+|URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/personal/u20201c144_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201c144%5Fupc%5Fedu%5Fpe%2FDocuments%2FUniversidad%2FCICLO%20IX%2FDesarrollo%20de%20Soluciones%20IoT%2FFinal%20Project%2FTB2%2FEntrevistas%2FEntrevistas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9a43b4d1%2D4915%2D47db%2D9013%2De537173495c0)|
+|Resumen de entrevista|Raúl Erasmo, de 47 años y de Chorrillos, Lima, usa HarmonyOS. Encontró una app de control de riego interesante y útil para su jardín, evitando exceso de agua en días de lluvia. Le gustó la interfaz y diseño. Está dispuesto a pagar 7 soles para probarla y, si es efectiva, 15 soles para una mejor experiencia. No ve mejoras urgentes, pero espera sugerir algunas tras usarla más tiempo.|
 
-**Nombre:** Karla Choque  
-**Locación:** Santo Domingo, Acopia, Acomayo, Cusco  
-**Edad:** 18  
-**Sistema Operativo:** Android  
-**Enlace:** [Entrevista - Karla](https://upcedupe-my.sharepoint.com/personal/u20201c144_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201c144%5Fupc%5Fedu%5Fpe%2FDocuments%2FUniversidad%2FCICLO%20IX%2FDesarrollo%20de%20Soluciones%20IoT%2FFinal%20Project%2FTB2%2FEntrevistas%2FEntrevistas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9a43b4d1%2D4915%2D47db%2D9013%2De537173495c0)  
-**Comienza en minuto:** 14:36  
-**Captura:** ![image](https://github.com/user-attachments/assets/57fac985-5a80-4b49-8440-60d53fdd1e1c)
+<img src="assets/BARRA-SEPARADORA.png" alt="Usuario" style="width:100%;">
 
-**Resumen:**  
-Karla tiene 18 años y dedica parte de su tiempo a la producción de forrajes. Con respecto a la aplicacion, menciona que le gustó mucho las funcionalidades que ofrece. También, considera que todo ello facilitara el modo de riego de sus forrajes, destaca que sobre todo, la aplicacion permitira que ese tiempo de planificacion, traslado al terreno y la preparacion de los aspersores, se veran disminuidos y podra goazar de mas tiempo para hacer otras actividades. Menciona que si le brindan todo el equipo para el nodo (aspersores y sensores) estaria dispuesta a pagar un inicial de 150 dolares por 4 nodos. Y pagar mensualmente por el mantemiento y el resto de las funcionaladesde hasta 7 dólares. Lo que mas le gusto de la aplicacion es el registro de terreno, nodos y la planificacion del riego. Considera que la funcionalidad que usaria seria la plainificacion de riego. Menciona que la fncionalidad que debe mejorarse seria una mejor precision de la humedad cuando la planificacion del riego sea automatica y el tiempo en función en ello. Por ello, cree que esta funcionalidad debe refinarse.
+
+|***Entrevista - Segmento Productor Agrícultor***|***3***|
+|---------|----------|
+|Nombre completo|Karla Choque  |
+|Edad|18 años|
+|Distrito|Santo Domingo, Acopia, Acomayo, Cusco|
+|Sistema Operativo|Android|
+|Entrevista entre los minutos|14:35 - 25:10|
+|Screenshot de video|![image](https://github.com/user-attachments/assets/57fac985-5a80-4b49-8440-60d53fdd1e1c)|
+|URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/personal/u20201c144_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201c144%5Fupc%5Fedu%5Fpe%2FDocuments%2FUniversidad%2FCICLO%20IX%2FDesarrollo%20de%20Soluciones%20IoT%2FFinal%20Project%2FTB2%2FEntrevistas%2FEntrevistas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9a43b4d1%2D4915%2D47db%2D9013%2De537173495c0)|
+|Resumen de entrevista|Karla tiene 18 años y dedica parte de su tiempo a la producción de forrajes. Con respecto a la aplicacion, menciona que le gustó mucho las funcionalidades que ofrece. También, considera que todo ello facilitara el modo de riego de sus forrajes, destaca que sobre todo, la aplicacion permitira que ese tiempo de planificacion, traslado al terreno y la preparacion de los aspersores, se veran disminuidos y podra goazar de mas tiempo para hacer otras actividades. Menciona que si le brindan todo el equipo para el nodo (aspersores y sensores) estaria dispuesta a pagar un inicial de 150 dolares por 4 nodos. Y pagar mensualmente por el mantemiento y el resto de las funcionaladesde hasta 7 dólares. Lo que mas le gusto de la aplicacion es el registro de terreno, nodos y la planificacion del riego. Considera que la funcionalidad que usaria seria la plainificacion de riego. Menciona que la fncionalidad que debe mejorarse seria una mejor precision de la humedad cuando la planificacion del riego sea automatica y el tiempo en función en ello. Por ello, cree que esta funcionalidad debe refinarse.|
 
 ### 6.3.3. Evaluaciones según heurísticas.
 # UX Heuristics & Principles Evaluation
