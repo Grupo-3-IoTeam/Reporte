@@ -2,11 +2,12 @@
 ## 3.1. To-Be Scenario Mapping
 - Productores Agrícolas
 
-![...](/assets3/1.png)
+
+![...](/assets/1.png)
 
 - Provedores de Servicios de Agua
 
-![...](/assets3/2.png)
+![...](/assets/2.png)
 
 ## 3.2. User Stories
 Una user story es una descripción breve y sencilla de una funcionalidad que debe implementar un sistema es por eso que realizamos estas user stories para mostrar cuales serian las funciones de nuestro proyecto al usuario
@@ -47,11 +48,11 @@ Una user story es una descripción breve y sencilla de una funcionalidad que deb
 
 - Productores Agrícolas
 
-![...](/assets3/1.1.png)
+![...](/assets/1.1.png)
 
 - Provedores de Servicios de Agua
 
-![...](/assets3/2.2.png)
+![...](/assets/2.2.png)
 
 ## 3.4. Product Backlog
 Un Product Backlog es una lista priorizada de todas las funcionalidades, mejoras, correcciones y tareas que deben realizarse para desarrollar un producto. Acontinuacion presentamos las que consideamos las mas importantes
