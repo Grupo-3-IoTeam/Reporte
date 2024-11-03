@@ -271,7 +271,7 @@ Kurt Matthews Puican Salas - U202016643
         <td style="text-align: center;">
             <strong>Kurt Matthews Puican Salas</strong><br>
             <strong>TB1:</strong>Aporte mis conocimientos con mis compañeros para poder realizar una correcta entrega del trabajo empleando reuniones grupales con el equipo para poder cordinar de mejor manera <br>
-            <strong>TP:</strong> Realice reuniones e estuve preguntando a todos los integrantes sobre su avance para que haya una comunicacion mas efectiva asi como tambien un trabaj mas ordenado
+            <strong>TP:</strong> Realice reuniones e estuve preguntando a todos los integrantes sobre su avance para que haya una comunicacion mas efectiva asi como tambien un trabaj mas ordenado<br><strong>TB2:</strong>Asumi el rol de encargado de la aplicacion embeded, apoyando y cordinando con todos los integrantes del equipo para poder mantener un orden y un buen avance de los agregados a este punto.
         </td>
     </tr>
     <tr>
@@ -286,7 +286,7 @@ Kurt Matthews Puican Salas - U202016643
             <strong>Rafael Arturo Luyo Ramirez</strong><br>
             <strong>TB1:</strong> Aporte acerca de Lean UX Canvas, los 10 puntos del eventstorming y la continua comunicación con el equipo<br>
             <strong>TP:</strong> Aporte acerca de las pantallas de Calendario de Irrigación, Estado de Parcela, en cuanto las mejoras continuas mejore el LeanUXCanvas y las descripciones de todos los puntos del eventstorming, por ultimo realicé el deployment en Netlify.
-            <strong>TB2:</strong> Aporte acerca de el endpoint de nodos en el backend, conexion a esta mediante wokwi y parte del diagrama y el despliegue tanto del backend como de la base de datos. Ademas, siempre me mantuve en constante comunicación con los miembros del trabajo.
+            <strong><br>TB2:</strong> Aporte acerca de el endpoint de nodos en el backend, conexion a esta mediante wokwi y parte del diagrama y el despliegue tanto del backend como de la base de datos. Ademas, siempre me mantuve en constante comunicación con los miembros del trabajo.
         </td>
     </tr>
     <tr>
@@ -315,6 +315,7 @@ Kurt Matthews Puican Salas - U202016643
             <strong>Kurt Matthews Puican Salas</strong><br>
             <strong>TB1:</strong> Me postule para realizar diversas actividades en el informe cumpliendo a tiempo todas las actividades que se me indicaron empleando conocimientos previos<br>
             <strong>TP:</strong> Realice las actividades correspondientes de la entrega asi como tambien una mejora continua junto con el equipo para mejorar errores previos juntos con las mejoras de la nueva entrega
+            <br><strong>TB2:</strong>Colabore en las distintas actividades que se me encargaron haciendo una retoalimentacion de mi desempeño tanto en las actividades que me delegaban como tambien el las que delegaba manteniendo una comunicacion asertiva
         </td>
     </tr>
     <tr>
@@ -329,7 +330,7 @@ Kurt Matthews Puican Salas - U202016643
             <strong>Rafael Arturo Luyo Ramirez</strong><br>
             <strong>TB1:</strong> Participe en colaboracion de todo mi equipo de trabajo mediante documentos compartidos, siempre mantuvimos una comunicación directa ya sea presencialmente o virtual mediante Discord.<br>
             <strong>TP:</strong> Cumpli con todos los requerimientos especificados para el presente sprint, ademas de que mantuvimos una constante mejoria mediante el entorno de desarollo de WebStorm, por ultimo participé en la lluvia de ideas acerca de nuestro proyecto.
-            <strong>TB2:</strong>Trabajé en el desarrollo del endpoint de nodos en el backend usando Spring Boot, en la aplicación embebida en Wokwi con C++ y en la conexión entre ambos sistemas. Además, realicé el deploy del backend y la base de datos en Railway y participé activamente en las reuniones del equipo.
+            <strong><br>TB2:</strong>Trabajé en el desarrollo del endpoint de nodos en el backend usando Spring Boot, en la aplicación embebida en Wokwi con C++ y en la conexión entre ambos sistemas. Además, realicé el deploy del backend y la base de datos en Railway y participé activamente en las reuniones del equipo.
         </td>
     </tr>
     <tr>
