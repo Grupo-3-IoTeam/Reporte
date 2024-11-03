@@ -34,7 +34,7 @@ Rafael Arturo Luyo Ramirez - u201919295
 Kurt Matthews Puican Salas - U202016643
     <br><br>
   </p>
-  <h3>SETIEMBRE 2024</h3>
+  <h3>NOVIEMBRE 2024</h3>
 </div> 
 
 
@@ -110,6 +110,71 @@ Kurt Matthews Puican Salas - U202016643
     </tr>
 </table>
 
+<table border="1" style="width: 100%; text-align: center; border-collapse: collapse;">
+    <tr>
+        <th style="text-align: center;"><strong>Versión</strong></th>
+        <th style="text-align: center;"><strong>Fecha</strong></th>
+        <th style="text-align: center;"><strong>Autor</strong></th>
+        <th style="text-align: center;"><strong>Descripción de modificación</strong></th>
+    </tr>
+    <tr>
+        <td>TB2</td>
+        <td>26/10/2024</td>
+        <td style="text-align: center;">
+            <strong>Shayla Lussiné Choque Puma</strong>
+        </td>
+        <td style="text-align: justify;">
+            Correcciones en Software Architecture(Landscape, context, container and deployment diagrams), Ubiquitous language, Software Configuration, diseño de web app y mobile.
+        </td>
+    </tr>
+    <tr>
+        <td>TB2</td>
+        <td>26/10/2024</td>
+        <td style="text-align: center;">
+            <strong>Giakomo Rodolfo Causso Mariano</strong>
+        </td>
+        <td style="text-align: justify;">
+            Correciones en el base diagram, conpletar el wireframes mobile, apartado en codigo en usuario y vistas de parcelas
+        </td>
+    </tr>
+    <tr>
+        <td>TB2</td>
+        <td>26/10/2024</td>
+        <td style="text-align: center;">
+            <strong>Manuel Alexis Vargas Quispe</strong>
+        </td>
+        <td style="text-align: justify;">
+            - Realización cambios del <strong>FRONTED</strong><br>
+            - Mejoras de la entrega pasada (TP)<br>
+            - Sprint 2 (Todo referido a las <strong>entrevistas</strong>)<br>
+        </td>
+    </tr>
+    <tr>
+        <td>TB2</td>
+        <td>26/10/2024</td>
+        <td style="text-align: center;">
+            <strong>Rafael Arturo Luyo Ramirez</strong>
+        </td>
+        <td style="text-align: justify;">
+            - Arreglos de la entrega pasada: <strong>lean ux canvas</strong> actualizado, descripciones de <strong>eventstorming</strong><br>
+            - Ayuda en el tema de <strong>wireflows</strong> y mockups en <strong>figma</strong>, frontend<br>
+            - Vista de estado de parcela y <strong>schedule irrigation</strong><br>
+            - <strong>Deploy</strong> de la web app
+        </td>
+    </tr>
+    <tr>
+        <td>TB2</td>
+        <td>26/10/2024</td>
+        <td style="text-align: center;">
+            <strong>Kurt Matthews Puican Salas</strong>
+        </td>
+        <td style="text-align: justify;">
+            - Correcciones varias de la entrega pasada<br>
+            - <strong>Us stories</strong>, <strong>product backlog</strong>, <strong>message flow</strong>, vista registrar nodo y parcela<br>
+            - <strong>Lean ux problem statement</strong>
+        </td>
+    </tr>
+</table>
 
 # Project Report Collaboration # Insights
 <table border="1" style="width: 100%; text-align: center;">
@@ -279,6 +344,7 @@ Kurt Matthews Puican Salas - U202016643
             <strong>Manuel Alexis Vargas Quispe</strong><br>
             <strong>TB1:</strong> Aporté en la ideación y definición de los requisitos del proyecto, además de realizar un seguimiento continuo para asegurar la calidad del trabajo entregado.<br>
             <strong>TP:</strong> Asumí un rol de coordinador técnico, asegurando que las soluciones propuestas fueran viables y que el equipo cumpliera con los estándares de calidad definidos.
+            <strong>TB2:</strong> Aporté en mejoras del fronted, como mejoras de las vistas, la lógica necesario del login, register - translate; también implementé la lógica de adquirición de pago de los planes de susbcripción.
         </td>
     </tr>
     <tr>
@@ -325,6 +391,7 @@ Kurt Matthews Puican Salas - U202016643
             <strong>Manuel Alexis Vargas Quispe</strong><br>
             <strong>TB1:</strong>Participé activamente en la planificación de las tareas y en la asignación de roles basados en las fortalezas de cada miembro del equipo.<br>
             <strong>TP:</strong> Colaboré con el cumplimiento de las dist tareas para asegurar que cada objetivo se cumpliera a tiempo, fomentando la cooperación entre los miembros del equipo.
+            <strong>TB2:</strong> Aporté de manera comunicativa para la organización de las distintas actividades para esta entrega, todo esto para mejorar la comunicación como grupo y desempeñarnos de la mejor manera.
         </td>
     </tr>
     <tr>
