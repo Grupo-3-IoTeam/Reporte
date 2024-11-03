@@ -1121,3 +1121,10 @@ Falta una función para que los usuarios editen su perfil, lo cual limita la cap
 Agregar una opción de “Editar perfil” en la configuración o en el menú de perfil, proporcionando un feedback visual cuando los cambios se guarden correctamente.
 
 ## 6.4. Video About-the-Product
+
+En el siguiente video se puede visualizar de meejor manera como se ha desarrollado el producto para el usuario final en la aplicación web.
+
+![image](https://github.com/user-attachments/assets/653440da-3aef-4226-a713-6aa89569b6ae)
+
+Enlace: [Video About the product](https://upcedupe-my.sharepoint.com/personal/u20201c144_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201c144%5Fupc%5Fedu%5Fpe%2FDocuments%2FUniversidad%2FCICLO%20IX%2FDesarrollo%20de%20Soluciones%20IoT%2FFinal%20Project%2FTB2%2F2024%2D11%2D03%2000%2D25%2D49%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E679d6abd%2Da79a%2D4262%2Da1d3%2D44641dd148d5)
+
