@@ -680,7 +680,7 @@ En este Sprint, nos enfocamos en el despliegue del producto ThirstySeed a travé
   </tr>
 </table>
 
-#### 6.2.2.2.Sprint Backlog 2
+#### 6.2.2.2. Sprint Backlog 2
 Para la planificación y monitoreo de tareas durante el presente sprint, utilizamos Trello como herramienta de gestión de proyectos para organizar, priorizar y hacer seguimiento del avance de cada actividad. Puedes acceder al Sprint Backlog en el siguiente enlace:
 
 [Trello - Sprint Backlog 2](https://trello.com/b/fFjl9Pyt/sprint-backlog-2)
