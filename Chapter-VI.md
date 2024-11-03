@@ -872,6 +872,11 @@ Se puede visualizar los endpoints definidos como Plots, Nodes y Schedule Irrigat
 <img src="assets/sg2.jpg" alt="Imagen" style="width:100%">
 **Link de la página desplegada:** [https://thirstyseedapi-production.up.railway.app/swagger-ui/index.html#/](https://thirstyseedapi-production.up.railway.app/swagger-ui/index.html#/)
 
+## Ejecucion de la Embedded app
+Se puede visualizar la ejecucion del dispositivo IOT mostrando la temperatura como tambien la humedad devolviendo datos en la consola
+<img src="assets/wok1.jpg" alt="Imagen" style="width:100%">
+<img src="assets/wok2.jpg" alt="Imagen" style="width:100%">
+
 ## Ejecucion del mobile app
 Se puede visualizar las distintas vistas referente a nuestra aplicación móvil
 
