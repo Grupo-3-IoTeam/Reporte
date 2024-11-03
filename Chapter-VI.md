@@ -903,6 +903,49 @@ Se puede visualizar la ejecucion del dispositivo IOT mostrando la temperatura co
 ## Ejecucion del mobile app
 Se puede visualizar las distintas vistas referente a nuestra aplicación móvil
 
+## Login 
+Esta pantalla permite a los usuarios ingresar a la aplicación utilizando su dirección de correo electrónico y contraseña. Incluye enlaces para recuperar la contraseña olvidada y para registrarse como nuevo usuario.
+<img src="assets/1.jpg" alt="Imagen" style="width:100%">
+
+## SIGN UP
+Pantalla de registro donde nuevos usuarios pueden crear una cuenta ingresando su nombre, apellido, ciudad, teléfono, correo electrónico y contraseña.
+<img src="assets/2.jpg" alt="Imagen" style="width:100%">
+
+## USER PROFILE
+En esta pantalla, los usuarios pueden ver y editar su perfil, que muestra la información personal, la foto de perfil, y las parcelas registradas junto con opciones para gestionar estas parcelas.
+<img src="assets/3.jpg" alt="Imagen" style="width:100%">
+
+## PLOT STATUS
+Muestra detalles específicos de una parcela seleccionada como el nombre del terreno, extensión, última fecha de riego y el estado actual de los nodos, con la opción de programar riego directamente desde esta pantalla.
+<img src="assets/4.jpg" alt="Imagen" style="width:100%">
+
+## NODE STATUS
+Proporciona información detallada sobre los nodos instalados en una parcela, incluyendo la ubicación del nodo, la humedad actual del suelo, indicaciones para regar y el estado operativo del nodo.
+<img src="assets/5.jpg" alt="Imagen" style="width:100%">
+
+## REGISTERED PLOTS
+Pantalla que muestra todas las parcelas registradas por el usuario. Ofrece una funcionalidad de búsqueda y la opción de registrar nuevas parcelas.
+<img src="assets/6.jpg" alt="Imagen" style="width:100%">
+
+## REGISTER PLOT
+Interfaz para agregar una nueva parcela, donde el usuario puede ingresar el nombre del terreno, ubicación, extensión y subir una imagen representativa.
+<img src="assets/7.jpg" alt="Imagen" style="width:100%">
+
+## NODE REGISTRATION
+Permite a los usuarios agregar y configurar nuevos nodos a sus parcelas, especificando el nombre del terreno, tipo de nodo y su ubicación.
+<img src="assets/8.jpg" alt="Imagen" style="width:100%">
+
+## FORGOT PASSWORD
+Una interfaz para recuperar la contraseña donde los usuarios pueden introducir su correo electrónico para recibir instrucciones sobre cómo restablecer su contraseña.
+<img src="assets/9.jpg" alt="Imagen" style="width:100%">
+
+## CREATE IRRIGATION SCHEDULE
+Esta pantalla permite a los usuarios configurar un nuevo programa de riego, ajustando parámetros como la presión, el radio del aspersor, la hora de riego, la humedad esperada, el tiempo estimado y el ángulo del aspersor, con opción para modo automático o manual.
+<img src="assets/10jpg" alt="Imagen" style="width:100%">
+
+
+--------
+
 #### 6.2.2.6.Services Documentation Evidence for Sprint Review.
 
 ### Plots services
