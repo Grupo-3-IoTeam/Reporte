@@ -294,6 +294,8 @@ Kurt Matthews Puican Salas - U202016643
             <strong>Shayla Lussiné Choque Puma</strong><br>
             <strong>TB1:</strong> Durante el desarrollo de esta entrega, contribuí en la organización del equipo y en la asignación de tareas específicas a cada miembro, aprovechando las fortalezas de cada uno. Además, apoyé y colaboré en la generación de soluciones cuando surgieron dudas.<br>
             <strong>TP:</strong> Durante esta entrega, he priorizado la comunicación temprana para organizar al equipo. Además, he promovido la participación activa de los miembros, asegurando que todos estemos informados sobre el estado del proyecto. Esto ha facilitado la toma de decisiones y el establecimiento de acuerdos de manera efectiva.
+            <br>
+            <strong>TB2:</strong> Durante esta entrega, el equipo en conjunto ha hecho el esfuerzo para estar organizado en cumplir con los objetivos del sprint goal. Considero que la parte mas importante para esta entrega ha sido la comunicacion y esa facilidad de intercambiar opiniones. Por mi lado, he hecho el esfuerzo de tener los artefactos de gestion de proyectos para tener un monitoreo adecuado de nuestras actividades.
         </td>
     </tr>
     <tr>
@@ -338,6 +340,8 @@ Kurt Matthews Puican Salas - U202016643
             <strong>Shayla Lussiné Choque Puma</strong><br>
             <strong>TB1:</strong> Cumplí con los acuerdos que habíamos establecido durante las primeras semanas. Gracias a ello, logré diseñar la arquitectura de nuestro proyecto. Además, colaboré activamente en la ideación y definición de requisitos a través de entrevistas y análisis.<br>
             <strong>TP:</strong> Cumplí con los acuerdos que habíamos establecido durante las primeras semanas. Gracias a ello, logré diseñar la arquitectura de nuestro proyecto. Además, colaboré activamente en la ideación y definición de requisitos a través de entrevistas y análisis.
+            <br>
+            <strong>TB2:</strong> Cumpli con los acuerdos que habiamos establecido, esencialmente con respecto a los artefactos de planificacion y desarrollo. Por otro lado, con el avance del trabajo y del ciclo, el equipo ya puede coordinar de mejor manera lo que opina. Creo que esto se ha logrado con el esfuerzo de todos, y es algo que valoro del equipo y mis compañeros.       
         </td>
     </tr>
 </table>
