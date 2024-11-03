@@ -863,14 +863,62 @@ Para la planificación y monitoreo de tareas durante el presente sprint, utiliza
 #### 6.2.2.3.Development Evidence for Sprint Review.
 #### 6.2.2.4.Testing Suite Evidence for Sprint Review.
 #### 6.2.2.5.Execution Evidence for Sprint Review.
+En esta sección, se abordará la ejecución de la aplicación durante el sprint, resaltando las características y funcionalidades que se han implementado. Durante este periodo, se desarrolló el backend utilizando Spring Boot, donde se establecieron los endpoints necesarios. También se trabajó en la aplicación móvil con Flutter y se implementó el sistema IoT utilizando Wokwi.
 
 ## Ejecucion del back-end
+Se puede visualizar los endpoints definidos como Plots, Nodes y Schedule Irrigation
 <img src="assets/sg1.jpg" alt="Imagen" style="width:100%">
-<img src="assets/sg2.jpg" alt="Imagen" style="width:100%">
 <img src="assets/sg3.jpg" alt="Imagen" style="width:100%">
+<img src="assets/sg2.jpg" alt="Imagen" style="width:100%">
+**Link de la página desplegada:** [https://thirstyseedapi-production.up.railway.app/swagger-ui/index.html#/](https://thirstyseedapi-production.up.railway.app/swagger-ui/index.html#/)
+
+## Ejecucion del mobile app
+Se puede visualizar las distintas vistas referente a nuestra aplicación móvil
 
 #### 6.2.2.6.Services Documentation Evidence for Sprint Review.
 #### 6.2.2.7.Software Deployment Evidence for Sprint Review.
+En este Sprint, nos enfocamos en el despliegue del producto ThirstySeed.
+
+Desplegamos el backend y la base de datos en Railway, lo que nos permitió una gestión eficiente de ambos componentes. 
+
+Además, se creó el repositorio en GitHub para el control de versiones y la administración del código.
+
+<table border="1" style="width: 100%; text-align: center;">
+    <tr>
+        <th colspan="2" style="text-align: center;">
+            <strong>DESPLIEGUE DEL BACKEND Y BASE DE DATOS</strong>
+        </th>
+    </tr>
+    <tr>
+        <td style="text-align: left;">
+            <strong>1. Despliegue del Backend en Railway:</strong>
+            <br>
+            Se configuró el backend de la aplicación en Railway, lo que facilitó la integración y acceso a los servicios desde la aplicación móvil y el sistema IoT.
+        </td>
+    </tr>
+    <tr>
+        <td>
+          <img src="assets/back1.jpg" alt="Back 1" style="width:100%">
+           <img src="assets/back2.jpg" alt="Back 2" style="width:100%">
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: left;">
+            <strong>2. Despliegue de la Base de Datos en Railway:</strong>
+            <br>
+            La base de datos fue también desplegada en Railway, asegurando la conectividad y disponibilidad de los datos para el backend y las aplicaciones.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="assets/bd2.jpg" alt="Base de datos 1" style="width:100%">
+            <img src="assets/bd1.jpg" alt="Base de datos 2" style="width:100%">
+        </td>
+    </tr>
+</table>
+
+<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
+
 #### 6.2.2.8.Team Collaboration Insights during Sprint.
 
 ## 6.3. Validation Interviews.
