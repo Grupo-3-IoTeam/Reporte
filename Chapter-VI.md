@@ -861,16 +861,39 @@ Para la planificación y monitoreo de tareas durante el presente sprint, utiliza
 </table>
 
 #### 6.2.2.3.Development Evidence for Sprint Review.
+
+#### Descripción General:
+En este apartado se documentan los servicios relacionados con el sistema de riego inteligente. Los endpoints que permiten interactuar con las parcelas (plots), nodos, horarios de riego (schedules), y la información del usuario son descritos en detalle, con ejemplos de las respuestas que pueden ser obtenidas.
+
+#### Tabla de Documentación de Servicios:
+
+| EndPoint                                                                                  | Acción Implementada                           | Verbo     | Descripción                                                                                                                                                                                                                                                                                    |
+|-------------------------------------------------------------------------------------------|-----------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `https://thirstyseedapi-production.up.railway.app/api/v1/plot/{plotId}/supply`            | Activar suministro de agua a la parcela       | **PUT**   | Cambia el estado de la parcela a "suministrado". No se requiere un body en la solicitud.                                                                                                                                                                |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/plot/{plotId}/not-supply`        | Desactivar suministro de agua a la parcela    | **PUT**   | Cambia el estado de la parcela a "no suministrado". No se requiere un body en la solicitud.                                                                                                                                                             |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/plot`                            | Obtener la lista de parcelas registradas      | **GET**   | Retorna un JSON con la información de todas las parcelas registradas en el sistema. Ejemplo de respuesta: <br> `[{"id": "1", "name": "Pucará", "location": "Pucará, Peru", "size": "100", "status": "Supplied", "imageUrl": "https://i.pinimg.com/..."}]`  |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/schedules`                       | Obtener horarios de riego                     | **GET**   | Devuelve un JSON con los horarios programados para el riego de cada parcela, incluyendo los parámetros de humedad, duración y cantidad de agua.                                                                                                         |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/schedules`                       | Crear un nuevo horario de riego               | **POST**  | Permite crear un horario de riego para una parcela específica. Se requiere un JSON con los detalles del horario.                                                                                                                                        |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/schedules/{scheduleId}`          | Obtener un horario de riego por ID            | **GET**   | Retorna la información de un horario de riego específico. Ejemplo de respuesta: <br> `{"id": "7e9f", "expectedMoisture": "40%", "plotSize": "100 m2", "setTime": "08:15 pm", "requiredWaterAmount": "500 cm3"}`                                           |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/schedules/{scheduleId}`          | Eliminar un horario de riego por ID           | **DELETE**| Elimina un horario de riego específico por su ID.                                                                                                                                                                                                       |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/node/{nodeId}/moisture`          | Actualizar nivel de humedad de un nodo        | **PUT**   | Permite actualizar el nivel de humedad registrado por un nodo en particular. Se requiere un JSON con el valor de la humedad.                                                                                                                           |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/node`                            | Obtener información de todos los nodos        | **GET**   | Retorna un JSON con la información de todos los nodos instalados en las parcelas. Ejemplo de respuesta: <br> `[{"id": "1", "plotId": 1, "moisture": 20, "status": "Error"}, {"id": "2", "plotId": 2, "moisture": 30, "status": "Correct"}]`              |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/node/{nodeId}`                   | Obtener información de un nodo por ID         | **GET**   | Devuelve la información de un nodo específico, incluyendo el nivel de humedad.                                                                                                                                                                          |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/node/{plotId}`                   | Obtener nodos asociados a una parcela         | **GET**   | Retorna la lista de nodos que están asociados a una parcela específica, identificada por su `plotId`.                                                                                                                                                   |
+
+#### Detalles Adicionales:
+- **Headers Utilizados**: En entornos de producción, estos endpoints pueden requerir un token de autenticación para proteger la información.
+- **Estatus HTTP**: Los endpoints retornan códigos **200 OK** cuando las solicitudes son exitosas. En caso de error, se devuelven códigos **400 Bad Request** o **500 Internal Server Error**.
+
+#### Evidencia:
+Estos endpoints fueron probados utilizando el servidor desplegado en Railway, y los datos de prueba fueron cargados en la base de datos correspondiente al entorno de producción. A continuación se presentan ejemplos de las respuestas obtenidas para cada uno de los endpoints.
 #### 6.2.2.4.Testing Suite Evidence for Sprint Review.
+Aqui veremos las pruebas de test que hicimos para nuestra aplicacion web, se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada.
+<img src="assets/testing.jpg" alt="Imagen" style="width:100%">
+
+link de donde se realizo el testeo:https://pagespeed.web.dev/analysis/https-thirstyseed-netlify-app/ba3jvvuqwl?hl=en-US&form_factor=desktop 
 #### 6.2.2.5.Execution Evidence for Sprint Review.
 En esta sección, se abordará la ejecución de la aplicación durante el sprint, resaltando las características y funcionalidades que se han implementado. Durante este periodo, se desarrolló el backend utilizando Spring Boot, donde se establecieron los endpoints necesarios. También se trabajó en la aplicación móvil con Flutter y se implementó el sistema IoT utilizando Wokwi.
-
-## Ejecucion del back-end
-Se puede visualizar los endpoints definidos como Plots, Nodes y Schedule Irrigation
-<img src="assets/sg1.jpg" alt="Imagen" style="width:100%">
-<img src="assets/sg3.jpg" alt="Imagen" style="width:100%">
-<img src="assets/sg2.jpg" alt="Imagen" style="width:100%">
-**Link de la página desplegada:** [https://thirstyseedapi-production.up.railway.app/swagger-ui/index.html#/](https://thirstyseedapi-production.up.railway.app/swagger-ui/index.html#/)
 
 ## Ejecucion de la Embedded app
 Se puede visualizar la ejecucion del dispositivo IOT mostrando la temperatura como tambien la humedad devolviendo datos en la consola
@@ -881,6 +904,20 @@ Se puede visualizar la ejecucion del dispositivo IOT mostrando la temperatura co
 Se puede visualizar las distintas vistas referente a nuestra aplicación móvil
 
 #### 6.2.2.6.Services Documentation Evidence for Sprint Review.
+
+### Plots services
+<img src="assets/plots.jpg" alt="Imagen" style="width:100%">
+
+### Nodes services
+<img src="assets/nodes.jpg" alt="Imagen" style="width:100%">
+
+### Schedule services
+
+<img src="assets/schedu.jpg" alt="Imagen" style="width:100%">
+
+**Link de la página desplegada:** [https://thirstyseedapi-production.up.railway.app/swagger-ui/index.html#/](https://thirstyseedapi-production.up.railway.app/swagger-ui/index.html#/)
+
+
 #### 6.2.2.7.Software Deployment Evidence for Sprint Review.
 En este Sprint, nos enfocamos en el despliegue del producto ThirstySeed.
 
