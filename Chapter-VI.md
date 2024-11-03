@@ -888,15 +888,12 @@ En este apartado se documentan los servicios relacionados con el sistema de rieg
 #### Evidencia:
 Estos endpoints fueron probados utilizando el servidor desplegado en Railway, y los datos de prueba fueron cargados en la base de datos correspondiente al entorno de producción. A continuación se presentan ejemplos de las respuestas obtenidas para cada uno de los endpoints.
 #### 6.2.2.4.Testing Suite Evidence for Sprint Review.
+Aqui veremos las pruebas de test que hicimos para nuestra aplicacion web, se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada.
+<img src="assets/testing.jpg" alt="Imagen" style="width:100%">
+
+link de donde se realizo el testeo:https://pagespeed.web.dev/analysis/https-thirstyseed-netlify-app/ba3jvvuqwl?hl=en-US&form_factor=desktop 
 #### 6.2.2.5.Execution Evidence for Sprint Review.
 En esta sección, se abordará la ejecución de la aplicación durante el sprint, resaltando las características y funcionalidades que se han implementado. Durante este periodo, se desarrolló el backend utilizando Spring Boot, donde se establecieron los endpoints necesarios. También se trabajó en la aplicación móvil con Flutter y se implementó el sistema IoT utilizando Wokwi.
-
-## Ejecucion del back-end
-Se puede visualizar los endpoints definidos como Plots, Nodes y Schedule Irrigation
-<img src="assets/sg1.jpg" alt="Imagen" style="width:100%">
-<img src="assets/sg3.jpg" alt="Imagen" style="width:100%">
-<img src="assets/sg2.jpg" alt="Imagen" style="width:100%">
-**Link de la página desplegada:** [https://thirstyseedapi-production.up.railway.app/swagger-ui/index.html#/](https://thirstyseedapi-production.up.railway.app/swagger-ui/index.html#/)
 
 ## Ejecucion de la Embedded app
 Se puede visualizar la ejecucion del dispositivo IOT mostrando la temperatura como tambien la humedad devolviendo datos en la consola
@@ -907,6 +904,20 @@ Se puede visualizar la ejecucion del dispositivo IOT mostrando la temperatura co
 Se puede visualizar las distintas vistas referente a nuestra aplicación móvil
 
 #### 6.2.2.6.Services Documentation Evidence for Sprint Review.
+
+### Plots services
+<img src="assets/plots.jpg" alt="Imagen" style="width:100%">
+
+### Nodes services
+<img src="assets/nodes.jpg" alt="Imagen" style="width:100%">
+
+### Schedule services
+
+<img src="assets/schedu.jpg" alt="Imagen" style="width:100%">
+
+**Link de la página desplegada:** [https://thirstyseedapi-production.up.railway.app/swagger-ui/index.html#/](https://thirstyseedapi-production.up.railway.app/swagger-ui/index.html#/)
+
+
 #### 6.2.2.7.Software Deployment Evidence for Sprint Review.
 En este Sprint, nos enfocamos en el despliegue del producto ThirstySeed.
 
