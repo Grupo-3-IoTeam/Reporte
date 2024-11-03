@@ -286,6 +286,7 @@ Kurt Matthews Puican Salas - U202016643
             <strong>Rafael Arturo Luyo Ramirez</strong><br>
             <strong>TB1:</strong> Aporte acerca de Lean UX Canvas, los 10 puntos del eventstorming y la continua comunicación con el equipo<br>
             <strong>TP:</strong> Aporte acerca de las pantallas de Calendario de Irrigación, Estado de Parcela, en cuanto las mejoras continuas mejore el LeanUXCanvas y las descripciones de todos los puntos del eventstorming, por ultimo realicé el deployment en Netlify.
+            <strong>TB2:</strong> Aporte acerca de el endpoint de nodos en el backend, conexion a esta mediante wokwi y parte del diagrama y el despliegue tanto del backend como de la base de datos. Ademas, siempre me mantuve en constante comunicación con los miembros del trabajo.
         </td>
     </tr>
     <tr>
@@ -328,6 +329,7 @@ Kurt Matthews Puican Salas - U202016643
             <strong>Rafael Arturo Luyo Ramirez</strong><br>
             <strong>TB1:</strong> Participe en colaboracion de todo mi equipo de trabajo mediante documentos compartidos, siempre mantuvimos una comunicación directa ya sea presencialmente o virtual mediante Discord.<br>
             <strong>TP:</strong> Cumpli con todos los requerimientos especificados para el presente sprint, ademas de que mantuvimos una constante mejoria mediante el entorno de desarollo de WebStorm, por ultimo participé en la lluvia de ideas acerca de nuestro proyecto.
+            <strong>TB2:</strong>Trabajé en el desarrollo del endpoint de nodos en el backend usando Spring Boot, en la aplicación embebida en Wokwi con C++ y en la conexión entre ambos sistemas. Además, realicé el deploy del backend y la base de datos en Railway y participé activamente en las reuniones del equipo.
         </td>
     </tr>
     <tr>
