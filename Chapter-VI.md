@@ -863,6 +863,12 @@ Para la planificación y monitoreo de tareas durante el presente sprint, utiliza
 #### 6.2.2.3.Development Evidence for Sprint Review.
 #### 6.2.2.4.Testing Suite Evidence for Sprint Review.
 #### 6.2.2.5.Execution Evidence for Sprint Review.
+
+## Ejecucion del back-end
+<img src="assets/sg1.jpg" alt="Imagen" style="width:100%">
+<img src="assets/sg2.jpg" alt="Imagen" style="width:100%">
+<img src="assets/sg3.jpg" alt="Imagen" style="width:100%">
+
 #### 6.2.2.6.Services Documentation Evidence for Sprint Review.
 #### 6.2.2.7.Software Deployment Evidence for Sprint Review.
 #### 6.2.2.8.Team Collaboration Insights during Sprint.
@@ -884,16 +890,16 @@ Para la planificación y monitoreo de tareas durante el presente sprint, utiliza
 5. ¿Qué crees que podemos mejorar?
 
 ### 6.3.2. Registro de Entrevistas
-|***Entrevista - Segmento XXXXXXXXXXXXX***|***1***|
+|***Entrevista - Segmento Productor agricola***|***1***|
 |---------|----------|
-|Nombre completo||
-|Edad||
-|Distrito||
-|Sistema Operativo||
+|Nombre completo|Tatiana cruzado|
+|Edad|57|
+|Distrito|Lima|
+|Sistema Operativo|Android|
 |Entrevista entre los minutos|0:00 - 6:08|
 |Screenshot de video|<img src="assets/EntrevistaK.png" alt="Usuario" style="width:100%;">|
 |URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/personal/u20201c144_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201c144%5Fupc%5Fedu%5Fpe%2FDocuments%2FUniversidad%2FCICLO%20IX%2FDesarrollo%20de%20Soluciones%20IoT%2FFinal%20Project%2FTB2%2FEntrevistas%2FEntrevistas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9a43b4d1%2D4915%2D47db%2D9013%2De537173495c0)|
-|Resumen de entrevista||
+|Resumen de entrevista|Tatiana nos comenta que encuentra la aplicacion bastante llamativa e interesante para poder satisfacer sus nececidades de trabajo, cuenta que lo mas interesante es poder administra los horarios de riego asi como tambien el poder activar sus aspersores automaticamente ya que asi ahorra tiempo y dinero, menciono que aun hay cosas que estan sin terminar como las notificaciones pero nos comento que la aplicacion esta bastante bien para poder ayudarla en lo que nececita|
 
 <img src="assets/BARRA-SEPARADORA.png" alt="Usuario" style="width:100%;">
 
