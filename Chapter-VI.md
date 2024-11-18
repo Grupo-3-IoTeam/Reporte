@@ -1094,7 +1094,216 @@ Para la planificación y monitoreo de tareas durante el presente sprint, utiliza
 
 ![Sprint Backlog 3](assets/trello-sp3.png)
 
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">Sprint #</th>
+      <th colspan="6">Sprint 3</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do / In-Process / To-Review / Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">US001</td>
+      <td rowspan="2">Monitoreo de Humedad en Parcela</td>
+      <td>1</td>
+      <td>Realizar configuración del dispositivo IoT</td>
+      <td>Configurar dispositivo para monitoreo de humedad (Embedded Application)</td>
+      <td>8</td>
+      <td>Kurt Puican, Alexis Vargas</td>
+      <td>done</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Realizar funcionalidad detección de humedad</td>
+      <td>Implementar funcionalidad para detectar la humedad con sensores IoT (Embedded Application)</td>
+      <td>6</td>
+      <td>Kurt Puican, Rafael Luyo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US002</td>
+      <td rowspan="2">Generación de Reporte de Humedad</td>
+      <td>3</td>
+      <td>Realizar reporte de riego mensual</td>
+      <td>Generar reporte mensual basado en datos de humedad (Web Application)</td>
+      <td>7</td>
+      <td>Giakomo Causso</td>
+      <td>In-Process</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Visualizar reportes generados</td>
+      <td>Interfaz para mostrar reportes de riego (Web Application)</td>
+      <td>4</td>
+      <td>Shayla Choque</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US003</td>
+      <td rowspan="2">Configuración de Métodos de Riego</td>
+      <td>5</td>
+      <td>Realizar modo de riego</td>
+      <td>Implementar diferentes modos de riego (manual, automático) (Web Application)</td>
+      <td>5</td>
+      <td>Shayla Choque</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Implementar planificación de riego</td>
+      <td>Planificación basada en datos meteorológicos (Web Application)</td>
+      <td>6</td>
+      <td>Shayla Choque</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US004</td>
+      <td>Selección de modalidad de riego</td>
+      <td>7</td>
+      <td>Realizar funcionalidad para activar aspersor</td>
+      <td>Funcionalidad para activar el aspersor manualmente (Web Application)</td>
+      <td>4</td>
+      <td>Alexis Vargas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US005</td>
+      <td rowspan="2">Suscripción a Planes Personalizados</td>
+      <td>8</td>
+      <td>Realizar bounded context suscription</td>
+      <td>Definir contexto de bounded context para suscripciones (Web Application)</td>
+      <td>6</td>
+      <td>Shayla Choque, Giakomo Causso, Alexis Vargas, Kurt Puican, Rafael Luyo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Visualizar suscripciones de usuarios</td>
+      <td>Mostrar las suscripciones de los usuarios en la aplicación (Web Application)</td>
+      <td>5</td>
+      <td>Shayla Choque</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US006</td>
+      <td>Notificación de Estado de Parcela</td>
+      <td>10</td>
+      <td>Realizar bounded context notifications</td>
+      <td>Definir contexto de notificaciones (Web Application)</td>
+      <td>5</td>
+      <td>Shayla Choque, Giakomo Causso, Alexis Vargas, Kurt Puican, Rafael Luyo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>US008</td>
+      <td>Integración con Sensores de Humedad</td>
+      <td>12</td>
+      <td>Integrar sensores de humedad con sistema IoT</td>
+      <td>Implementar la integración de sensores para la recolección de datos (Embedded Application)</td>
+      <td>8</td>
+      <td>Kurt Puican, Rafael Luyo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US009</td>
+      <td>API RESTful para Reportes</td>
+      <td>13</td>
+      <td>Cors configuration for API Application</td>
+      <td>Configurar CORS para permitir el acceso desde distintas aplicaciones (API Service)</td>
+      <td>3</td>
+      <td>Shayla Choque</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US010</td>
+      <td rowspan="2">Personalización de Notificaciones</td>
+      <td>14</td>
+      <td>Realizar funcionalidad detección de humedad</td>
+      <td>Implementar funcionalidad para detectar humedad en el sistema embebido (Embedded Application)</td>
+      <td>5</td>
+      <td>Kurt Puican, Rafael Luyo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Realiza funcionalidad detección de temperatura</td>
+      <td>Implementar funcionalidad para detectar la temperatura en el sistema embebido (Embedded Application)</td>
+      <td>5</td>
+      <td>Kurt Puican, Rafael Luyo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US011</td>
+      <td rowspan="2">Despliegue de Servicios</td>
+      <td>16</td>
+      <td>Despliegue del database</td>
+      <td>Realizar el despliegue del servicio de base de datos (Deployment)</td>
+      <td>4</td>
+      <td>Rafael Luyo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Despliegue de API Service</td>
+      <td>Realizar el despliegue del servicio de API (Deployment)</td>
+      <td>4</td>
+      <td>Rafael Luyo</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 6.2.3.3. Development Evidence for Sprint Review
+
+En este apartado se documentan los servicios relacionados con el sistema de riego inteligente. Los endpoints que permiten interactuar con las parcelas (plots), nodos, horarios de riego (schedules), y la información del usuario son descritos en detalle, con ejemplos de las respuestas que pueden ser obtenidas.
+
+#### Tabla de Documentación de Servicios:
+
+| EndPoint                                                                                  | Acción Implementada                           | Verbo     | Descripción                                                                                                                                                                                                                                                                                    |
+|-------------------------------------------------------------------------------------------|-----------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `https://thirstyseedapi-production.up.railway.app/api/v1/authentication/sign-up`          | Generar la autenticacion del usuario       | **POST**   | Se registra el la autenticacion del usuario para poder guardarlo en la base de datos y pueda iniciar sesion.  |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/authentication/sign-in`          | Generar el token para poder ingresar a la aplicacion    | **POST**   | Se valida la informacion de la cuenta para generar el token para que pueda entrar y utilizar los demas servicios.     |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/plot/{plotId}`                   | Actualiza la informacion de un plot       | **PUT**   | Se actualiza la informacion de un plot por medio de su id.  |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/plot/{plotId}`                   | Elimina un plot por id       | **DELETE**   | Borra el polot por medio de un id del plot  |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/plot/user/{userId}`              | Obtener el id del plot por medio del id del usuario  | **GET**   | Devuelve el plot correspondiente por medio de el id del usuario  |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/profiles`              | Obtener un profile  | **GET**   | Devuelve el profile |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/profiles`              | Registrar un profile  | **POST**   | Registra un profile con los parametros {"userId": 0,"firstName": "string","lastName": "string","email": "string","phoneNumber": "string","profileImage": "string","location": "string"|
+| `https://thirstyseedapi-production.up.railway.app/api/v1/profiles/{profileId}`              | Obtener un profile por medio de un id  | **GET**   | Devuelve el profile por medio de un id  |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/profiles/{profileId}`             | Elimina un profile por id  | **DELETE**   | Borra un profile por medio de su id |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/profiles/user/{profileId}`             | Obtiene profile id por medio de userId  | **GET**   | Muestra el profileId por medio de un userId |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/schedules/user/{userId}`             | Obtiene schedule id por medio de userId  | **GET**   | Muestra el schedule por medio de un userId |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/schedules/plot/{userId}`             | Obtiene schedule id por medio de userId  | **GET**   | Muestra el schedule por medio de un userId |
+| `https://thirstyseedapi-production.up.railway.app/api/v1/roles`             | Obtiene el rol del usuario  | **GET**   | Muestra el rol del usuario|
+| `https://thirstyseedapi-production.up.railway.app/api/v1/node/{nodeId}`             | Actualiza el node por id  | **PUT**   | Actualiza el nodo por medio de su id|
+| `https://thirstyseedapi-production.up.railway.app/api/v1/node/{nodeId}`             | Borra un nodo por id  | **DELETE**   | Elimida el nodo por medio de su id|
+| `https://thirstyseedapi-production.up.railway.app/api/v1/users`             | Obtiene el usuario  | **GET**   | Muestra el usuario|
+| `https://thirstyseedapi-production.up.railway.app/api/v1/users/{userId}`             | Obtiene el usuario por usuarioId  | **GET**   | Muestra el usuario por medio de su id|
+| `https://thirstyseedapi-production.up.railway.app/api/v1/users/{userId}`             | Elimina el usuario por usuarioId  | **DELETE**   | Borra el usuario por medio de su id|
+| `https://thirstyseedapi-production.up.railway.app/api/v1/subscriptions`             | Registra el Subscription  | **POST**   | Registra las subscripciones de los usuarios|
+| `https://thirstyseedapi-production.up.railway.app/api/v1/subscriptions/users/{userId}`             |Obtiene el Subscription por medio del id del usuario  | **GET**   | obtiene las subscripciones de los usuarios por su id|
+| `https://thirstyseedapi-production.up.railway.app/api/v1/subscriptions/{subscriptionsId}`             | Elimina el subscriptions por subscriptionsId  | **DELETE**   | Borra el subscriptions por medio de su id|
+
+
+
+
+#### Detalles Adicionales:
+- **Headers Utilizados**: En entornos de producción, estos endpoints pueden requerir un token de autenticación para proteger la información.
+- **Estatus HTTP**: Los endpoints retornan códigos **200 OK** cuando las solicitudes son exitosas. En caso de error, se devuelven códigos **400 Bad Request** o **500 Internal Server Error**.
+
 
 #### 6.2.3.4. Testing Suite Evidence for Sprint Review
 Aquí se proporcionara información sobre las pruebas realizadas durante el sprint.Se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada.
