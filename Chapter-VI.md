@@ -2153,7 +2153,7 @@ En esta sección, se abordará la ejecución de la aplicación durante el sprint
 <img src="assets/cale.jpg" alt="Imagen">
 
 ### Programar riego
-<img src="assets/cale2.jpg" alt="Imagen">
+<img src="assets/caleD2.jpg" alt="Imagen">
 
 
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review
