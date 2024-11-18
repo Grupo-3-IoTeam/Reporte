@@ -1088,16 +1088,145 @@ Además, se creó el repositorio en GitHub para el control de versiones y la adm
 
 #### 6.2.3.2. Sprint Backlog 3
 
+Para la planificación y monitoreo de tareas durante el presente sprint, utilizamos Trello como herramienta de gestión de proyectos para organizar, priorizar y hacer seguimiento del avance de cada actividad. Puedes acceder al Sprint Backlog en el siguiente enlace:
+
+[Trello - Sprint Backlog 3](https://trello.com/b/UyPa4XMg/sprint-backlog-3)
+
+![Sprint Backlog 3](assets/trello-sp3.png)
 
 #### 6.2.3.3. Development Evidence for Sprint Review
 
 #### 6.2.3.4. Testing Suite Evidence for Sprint Review
+Aquí se proporcionara información sobre las pruebas realizadas durante el sprint.Se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada.
+
+##### Landing Page
+<p align="center">
+    <img src="assets/Testing-Landing.png" alt="Imagen" style="width:100%"/>
+</p>
+<p align="center">
+    <strong>Landing Page Testeo:</strong>
+    <a href="https://pagespeed.web.dev/analysis/https-grupo-3-ioteam-github-io-ThirstySeed-Landing/foaeucaur9?hl=es-ES&form_factor=desktop" target="_blank">
+        https://pagespeed.web.dev/analysis/https-grupo-3-ioteam-github-io-ThirstySeed-Landing/foaeucaur9?hl=es-ES&form_factor=desktop
+    </a>
+</p>
+Por otro lado, no se ha llevado a cabo la prueba de la suite de testing para la web app esta entrega debido a que aún no disponemos de la primera versión del backend. Posteriormente, implementaremos pruebas utilizando una herramienta de automatización para pruebas de aceptación y comportamiento.
 
 #### 6.2.3.5. Execution Evidence for Sprint Review
+En esta sección, se abordará la ejecución de la aplicación durante el sprint, resaltando las características y funcionalidades que se han implementado. y modificado para este sprint en todos los dispositivos.
+
+### Ejecucion del web aplication
+
+## Plot status 
+
+<img src="assets/plotsta.jpg" alt="Imagen" style="width:100%">
+
+## ConfirmPayment 
+
+<img src="assets/confirmpay.jpg" alt="Imagen" style="width:100%">
+
+## SelectPlan
+
+<img src="assets/selectplan.jpg" alt="Imagen" style="width:100%">
+
+## CompleteProfile 
+
+<img src="assets/completep.jpg" alt="Imagen" style="width:100%">
+
+## CreateAccount
+
+<img src="assets/createc.jpg" alt="Imagen" style="width:100%">
+
+## Registered Plots
+
+<img src="assets/replot.jpg" alt="Imagen" style="width:100%">
+
+## Profile
+
+<img src="assets/profilev.jpg" alt="Imagen" style="width:100%">
+
+## Sign In
+
+<img src="assets/signin.jpg" alt="Imagen" style="width:100%">
+
+## PlotRegistration
+
+<img src="assets/plotre.jpg" alt="Imagen" style="width:100%">
+
+## NodeRegistration
+
+<img src="assets/noder.jpg" alt="Imagen" style="width:100%">
 
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review
 
+En esta documentacion se vera los endopoints tanto nuevos como actualizados de nuestro proyecto
+
+### Autentication services
+<img src="assets/aut.png" alt="Imagen" style="width:100%">
+
+### Plots services
+<img src="assets/plot2.png" alt="Imagen" style="width:100%">
+
+### Profile services
+<img src="assets/profile.png" alt="Imagen" style="width:100%">
+
+### Schedule services
+<img src="assets/schedule2.png" alt="Imagen" style="width:100%">
+
+### Nodes services
+<img src="assets/node2.png" alt="Imagen" style="width:100%">
+
+### User services
+<img src="assets/user.png" alt="Imagen" style="width:100%">
+
+### Subscription services
+<img src="assets/subs.png" alt="Imagen" style="width:100%">
+
+**Link de la página desplegada:** [https://thirstyseedapi-production.up.railway.app/swagger-ui/index.html#/](https://thirstyseedapi-production.up.railway.app/swagger-ui/index.html#/)
+
+
 #### 6.2.3.7. Software Deployment Evidence for Sprint Review
+
+En este Sprint, volvimos a deployar el producto ThirrstySeed a la ultima version con los cambios actualizados
+
+Desplegamos el backend y la base de datos en Railway, lo que nos permitió una gestión eficiente de ambos componentes. 
+
+Además, se creó el repositorio en GitHub para el control de versiones y la administración del código.
+
+<table border="1" style="width: 100%; text-align: center;">
+    <tr>
+        <th colspan="2" style="text-align: center;">
+            <strong>DESPLIEGUE DEL BACKEND Y BASE DE DATOS</strong>
+        </th>
+    </tr>
+    <tr>
+        <td style="text-align: left;">
+            <strong>1. Despliegue del Backend en Railway:</strong>
+            <br>
+            Se configuró el backend de la aplicación en Railway, lo que facilitó la integración y acceso a los servicios desde la aplicación móvil y el sistema IoT.
+        </td>
+    </tr>
+    <tr>
+        <td>
+          <img src="assets/back1.jpg" alt="Back 1" style="width:100%">
+           <img src="assets/back2.jpg" alt="Back 2" style="width:100%">
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: left;">
+            <strong>2. Despliegue de la Base de Datos en Railway:</strong>
+            <br>
+            La base de datos fue también desplegada en Railway, asegurando la conectividad y disponibilidad de los datos para el backend y las aplicaciones.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="assets/bd2.jpg" alt="Base de datos 1" style="width:100%">
+            <img src="assets/bd1.jpg" alt="Base de datos 2" style="width:100%">
+        </td>
+    </tr>
+</table>
+
+<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
 
 #### 6.2.3.8. Team Collaboration Insights during Sprint
 
