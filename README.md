@@ -252,9 +252,10 @@ Kurt Matthews Puican Salas - U202016643
     <tr>
         <td style="text-align: center;">
             <strong>Rafael Arturo Luyo Ramirez</strong><br>
-            <strong>TB1:</strong> Aporte acerca de Lean UX Canvas, los 10 puntos del eventstorming y la continua comunicación con el equipo<br>
-            <strong>TP:</strong> Aporte acerca de las pantallas de Calendario de Irrigación, Estado de Parcela, en cuanto las mejoras continuas mejore el LeanUXCanvas y las descripciones de todos los puntos del eventstorming, por ultimo realicé el deployment en Netlify.
-            <strong><br>TB2:</strong> Aporte acerca de el endpoint de nodos en el backend, conexion a esta mediante wokwi y parte del diagrama y el despliegue tanto del backend como de la base de datos. Ademas, siempre me mantuve en constante comunicación con los miembros del trabajo.
+            <strong>TB1:</strong> Contribuí al desarrollo del marco de trabajo inicial, integrando metodologías como Lean UX Canvas y realizando mejoras continuas en el proceso colaborativo. Mantuvimos una comunicación constante para alinear la visión del equipo y compartir conocimientos adquiridos de ciclos anteriores.<br>
+            <strong>TP:</strong>  Facilitando reuniones regulares, coordiné el avance del equipo y apoyé en la mejora de herramientas clave, como las descripciones del Lean UX Canvas y el EventStorming. Participé en la integración de nuevas funcionalidades en la interfaz de usuario y me aseguré de que el despliegue fuera fluido, incluyendo la implementación en plataformas como Netlify.<br>
+            <strong><br>TB2:</strong> Apoyé en la conexión del backend con dispositivos IoT mediante Wokwi y colaboré en el diseño y despliegue de la arquitectura del backend y la base de datos. Además, me mantuve en constante comunicación para coordinar y alinear el progreso de las diferentes áreas del proyecto.<br>
+            <strong><br>TF:</strong>Supervisé y apoyé en la integración final del proyecto, incluyendo la implementación de actualizaciones en los módulos de backend y frontend. Coordiné el despliegue de todos los componentes y trabajé en la conexión con dispositivos físicos, asegurando una entrega exitosa y alineada con los objetivos del equipo.<br>
         </td>
     </tr>
     <tr>
@@ -306,9 +307,10 @@ Kurt Matthews Puican Salas - U202016643
     <tr>
         <td style="text-align: center;">
             <strong>Rafael Arturo Luyo Ramirez</strong><br>
-            <strong>TB1:</strong> Participe en colaboracion de todo mi equipo de trabajo mediante documentos compartidos, siempre mantuvimos una comunicación directa ya sea presencialmente o virtual mediante Discord.<br>
-            <strong>TP:</strong> Cumpli con todos los requerimientos especificados para el presente sprint, ademas de que mantuvimos una constante mejoria mediante el entorno de desarollo de WebStorm, por ultimo participé en la lluvia de ideas acerca de nuestro proyecto.
-            <strong><br>TB2:</strong>Trabajé en el desarrollo del endpoint de nodos en el backend usando Spring Boot, en la aplicación embebida en Wokwi con C++ y en la conexión entre ambos sistemas. Además, realicé el deploy del backend y la base de datos en Railway y participé activamente en las reuniones del equipo.
+            <strong>TB1:</strong> Fomenté un entorno de trabajo inclusivo, utilizando documentos compartidos y plataformas de comunicación como Discord para asegurar que todos los integrantes del equipo tuvieran la oportunidad de participar activamente. Nos mantuvimos en constante contacto, facilitando la colaboración y la cohesión del grupo desde el inicio del proyecto.<br>
+            <strong>TP:</strong> Trabajé de manera constante en el cumplimiento de los requerimientos del sprint, planificando tareas y organizando sesiones de brainstorming para la mejora continua del proyecto. Usamos entornos de desarrollo colaborativos, como WebStorm, para asegurar que todos los miembros pudieran contribuir eficazmente a los objetivos establecidos.<br>
+            <strong><br>TB2:</strong> Contribuí al desarrollo del backend utilizando Spring Boot, estableciendo la conexión con la aplicación embebida en Wokwi programada en C++. Coordiné la integración entre ambos sistemas y me encargué del despliegue del backend y la base de datos en Railway, manteniendo una comunicación continua para alinear los esfuerzos del equipo.<br>
+            <strong><br>TF:</strong>Apoyé en la integración final del proyecto, colaborando en la implementación de actualizaciones para los módulos de backend y frontend. Me encargué del despliegue completo de los sistemas, incluyendo la conexión con el dispositivo físico IoT, y aseguré que todos los componentes estuvieran alineados con las metas del proyecto, cumpliendo con los plazos establecidos.<br>
         </td>
     </tr>
     <tr>
