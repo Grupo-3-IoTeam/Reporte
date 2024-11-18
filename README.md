@@ -70,6 +70,7 @@ Kurt Matthews Puican Salas - U202016643
 | v1.6.0    | 2024-11-17  | Shayla Lussiné Choque Puma                        | Ajustes en los capítulos existentes y actualización de la planificación del Sprint 3.         |
 | v1.6.1    | 2024-11-18  | Kurt Matthews Puican Salas                       | Corrección de la sección de pruebas y servicios de la aplicación en la documentación del Sprint 3. |
 | v1.7.0    | 2024-11-18  | Giakomo Rodolfo Causso Mariano                                          | Actualización de la sección de outcomes y adición de nuevos avances relacionados con el GiakoOutcome. |
+| v1.7.0    | 2024-11-18  | Manuel Alexis Vargas Quispe| Actualización del web service, agregando mi student outcome y mejora de las versiones antiguas |
 | v1.7.1 | 2024-11-18 | Shayla Lussiné Choque Puma | Actualización y corrección del historial de versiones. |
 
 # Project Report Collaboration # Insights
@@ -316,7 +317,6 @@ Kurt Matthews Puican Salas - U202016643
             <br>
             <strong>TB2:</strong> Cumpli con los acuerdos que habiamos establecido, esencialmente con respecto a los artefactos de planificacion y desarrollo. Por otro lado, con el avance del trabajo y del ciclo, el equipo ya puede coordinar de mejor manera lo que opina. Creo que esto se ha logrado con el esfuerzo de todos, y es algo que valoro del equipo y mis compañeros.
             <strong>TF:</strong> Durante la realizacion de los artefactos he estado abierta a mejoras y modificaciones, respondiendo rapidamente y siendo eficaz. Asi también he sabido apoyar a mis compañeros cuando tenian dificultades en la implementacion y integracion de servicios. Todo esto con el objetivo de cubrir el sprint goal trazado, mismo que creo se ha cumplido casi al completo.
-            
         </td>
     </tr>
 </table>
