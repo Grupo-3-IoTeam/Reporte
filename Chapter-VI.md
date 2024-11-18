@@ -2138,6 +2138,24 @@ En esta sección, se abordará la ejecución de la aplicación durante el sprint
 
 <img src="assets/noder.jpg" alt="Imagen" style="width:100%">
 
+### Ejecucion del Mobile aplication
+
+### Menu
+<img src="assets/menu.jpg" alt="Imagen">
+
+### Administrar parcelas
+<img src="assets/plotm.jpg" alt="Imagen">
+
+### Nodos
+<img src="assets/nodev.jpg" alt="Imagen">
+
+### Calendario de riego
+<img src="assets/cale.jpg" alt="Imagen">
+
+### Programar riego
+<img src="assets/cale2.jpg" alt="Imagen">
+
+
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review
 
 En esta documentacion se vera los endopoints tanto nuevos como actualizados de nuestro proyecto
@@ -2189,8 +2207,8 @@ Además, se creó el repositorio en GitHub para el control de versiones y la adm
     </tr>
     <tr>
         <td>
-          <img src="assets/back1.jpg" alt="Back 1" style="width:100%">
-           <img src="assets/back2.jpg" alt="Back 2" style="width:100%">
+          <img src="assets/dep1.jpg" alt="Back 1" style="width:100%">
+           <img src="assets/dep2.jpg" alt="Back 2" style="width:100%">
         </td>
     </tr>
     <tr>
@@ -2202,8 +2220,7 @@ Además, se creó el repositorio en GitHub para el control de versiones y la adm
     </tr>
     <tr>
         <td>
-            <img src="assets/bd2.jpg" alt="Base de datos 1" style="width:100%">
-            <img src="assets/bd1.jpg" alt="Base de datos 2" style="width:100%">
+            <img src="assets/dep3.jpg" alt="Base de datos 1" style="width:100%">
         </td>
     </tr>
 </table>
