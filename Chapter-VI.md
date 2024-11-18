@@ -895,12 +895,12 @@ link de donde se realizo el testeo:https://pagespeed.web.dev/analysis/https-thir
 #### 6.2.2.5.Execution Evidence for Sprint Review.
 En esta sección, se abordará la ejecución de la aplicación durante el sprint, resaltando las características y funcionalidades que se han implementado. Durante este periodo, se desarrolló el backend utilizando Spring Boot, donde se establecieron los endpoints necesarios. También se trabajó en la aplicación móvil con Flutter y se implementó el sistema IoT utilizando Wokwi.
 
-## Ejecucion de la Embedded app
+#### Ejecucion de la Embedded app
 Se puede visualizar la ejecucion del dispositivo IOT mostrando la temperatura como tambien la humedad devolviendo datos en la consola
 <img src="assets/wok1.jpg" alt="Imagen" style="width:100%">
 <img src="assets/wok2.jpg" alt="Imagen" style="width:100%">
 
-## Ejecucion del mobile app
+###### Ejecucion del mobile app
 Se puede visualizar las distintas vistas referente a nuestra aplicación móvil
 
 ## Login 
@@ -1006,6 +1006,102 @@ Además, se creó el repositorio en GitHub para el control de versiones y la adm
 
 #### 6.2.2.8.Team Collaboration Insights during Sprint.
 
+### 6.2.3. Sprint 3
+#### 6.2.3.1. Sprint Planning 3
+
+<table border="1" style="width:100%; text-align: center;">
+  <tr>
+    <th colspan="2" style="text-align: center;"><strong>Sprint #</strong></th>
+    <th colspan="2" style="text-align: center;"><strong>Sprint 3</strong></th>
+  </tr>
+  <tr>
+    <th colspan="4" style="text-align: center;"><strong>Sprint Planning Background</strong></th>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td colspan="3">02/11/2024</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td colspan="3">07:00 PM</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td colspan="3">Lima, Peru - Meeting held via Discord</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared By</strong></td>
+    <td colspan="3">Choque Puma, Shayla Lussiné</td>
+  </tr>
+  <tr>
+    <td><strong>Attendees (to planning meeting)</strong></td>
+    <td colspan="3">
+      Giakomo Rodolfo Causso Mariano
+      <br>
+      Kurt Matthews Puican Salas
+      <br>
+      Rafael Arturo Luyo Ramirez
+      <br>
+      Manuel Alexis Vargas Quispe
+    </td>
+  </tr>
+    <tr>
+    <td><strong>Sprint 3 - Review Summary</strong></td>
+    <td colspan="3">
+      Durante el Sprint 3, se implementaron la landing page y la aplicación web, 
+      incluyendo la gestión de parcelas, nodos y la planificación de riego dentro 
+      del bounded context de irrigation. El equipo destacó el avance logrado, 
+      mencionando desafíos en la integración de la planificación de riego. 
+      El Product Owner sugirió continuar con el desarrollo de los demás bounded 
+      contexts de la plataforma y agregar el cambio de idioma en la aplicación web.
+    </td>
+  </tr>
+    </tr>
+    <tr>
+    <td><strong>Sprint 3 - Retrospective Summary</strong></td>
+    <td colspan="3">
+      Durante el Sprint 3, destacamos la buena comunicación y el equilibrio en el trabajo en equipo, donde todos contribuimos con nuestras fortalezas. GitHub fue la herramienta clave para el manejo de versiones y la revisión de avances. Como oportunidad de mejora, identificamos la necesidad de organizar mejor nuestro tiempo personal y definir más claramente las tareas. El mayor desafío fue el margen casi nulo para finalizar los archivos antes de la entrega, lo cual evidenció cierta descoordinación. Aunque la carga de trabajo fue adecuada, consideramos que podríamos equilibrarla mejor con una organización y definición más detallada de las tareas.
+    </td>
+  </tr>
+  <tr>
+    <th colspan="4" style="text-align: center;"><strong>Sprint Goal & User Stories</strong></th>
+  </tr>
+  <tr>
+    <td><strong>Sprint Goal</strong></td>
+    <td colspan="3">
+      Nuestro foco es implementar los bounded contexts de IAM, Profile y Subscriptions en el API Service, integrando estas funcionalidades tanto en la aplicación web como en la móvil. En el caso de la aplicación móvil, se integrarán y completarán las vistas para administrar terrenos, nodos y planificar riegos manuales y automáticos, así como la activación de riegos. También terminaremos la implementación del Edge Service, que manejará los nodos y recibirá datos actualizados del sistema. Asimismo, actualizaremos la aplicación embebida para que los datos de monitoreo de humedad sean enviados al Edge Service, y este, a su vez, se conecte con el API Service. Además, optimizaremos la landing page para mostrar con mayor claridad los planes disponibles en la plataforma. Finalmente, trabajaremos en la versión funcional del prototipo físico del dispositivo IoT.
+      Creemos que esto permitirá ofrecer nuevas funcionalidades clave para cada segmento de usuario. Los agricultores podrán monitorear y controlar su sistema de riego de forma más eficiente mediante la integración de las aplicaciones web y móvil con los nuevos bounded contexts. Por otro lado, el prototipo físico y la actualización de los servicios validarán la solución de hardware y software en conjunto. Además, la optimización de la landing page atraerá y convertirá nuevos usuarios interesados en los planes de la plataforma.
+      Esto será confirmado cuando:  Los usuarios puedan administrar terrenos, nodos y planificar riegos desde las aplicaciones web y móvil utilizando los nuevos bounded contexts del API Service. El Edge Service reciba datos de la aplicación embebida y los transmita correctamente al API Service. El prototipo físico esté operativo y listo para pruebas iniciales. La landing page sea capaz de mostrar claramente los planes de la plataforma y redirigir a los usuarios hacia la aplicación web. Los desarrolladores validen las nuevas funcionalidades mediante pruebas completas de integración entre los componentes.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Sprint Velocity</strong></td>
+    <td colspan="3">
+      50
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Sum of Story Points</strong></td>
+    <td colspan="3">60 story points</td>
+  </tr>
+</table>
+
+#### 6.2.3.2. Sprint Backlog 3
+
+
+#### 6.2.3.3. Development Evidence for Sprint Review
+
+#### 6.2.3.4. Testing Suite Evidence for Sprint Review
+
+#### 6.2.3.5. Execution Evidence for Sprint Review
+
+#### 6.2.3.6. Services Documentation Evidence for Sprint Review
+
+#### 6.2.3.7. Software Deployment Evidence for Sprint Review
+
+#### 6.2.3.8. Team Collaboration Insights during Sprint
+
+
 ## 6.3. Validation Interviews.
 ### 6.3.1. Diseño de Entrevistas
 
@@ -1061,7 +1157,7 @@ Además, se creó el repositorio en GitHub para el control de versiones y la adm
 |URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/personal/u20201c144_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201c144%5Fupc%5Fedu%5Fpe%2FDocuments%2FUniversidad%2FCICLO%20IX%2FDesarrollo%20de%20Soluciones%20IoT%2FFinal%20Project%2FTB2%2FEntrevistas%2FEntrevistas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9a43b4d1%2D4915%2D47db%2D9013%2De537173495c0)|
 |Resumen de entrevista|Karla tiene 18 años y dedica parte de su tiempo a la producción de forrajes. Con respecto a la aplicacion, menciona que le gustó mucho las funcionalidades que ofrece. También, considera que todo ello facilitara el modo de riego de sus forrajes, destaca que sobre todo, la aplicacion permitira que ese tiempo de planificacion, traslado al terreno y la preparacion de los aspersores, se veran disminuidos y podra goazar de mas tiempo para hacer otras actividades. Menciona que si le brindan todo el equipo para el nodo (aspersores y sensores) estaria dispuesta a pagar un inicial de 150 dolares por 4 nodos. Y pagar mensualmente por el mantemiento y el resto de las funcionaladesde hasta 7 dólares. Lo que mas le gusto de la aplicacion es el registro de terreno, nodos y la planificacion del riego. Considera que la funcionalidad que usaria seria la plainificacion de riego. Menciona que la fncionalidad que debe mejorarse seria una mejor precision de la humedad cuando la planificacion del riego sea automatica y el tiempo en función en ello. Por ello, cree que esta funcionalidad debe refinarse.|
 ### 6.3.3. Evaluaciones según heurísticas
-# UX Heuristics & Principles Evaluation
+#### UX Heuristics & Principles Evaluation
 **Usability – Inclusive Design – Information Architecture**  
 **CARRERA:** Ingeniería de Software  
 **CURSO:** Desarrollo de Soluciones IoT  
@@ -1070,10 +1166,10 @@ Además, se creó el repositorio en GitHub para el control de versiones y la adm
 **AUDITOR:** Nombre del Grupo que ejecuta la Sesión de evaluación  
 **CLIENTE(S):** IOTEAM  
 
-## SITE o APP A EVALUAR:
+#### SITE o APP A EVALUAR:
 **ThirstySeed**
 
-## TAREAS A EVALUAR:
+#### TAREAS A EVALUAR:
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 1. Registro de un usuario nuevo
 2. Logueo de un usuario
@@ -1091,7 +1187,7 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 3. Cambio de idioma
 4. Atención al cliente
 
-## ESCALA DE SEVERIDAD:
+#### ESCALA DE SEVERIDAD:
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 | Nivel | Descripción                                                                                                                                      |
@@ -1101,7 +1197,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 | 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante corregirlo y debe tener una prioridad alta.     |
 | 4     | Problema muy grave: error de gran impacto que impide al usuario continuar usando la herramienta. Debe ser corregido antes del lanzamiento.      |
 
-## TABLA RESUMEN:
+#### TABLA RESUMEN:
 
 | #  | Problema                                     | Escala de severidad | Heurística/Principio violado            |
 |----|----------------------------------------------|----------------------|-----------------------------------------|
@@ -1113,9 +1209,9 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 ---
 
-## DESCRIPCIÓN DE PROBLEMAS:
+#### DESCRIPCIÓN DE PROBLEMAS:
 
-### PROBLEMA #1: No hay una opción para editar una parcela
+##### PROBLEMA #1: No hay una opción para editar una parcela
 **Severidad:** 3  
 **Heurística violada:** Libertad y control del usuario  
 **Descripción:**  
@@ -1125,7 +1221,7 @@ Agregar un botón de “Editar” en la vista de parcelas registradas, permitien
 
 ---
 
-### PROBLEMA #2: No hay una opción para borrar una parcela
+##### PROBLEMA #2: No hay una opción para borrar una parcela
 **Severidad:** 3  
 **Heurística violada:** Libertad y control del usuario  
 **Descripción:**  
@@ -1135,7 +1231,7 @@ Incluir un botón de “Eliminar” en cada parcela registrada, permitiendo a lo
 
 ---
 
-### PROBLEMA #3: No hay una opción para editar un nodo
+##### PROBLEMA #3: No hay una opción para editar un nodo
 **Severidad:** 3  
 **Heurística violada:** Libertad y control del usuario  
 **Descripción:**  
@@ -1145,7 +1241,7 @@ Añadir una función de “Editar” en la vista de nodos registrados para que e
 
 ---
 
-### PROBLEMA #4: No hay una opción para borrar un nodo
+##### PROBLEMA #4: No hay una opción para borrar un nodo
 **Severidad:** 3  
 **Heurística violada:** Libertad y control del usuario  
 **Descripción:**  
@@ -1155,7 +1251,7 @@ Incorporar una opción de “Eliminar” en cada nodo registrado, con una confir
 
 ---
 
-### PROBLEMA #5: No hay una función para editar perfil
+##### PROBLEMA #5: No hay una función para editar perfil
 **Severidad:** 3  
 **Heurística violada:** Visibilidad del estado del sistema  
 **Descripción:**  
@@ -1171,3 +1267,9 @@ En el siguiente video se puede visualizar de meejor manera como se ha desarrolla
 
 Enlace: [Video About the product](https://upcedupe-my.sharepoint.com/personal/u20201c144_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201c144%5Fupc%5Fedu%5Fpe%2FDocuments%2FUniversidad%2FCICLO%20IX%2FDesarrollo%20de%20Soluciones%20IoT%2FFinal%20Project%2FTB2%2F2024%2D11%2D03%2000%2D25%2D49%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E679d6abd%2Da79a%2D4262%2Da1d3%2D44641dd148d5)
 
+## 6.5. Video About-the-Team
+En el siguiente enlace se puede visulizar el video about the team del equipo de desarrollo.
+
+![image](https://)
+
+Enlace: [Video About the team]()
