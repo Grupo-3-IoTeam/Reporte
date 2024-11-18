@@ -72,8 +72,6 @@ Kurt Matthews Puican Salas - U202016643
 | v1.7.0    | 2024-11-18  | Giakomo Rodolfo Causso Mariano                                          | Actualización de la sección de outcomes y adición de nuevos avances relacionados con el GiakoOutcome. |
 | v1.7.1 | 2024-11-18 | Shayla Lussiné Choque Puma | Actualización y corrección del historial de versiones. |
 
-
-
 # Project Report Collaboration # Insights
 <table border="1" style="width: 100%; text-align: center;">
     <tr>
