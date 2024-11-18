@@ -331,7 +331,7 @@ Kurt Matthews Puican Salas - U202016643
             <strong>TB1:</strong> Me propuse concluir bien este curso y aprender para poder realizar eficazmente este trabajo, apoyando en todo lo posible con todos mis conocimientos adquiridos de los ciclos anteriores.   <br>
             <strong>TP:</strong> Organicé reuniones periódicas con los integrantes del equipo, asegurándome de que cada uno pudiera compartir sus avances y desafíos. Esto fomentó una comunicación más efectiva entre todos y permitió mantener un trabajo más organizado y colaborativo, lo que ayudó a tomar decisiones conjuntas de manera más eficiente.
             <br>
-            <strong>TB2:</strong> Fomenté un entorno inclusivo al revisar y mejorar el "About" del producto, incorporando ideas y comentarios de todos los miembros para reflejar mejor nuestra visión como equipo. Además, realicé un seguimiento de las metas establecidas en el desarrollo móvil, asegurando que los problemas técnicos se resolvieran con rapidez y manteniendo al equipo enfocado en los objetivos finales.
+            <strong>TB2:</strong> Revisé y mejoré el "About" del producto, integrando ideas y comentarios de los miembros del equipo para reflejar nuestra visión de manera clara y precisa. También realicé un seguimiento de las metas establecidas en el desarrollo móvil, resolviendo problemas técnicos de forma ágil y manteniendo al equipo alineado con los objetivos establecidos.
             <br>
             <strong>TF:</strong> Organicé reuniones periódicas para coordinar avances, fomentar una comunicación efectiva y tomar decisiones conjuntas. Apoyé en la revisión de tareas clave, como el registro de nodos y el diseño de parcelas, asegurando un trabajo colaborativo.
         </td>
