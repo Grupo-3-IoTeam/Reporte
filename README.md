@@ -262,6 +262,8 @@ Kurt Matthews Puican Salas - U202016643
             <strong>TP:</strong> Durante esta entrega, he priorizado la comunicación temprana para organizar al equipo. Además, he promovido la participación activa de los miembros, asegurando que todos estemos informados sobre el estado del proyecto. Esto ha facilitado la toma de decisiones y el establecimiento de acuerdos de manera efectiva.
             <br>
             <strong>TB2:</strong> Durante esta entrega, el equipo en conjunto ha hecho el esfuerzo para estar organizado en cumplir con los objetivos del sprint goal. Considero que la parte mas importante para esta entrega ha sido la comunicacion y esa facilidad de intercambiar opiniones. Por mi lado, he hecho el esfuerzo de tener los artefactos de gestion de proyectos para tener un monitoreo adecuado de nuestras actividades.
+            <br>
+            <strong>TF:</strong> Durante esta entrega he organizado a mi equipo para poder realizar los que faltaba de los artefactos equitativamente. Considera que he trabajado muy bien como miembro del equipo pues he ayudado a mis compañeros a solucionar problemas de implememtacion. Asi tambien he respondido eficazmente para aumentar o modificar algunas funcionalidades cuando fue necesario. Considero que mi desempeño ha sido muy bueno, sin embargo, como lider creo que se puede mejorar la eficiencia de los integrantes del equipo.
         </td>
     </tr>
     <tr>
@@ -312,7 +314,9 @@ Kurt Matthews Puican Salas - U202016643
             <strong>TB1:</strong> Cumplí con los acuerdos que habíamos establecido durante las primeras semanas. Gracias a ello, logré diseñar la arquitectura de nuestro proyecto. Además, colaboré activamente en la ideación y definición de requisitos a través de entrevistas y análisis.<br>
             <strong>TP:</strong> Cumplí con los acuerdos que habíamos establecido durante las primeras semanas. Gracias a ello, logré diseñar la arquitectura de nuestro proyecto. Además, colaboré activamente en la ideación y definición de requisitos a través de entrevistas y análisis.
             <br>
-            <strong>TB2:</strong> Cumpli con los acuerdos que habiamos establecido, esencialmente con respecto a los artefactos de planificacion y desarrollo. Por otro lado, con el avance del trabajo y del ciclo, el equipo ya puede coordinar de mejor manera lo que opina. Creo que esto se ha logrado con el esfuerzo de todos, y es algo que valoro del equipo y mis compañeros.       
+            <strong>TB2:</strong> Cumpli con los acuerdos que habiamos establecido, esencialmente con respecto a los artefactos de planificacion y desarrollo. Por otro lado, con el avance del trabajo y del ciclo, el equipo ya puede coordinar de mejor manera lo que opina. Creo que esto se ha logrado con el esfuerzo de todos, y es algo que valoro del equipo y mis compañeros.
+            <strong>TF:</strong> Durante la realizacion de los artefactos he estado abierta a mejoras y modificaciones, respondiendo rapidamente y siendo eficaz. Asi también he sabido apoyar a mis compañeros cuando tenian dificultades en la implementacion y integracion de servicios. Todo esto con el objetivo de cubrir el sprint goal trazado, mismo que creo se ha cumplido casi al completo.
+            
         </td>
     </tr>
 </table>
