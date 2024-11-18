@@ -238,6 +238,7 @@ Kurt Matthews Puican Salas - U202016643
             <strong>Kurt Matthews Puican Salas</strong><br>
             <strong>TB1:</strong>Aporte mis conocimientos con mis compañeros para poder realizar una correcta entrega del trabajo empleando reuniones grupales con el equipo para poder cordinar de mejor manera <br>
             <strong>TP:</strong> Realice reuniones e estuve preguntando a todos los integrantes sobre su avance para que haya una comunicacion mas efectiva asi como tambien un trabaj mas ordenado<br><strong>TB2:</strong>Asumi el rol de encargado de la aplicacion embeded, apoyando y cordinando con todos los integrantes del equipo para poder mantener un orden y un buen avance de los agregados a este punto.
+            <strong><br>TF:</strong> Me reuni con diversos lideres de equipó para poder coordinar las tareas a realizar asi como tambien para poder delegar tareas y supervisar avances para un buen desarrollo de trabajo
         </td>
     </tr>
     <tr>
@@ -291,6 +292,7 @@ Kurt Matthews Puican Salas - U202016643
             <strong>TB1:</strong> Me postule para realizar diversas actividades en el informe cumpliendo a tiempo todas las actividades que se me indicaron empleando conocimientos previos<br>
             <strong>TP:</strong> Realice las actividades correspondientes de la entrega asi como tambien una mejora continua junto con el equipo para mejorar errores previos juntos con las mejoras de la nueva entrega
             <br><strong>TB2:</strong>Colabore en las distintas actividades que se me encargaron haciendo una retoalimentacion de mi desempeño tanto en las actividades que me delegaban como tambien el las que delegaba manteniendo una comunicacion asertiva
+            <br><strong>TF:</strong>Preste mi ayuda en diversas partes del poyecto a los lideres de equipo asi como tambien desarollar tareas individuales que mejoraban el desempeño del equipo
         </td>
     </tr>
     <tr>
