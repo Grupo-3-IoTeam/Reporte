@@ -1269,9 +1269,785 @@ Para la planificación y monitoreo de tareas durante el presente sprint, utiliza
 
 #### 6.2.3.3. Development Evidence for Sprint Review
 
+##### Historial de commits del sprint 3
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Committed on (Date)</th>
+      <th>Author</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>origin/feature/IAM</td>
+      <td>92280bc</td>
+      <td>update: payment</td>
+      <td>2024-11-17</td>
+      <td>GiaKode</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>origin/feature/IAM</td>
+      <td>d7e10d8</td>
+      <td>update: payment</td>
+      <td>2024-11-17</td>
+      <td>GiaKode</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>develop</td>
+      <td>02f8fba</td>
+      <td>Merge pull request #6 from Grupo-3-IoTeam/feature/PlotV1, update: ViewPlotxProfile</td>
+      <td>2024-11-17</td>
+      <td>Giakomo Causso Mariano</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>origin/feature/PlotV1</td>
+      <td>4aedf0d</td>
+      <td>update: ViewPlotxProfile</td>
+      <td>2024-11-17</td>
+      <td>GiaKode</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>develop</td>
+      <td>6e7b0c3</td>
+      <td>Merge branch 'develop'</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>develop</td>
+      <td>c406003</td>
+      <td>Merge branch 'feature/schedule' into develop</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>develop</td>
+      <td>357cad5</td>
+      <td>feat: implement add schedule feat</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>develop</td>
+      <td>3279bc1</td>
+      <td>Merge branch 'develop'</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>develop</td>
+      <td>0347ff9</td>
+      <td>clean</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>develop</td>
+      <td>d8006f0</td>
+      <td>del</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>develop</td>
+      <td>5f61546</td>
+      <td>delete</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>develop</td>
+      <td>5c88d9b</td>
+      <td>Merge pull request #5 from Grupo-3-IoTeam/develop, Develop</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>develop</td>
+      <td>5d3c909</td>
+      <td>Merge pull request #4 from Grupo-3-IoTeam/feature/schedule, update develop</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>feature/schedule</td>
+      <td>2cd625c</td>
+      <td>Merge branch 'develop' into feature/schedule</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>feature/schedule</td>
+      <td>f0254e8</td>
+      <td>fix: change directory</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>feature/schedule</td>
+      <td>b42d770</td>
+      <td>.,.</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>feature/schedule</td>
+      <td>371fe1a</td>
+      <td>feat: implement schedules</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>origin/feature/IAM</td>
+      <td>92280bc</td>
+      <td>update: payment</td>
+      <td>2024-11-17</td>
+      <td>GiaKode</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>origin/feature/lol</td>
+      <td>801cf5f</td>
+      <td>fix/feature-register-plot</td>
+      <td>2024-11-16</td>
+      <td>Kurt Puican</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedMobileApplication</td>
+      <td>origin/feature/plot_screen</td>
+      <td>4fedd04</td>
+      <td>fix/plot_screen</td>
+      <td>2024-11-16</td>
+      <td>Kurt Puican</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>origin/feature/change-details</td>
+      <td>898a803</td>
+      <td>feat(change-details): add status button</td>
+      <td>2024-11-18</td>
+      <td>RafaelLuyo</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>origin/feature/change-details</td>
+      <td>71d7647</td>
+      <td>feat: add style plot's</td>
+      <td>2024-11-18</td>
+      <td>Alexis Vargas</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>develop, origin/main, origin/develop, main</td>
+      <td>fb16d8d</td>
+      <td>NaN</td>
+      <td>2024-11-18</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>develop</td>
+      <td>df0f2ed</td>
+      <td>Merge branch 'feature/test' into develop</td>
+      <td>2024-11-18</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>origin/feature/test, feature/test</td>
+      <td>8df50e7</td>
+      <td>feat: implement subscription</td>
+      <td>2024-11-18</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>develop</td>
+      <td>73002b5</td>
+      <td>feat(test): subscription added</td>
+      <td>2024-11-18</td>
+      <td>RafaelLuyo</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>develop</td>
+      <td>3fbd56d</td>
+      <td>feat(test): not found and side navigation fixed</td>
+      <td>2024-11-17</td>
+      <td>RafaelLuyo</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>develop</td>
+      <td>03911cb</td>
+      <td>feat: 1ra version login</td>
+      <td>2024-11-17</td>
+      <td>Alexis Vargas</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>develop</td>
+      <td>3d2e8d0</td>
+      <td>feat: edit redirection link</td>
+      <td>2024-11-17</td>
+      <td>Alexis Vargas</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>develop</td>
+      <td>0f86417</td>
+      <td>feat: add logic i18n and translate</td>
+      <td>2024-11-17</td>
+      <td>Alexis Vargas</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>origin/feature/profile-corrections, feature/profile-corrections</td>
+      <td>2281808</td>
+      <td>feat: implement profile and account</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>develop</td>
+      <td>7051867</td>
+      <td>feat(test): nodes modified</td>
+      <td>2024-11-17</td>
+      <td>RafaelLuyo</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>develop</td>
+      <td>e0008c5</td>
+      <td>feat: add styles in the component plot</td>
+      <td>2024-11-17</td>
+      <td>Alexis Vargas</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>develop</td>
+      <td>a013009</td>
+      <td>feat(test): commentaries off</td>
+      <td>2024-11-17</td>
+      <td>RafaelLuyo</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>develop</td>
+      <td>fc5f7f5</td>
+      <td>feat(test): plot modified</td>
+      <td>2024-11-17</td>
+      <td>RafaelLuyo</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>develop</td>
+      <td>5773315</td>
+      <td>feat: I hope it doesn't fail</td>
+      <td>2024-11-17</td>
+      <td>Alexis Vargas</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>develop</td>
+      <td>a4d0b8c</td>
+      <td>implement login screen</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>origin/feature/install-nodes</td>
+      <td>453b326</td>
+      <td>fix: new version nodes and plot's</td>
+      <td>2024-11-14</td>
+      <td>Alexis Vargas</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>origin/feature/install-nodes</td>
+      <td>3a77094</td>
+      <td>aa</td>
+      <td>2024-11-14</td>
+      <td>Alexis Vargas</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>develop</td>
+      <td>393fd1a</td>
+      <td>Merge pull request #29 from Grupo-3-IoTeam/feature/plotv2,"feat(plot): plot status view modified"</td>
+      <td>2024-11-12</td>
+      <td>Rafael Luyo</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>origin/feature/plotv2</td>
+      <td>51263c5</td>
+      <td>feat(plot): plot status view modified</td>
+      <td>2024-11-12</td>
+      <td>RafaelLuyo</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedWebApplication</td>
+      <td>develop</td>
+      <td>36ceaf9</td>
+      <td>feat(plotv2): plot register component modified</td>
+      <td>2024-11-11</td>
+      <td>RafaelLuyo</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>main</td>
+      <td>643a3c6</td>
+      <td>feat_x000D_\nattribute to schedule response</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>main</td>
+      <td>0bfaec5</td>
+      <td>feat_x000D_\nattribute to schedule response</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>main</td>
+      <td>8c33141</td>
+      <td>hot-fix: Rename repository function</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>main</td>
+      <td>3cbff43</td>
+      <td>fix: delete unused import</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>main</td>
+      <td>92848ad</td>
+      <td>Merge branch 'develop'</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>feature/new-queries</td>
+      <td>4de24be</td>
+      <td>feat: Add new queries for profile</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>feature/new-queries</td>
+      <td>f65c684</td>
+      <td>Merge branch 'develop'</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>feature/new-queries</td>
+      <td>c9dea88</td>
+      <td>feat: Add new queries for schedule</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>feature/new-queries</td>
+      <td>3b2e8b8</td>
+      <td>feat: allow all origins</td>
+      <td>2024-11-17</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>feature/new-queries</td>
+      <td>3a23350</td>
+      <td>Update application.properties</td>
+      <td>2024-11-16</td>
+      <td>Rafael Luyo</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>feature/new-queries</td>
+      <td>ef46d2f</td>
+      <td>Update application.properties</td>
+      <td>2024-11-16</td>
+      <td>Rafael Luyo</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>feature/new-queries</td>
+      <td>3037ba6</td>
+      <td>Merge branch 'main' into develop</td>
+      <td>2024-11-16</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>feature/new-queries</td>
+      <td>a2bbf24</td>
+      <td>feat: enable delete method</td>
+      <td>2024-11-16</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>feature/new-queries</td>
+      <td>df06c2e</td>
+      <td>Merge branch 'develop'</td>
+      <td>2024-11-16</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>feature/new-queries</td>
+      <td>9acc3bd</td>
+      <td>feat: implement delete endpoints for user, profile and subscription</td>
+      <td>2024-11-16</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>feature/new-queries</td>
+      <td>a5e609b</td>
+      <td>Merge branch 'develop'</td>
+      <td>2024-11-16</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>feature/new-queries</td>
+      <td>6569999999999999731204223439598518272</td>
+      <td>fix: enable requests for all endpoints</td>
+      <td>2024-11-16</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>feature/new-queries</td>
+      <td>435944e</td>
+      <td>Merge branch 'develop'</td>
+      <td>2024-11-16</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>feature/new-queries</td>
+      <td>20f8797</td>
+      <td>fix: unable requests for all endpoints</td>
+      <td>2024-11-16</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>feature/new-queries</td>
+      <td>f4b2a26</td>
+      <td>fix: update db credentials</td>
+      <td>2024-11-15</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/no-auth</td>
+      <td>c14a7f5</td>
+      <td>update: enable endpoints</td>
+      <td>2024-11-15</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/no-auth</td>
+      <td>2d06c2c</td>
+      <td>fix: delete unused imports</td>
+      <td>2024-11-15</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/no-auth</td>
+      <td>e877a5e</td>
+      <td>update: refactor security chain</td>
+      <td>2024-11-15</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/no-auth</td>
+      <td>55c54cd</td>
+      <td>Merge pull request #13 from Grupo-3-IoTeam/develop</td>
+      <td>2024-11-14</td>
+      <td>Rafael Luyo</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/no-auth</td>
+      <td>aaee09b</td>
+      <td>feat(properties): application properties modified</td>
+      <td>2024-11-14</td>
+      <td>Rafael Luyo</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/no-auth</td>
+      <td>9c31b9a</td>
+      <td>Merge pull request #12 from Grupo-3-IoTeam/develop</td>
+      <td>2024-11-14</td>
+      <td>Rafael Luyo</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/no-auth</td>
+      <td>6bd52df</td>
+      <td>Merge pull request #11 from Grupo-3-IoTeam/feature/schedulev2</td>
+      <td>2024-11-14</td>
+      <td>Rafael Luyo</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/schedulev2</td>
+      <td>781d47e</td>
+      <td>feat(schedule): schedule update added</td>
+      <td>2024-11-14</td>
+      <td>Rafael Luyo</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/schedulev3</td>
+      <td>6a12fcd</td>
+      <td>Merge pull request #10 from Grupo-3-IoTeam/develop</td>
+      <td>2024-11-14</td>
+      <td>Kurt Puican Salas</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/schedulev4</td>
+      <td>85d23f8</td>
+      <td>Merge branch 'main' into develop</td>
+      <td>2024-11-14</td>
+      <td>Kurt Puican Salas</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/plotupdel</td>
+      <td>c6eb50e</td>
+      <td>feature/plot_x000D_\nand delete</td>
+      <td>2024-11-14</td>
+      <td>Kurt Puican</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/plotupdel</td>
+      <td>ba609a9</td>
+      <td>Merge pull request #9 from Grupo-3-IoTeam/feature/plotupdel</td>
+      <td>2024-11-14</td>
+      <td>Kurt Puican Salas</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/plotupdel</td>
+      <td>bbe33fe</td>
+      <td>Merge branch 'feature/subscriptions' into develop</td>
+      <td>2024-11-14</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/subscriptions</td>
+      <td>841aa9f</td>
+      <td>fix: refactor aggregates</td>
+      <td>2024-11-14</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/subscriptions</td>
+      <td>cb4d9bd</td>
+      <td>fix: delete unused imports</td>
+      <td>2024-11-14</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/subscriptions</td>
+      <td>3f13bfe</td>
+      <td>update: integrate new headers and properties</td>
+      <td>2024-11-14</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/subscriptions</td>
+      <td>583995b</td>
+      <td>feat: implement interfaces layer</td>
+      <td>2024-11-14</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/subscriptions</td>
+      <td>fb58cee</td>
+      <td>feat: implement interfaces layer</td>
+      <td>2024-11-14</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/subscriptions</td>
+      <td>c929e35</td>
+      <td>feat: implement infrastructure layer</td>
+      <td>2024-11-14</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/subscriptions</td>
+      <td>568801f</td>
+      <td>feat: implement domain layer</td>
+      <td>2024-11-14</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/subscriptions</td>
+      <td>b9f74bb</td>
+      <td>Merge pull request #8 from Grupo-3-IoTeam/feature/nodev4</td>
+      <td>2024-11-14</td>
+      <td>Rafael Luyo</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/nodev4</td>
+      <td>16b66a5</td>
+      <td>feat(node): node update and delete endpoints added</td>
+      <td>2024-11-14</td>
+      <td>Rafael Luyo</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/profile</td>
+      <td>667324f</td>
+      <td>update: db credentials</td>
+      <td>2024-11-13</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/profile</td>
+      <td>e6e4711</td>
+      <td>feat: implement interfaces layer</td>
+      <td>2024-11-13</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/profile</td>
+      <td>8d6a2bb</td>
+      <td>feat: implement application layer</td>
+      <td>2024-11-13</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/profile</td>
+      <td>f0c3bc9</td>
+      <td>feat: implement domain layer</td>
+      <td>2024-11-13</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/profile</td>
+      <td>bfd00f2</td>
+      <td>feat: implement infrastructure layer</td>
+      <td>2024-11-13</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/profile</td>
+      <td>e816593</td>
+      <td>feat: implement domain layer</td>
+      <td>2024-11-13</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/profile</td>
+      <td>1cb7b2a</td>
+      <td>fix: delete unused files</td>
+      <td>2024-11-13</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/profile</td>
+      <td>7c811ab</td>
+      <td>Merge remote-tracking branch 'origin/develop' into develop</td>
+      <td>2024-11-12</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/profile</td>
+      <td>f516f26</td>
+      <td>refractos: plot endpoint</td>
+      <td>2024-11-12</td>
+      <td>Kurt Puican</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/iam</td>
+      <td>19e808b</td>
+      <td>fix: delete unused file</td>
+      <td>2024-11-12</td>
+      <td>Shayla Choque</td>
+    </tr>
+    <tr>
+      <td>ThirstySeedAPI</td>
+      <td>origin/feature/iam</td>
+      <td>bddd813</td>
+      <td>feat: implement iam bounded context</td>
+      <td>2024-11-12</td>
+      <td>Shayla Choque</td>
+    </tr>
+  </tbody>
+</table>
+
 En este apartado se documentan los servicios relacionados con el sistema de riego inteligente. Los endpoints que permiten interactuar con las parcelas (plots), nodos, horarios de riego (schedules), y la información del usuario son descritos en detalle, con ejemplos de las respuestas que pueden ser obtenidas.
 
-#### Tabla de Documentación de Servicios:
+##### Tabla de Documentación de Servicios:
 
 | EndPoint                                                                                  | Acción Implementada                           | Verbo     | Descripción                                                                                                                                                                                                                                                                                    |
 |-------------------------------------------------------------------------------------------|-----------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1298,12 +2074,9 @@ En este apartado se documentan los servicios relacionados con el sistema de rieg
 | `https://thirstyseedapi-production.up.railway.app/api/v1/subscriptions/{subscriptionsId}`             | Elimina el subscriptions por subscriptionsId  | **DELETE**   | Borra el subscriptions por medio de su id|
 
 
-
-
 #### Detalles Adicionales:
 - **Headers Utilizados**: En entornos de producción, estos endpoints pueden requerir un token de autenticación para proteger la información.
 - **Estatus HTTP**: Los endpoints retornan códigos **200 OK** cuando las solicitudes son exitosas. En caso de error, se devuelven códigos **400 Bad Request** o **500 Internal Server Error**.
-
 
 #### 6.2.3.4. Testing Suite Evidence for Sprint Review
 Aquí se proporcionara información sobre las pruebas realizadas durante el sprint.Se detallaran las pruebas funcionales,de rendimiento que se han llevado a cabo para garantizar la calidad del software .Se incluiran los resultados de estas pruebas y cualquier correcion o mejora realizada.
