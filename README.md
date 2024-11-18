@@ -40,144 +40,39 @@ Kurt Matthews Puican Salas - U202016643
 
 
 # Registro de Versiones del Informe
-<table border="1" style="width: 100%; text-align: center; border-collapse: collapse;">
-    <tr>
-        <th style="text-align: center;"><strong>Versión</strong></th>
-        <th style="text-align: center;"><strong>Fecha</strong></th>
-        <th style="text-align: center;"><strong>Autor</strong></th>
-        <th style="text-align: center;"><strong>Descripción de modificación</strong></th>
-    </tr>
-    <tr>
-        <td>TP</td>
-        <td>26/09/2024</td>
-        <td style="text-align: center;">
-            <strong>Shayla Lussiné Choque Puma</strong>
-        </td>
-        <td style="text-align: justify;">
-            Correcciones en Software Architecture(Landscape, context, container and deployment diagrams), Ubiquitous language, Software Configuration, diseño de web app y mobile.
-        </td>
-    </tr>
-    <tr>
-        <td>TP</td>
-        <td>26/09/2024</td>
-        <td style="text-align: center;">
-            <strong>Giakomo Rodolfo Causso Mariano</strong>
-        </td>
-        <td style="text-align: justify;">
-            Correciones en el base diagram, conpletar el wireframes mobile, apartado en codigo en usuario y vistas de parcelas
-        </td>
-    </tr>
-    <tr>
-        <td>TP</td>
-        <td>26/09/2024</td>
-        <td style="text-align: center;">
-            <strong>Manuel Alexis Vargas Quispe</strong>
-        </td>
-        <td style="text-align: justify;">
-            - Realización completa del <strong>landing page</strong><br>
-            - Contribución con la vista “<strong>Activar-Nodos-De-Riego</strong>”<br>
-            - <strong>MockUp</strong> y <strong>Wireframes</strong> del landing page<br>
-            - Mejoras de la entrega pasada (TB1)<br>
-            - <strong>Deploy</strong> landing page<br>
-            - Sprint 1 (Todo referido al <strong>landing page</strong>)<br>
-            - Realización del punto (5.1. Style Guidelines - 5.3.2. Landing Page Mock-up)
-        </td>
-    </tr>
-    <tr>
-        <td>TP</td>
-        <td>26/09/2024</td>
-        <td style="text-align: center;">
-            <strong>Rafael Arturo Luyo Ramirez</strong>
-        </td>
-        <td style="text-align: justify;">
-            - Arreglos de la entrega pasada: <strong>lean ux canvas</strong> actualizado, descripciones de <strong>eventstorming</strong><br>
-            - Ayuda en el tema de <strong>wireflows</strong> y mockups en <strong>figma</strong>, frontend<br>
-            - Vista de estado de parcela y <strong>schedule irrigation</strong><br>
-            - <strong>Deploy</strong> de la web app
-        </td>
-    </tr>
-    <tr>
-        <td>TP</td>
-        <td>26/09/2024</td>
-        <td style="text-align: center;">
-            <strong>Kurt Matthews Puican Salas</strong>
-        </td>
-        <td style="text-align: justify;">
-            - Correcciones varias de la entrega pasada<br>
-            - <strong>Us stories</strong>, <strong>product backlog</strong>, <strong>message flow</strong>, vista registrar nodo y parcela<br>
-            - <strong>Lean ux problem statement</strong>
-        </td>
-    </tr>
-</table>
 
-<table border="1" style="width: 100%; text-align: center; border-collapse: collapse;">
-    <tr>
-        <th style="text-align: center;"><strong>Versión</strong></th>
-        <th style="text-align: center;"><strong>Fecha</strong></th>
-        <th style="text-align: center;"><strong>Autor</strong></th>
-        <th style="text-align: center;"><strong>Descripción de modificación</strong></th>
-    </tr>
-    <tr>
-        <td>TB2</td>
-        <td>26/10/2024</td>
-        <td style="text-align: center;">
-            <strong>Shayla Lussiné Choque Puma</strong>
-        </td>
-        <td style="text-align: justify;">
-            Correcciones en Software Architecture(Landscape, context, container and deployment diagrams), Ubiquitous language, Software Configuration, diseño de web app y mobile.
-        </td>
-    </tr>
-    <tr>
-        <td>TB2</td>
-        <td>26/10/2024</td>
-        <td style="text-align: center;">
-            <strong>Giakomo Rodolfo Causso Mariano</strong>
-        </td>
-        <td style="text-align: justify;">
-            - Realizacion del apartado de MOVIL<br>
-            - actualizacion y mejoras en los puntos de la anterior entrega<br>
-            - Logica de negocio en el MOVIL (SPRINT 2)<br>
-            - About de product<br>
-        </td>
-    </tr>
-    <tr>
-        <td>TB2</td>
-        <td>26/10/2024</td>
-        <td style="text-align: center;">
-            <strong>Manuel Alexis Vargas Quispe</strong>
-        </td>
-        <td style="text-align: justify;">
-            - Realización cambios del <strong>FRONTED</strong><br>
-            - Mejoras de la entrega pasada (TP)<br>
-            - Sprint 2 (Todo referido a las <strong>entrevistas</strong>)<br>
-        </td>
-    </tr>
-    <tr>
-        <td>TB2</td>
-        <td>26/10/2024</td>
-        <td style="text-align: center;">
-            <strong>Rafael Arturo Luyo Ramirez</strong>
-        </td>
-        <td style="text-align: justify;">
-            - Arreglos de la entrega pasada: <strong>lean ux canvas</strong> actualizado, descripciones de <strong>eventstorming</strong><br>
-            - Ayuda en el tema de <strong>wireflows</strong> y mockups en <strong>figma</strong>, frontend<br>
-            - Vista de estado de parcela y <strong>schedule irrigation</strong><br>
-            - <strong>Deploy</strong> de la web app
-        </td>
-    </tr>
-    <tr>
-        <td>TB2</td>
-        <td>26/10/2024</td>
-        <td style="text-align: center;">
-            <strong>Kurt Matthews Puican Salas</strong>
-        </td>
-        <td style="text-align: justify;">
-            - Correcciones varias de la entrega pasada<br>
-            - <strong>Us stories</strong>, <strong>product backlog</strong>, <strong>message flow</strong>, vista registrar nodo y parcela<br>
-            - <strong>Lean ux problem statement</strong>
-        </td>
-    </tr>
-</table>
+
+| Versión   | Fecha       | Autor                                             | Descripción de modificación                                                                 |
+|-----------|-------------|---------------------------------------------------|---------------------------------------------------------------------------------------------|
+| v1.0.0    | 2024-08-16  | Shayla Lussiné Choque Puma                        | Inicialización del repositorio.                                                              |
+| v1.0.1    | 2024-08-17  | Alexis Vargas Quispe                             | Actualización del README.md con información del equipo y archivos del proyecto.             |
+| v1.0.2    | 2024-08-18  | Alexis Vargas Quispe                             | Se añadió una carpeta "assets" para almacenar imágenes utilizadas en los capítulos.          |
+| v1.0.3    | 2024-09-08  | Giakomo Rodolfo Causso Mariano                   | Eliminación de `StudentOutcome.md` y creación de un diagrama de diseño de base de datos.     |
+| v1.0.4    | 2024-09-08  | Kurt Matthews Puican Salas                       | Actualización de los diagramas de componentes y C4 en la documentación.                      |
+| v1.0.5    | 2024-09-08  | Kurt Matthews Puican Salas                       | Adición de nuevos diagramas de diseño de arquitectura.                                      |
+| v1.0.6    | 2024-09-08  | Shayla Lussiné Choque Puma                        | Agregado de los resultados de las entrevistas realizadas.                                     |
+| v1.0.7    | 2024-09-08  | Kurt Matthews Puican Salas                       | Corrección en la estructura de las carpetas y reestructuración de capítulos.                 |
+| v1.0.8    | 2024-09-08  | Alexis Vargas Quispe                             | Actualización de los diagramas de arquitectura y diseño de la base de datos.                |
+| v1.0.9    | 2024-09-08  | Kurt Matthews Puican Salas                       | Actualización de los flujos de mensajes y el diseño de la arquitectura.                     |
+| v1.1.0    | 2024-09-08  | Shayla Lussiné Choque Puma                        | Revisión de los resultados obtenidos durante la primera fase del sprint.                     |
+| v1.1.1    | 2024-09-08  | Giakomo Rodolfo Causso Mariano                   | Modificación en la descripción del `Bounded Context` de la gestión de dispositivos.           |
+| v1.2.0    | 2024-09-17  | Alexis Vargas Quispe                             | Documentación sobre las guías de estilo del proyecto Web, Móvil e IoT.                      |
+| v1.2.1    | 2024-09-27  | Kurt Matthews Puican Salas                       | Adición de documentación sobre las pruebas realizadas durante el Sprint 2.                   |
+| v1.2.2    | 2024-09-27  | Alexis Vargas Quispe                             | Actualización de la documentación de pruebas con resultados y evidencias del Sprint 2.       |
+| v1.2.3    | 2024-09-27  | Rafael Arturo Luyo Ramirez                       | Adición de resultados de `Student Outcome` relacionados con la arquitectura del proyecto.    |
+| v1.3.0    | 2024-10-07  | Alexis Vargas Quispe                             | Revisión y corrección del capítulo V con imágenes actualizadas.                              |
+| v1.3.1    | 2024-10-19  | Shayla Lussiné Choque Puma                        | Actualización de los diagramas de contenedores, C4 y revisión de la estructura del capítulo. |
+| v1.3.2    | 2024-10-19  | Rafael Arturo Luyo Ramirez                       | Revisión del diagrama de contenedores y mejoras en la descripción de los componentes.        |
+| v1.4.0    | 2024-11-02  | Shayla Lussiné Choque Puma                        | Documentación del Sprint 3, avance en el desarrollo de la aplicación.                        |
+| v1.4.1    | 2024-11-02  | Kurt Matthews Puican Salas                       | Adición de resultados y evidencia de pruebas del Sprint 3.                                   |
+| v1.5.0    | 2024-11-02  | Giakomo Rodolfo Causso Mariano                   | Revisión de los resultados de los `GiakoOutcome` y actualización de la sección.             |
+| v1.5.1    | 2024-11-03  | Shayla Lussiné Choque Puma                        | Finalización de capítulos de la documentación, incluyendo entrevistas y resultados.          |
+| v1.6.0    | 2024-11-17  | Shayla Lussiné Choque Puma                        | Ajustes en los capítulos existentes y actualización de la planificación del Sprint 3.         |
+| v1.6.1    | 2024-11-18  | Kurt Matthews Puican Salas                       | Corrección de la sección de pruebas y servicios de la aplicación en la documentación del Sprint 3. |
+| v1.7.0    | 2024-11-18  | Giakomo Rodolfo Causso Mariano                                          | Actualización de la sección de outcomes y adición de nuevos avances relacionados con el GiakoOutcome. |
+| v1.7.1 | 2024-11-18 | Shayla Lussiné Choque Puma | Actualización y corrección del historial de versiones. |
+
+
 
 # Project Report Collaboration # Insights
 <table border="1" style="width: 100%; text-align: center;">
